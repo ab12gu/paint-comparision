@@ -29,22 +29,31 @@ def distance_formula(x1, x2, y1, y2, z1, z2):
 input_SW_directory1 = "./SherwinWilliams/SW_json/SW_Emerald_Designer_Edition.json"
 input_SW_directory2 = "./SherwinWilliams/SW_json/SW-ColorSnap.json"
 
-with open(input_SW_directory1) as input_file:
-    data = json.load(input_file)
-
-pp = pprint.PrettyPrinter(indent=4)
-pp.pprint(data)
-
 rdata = []
 gdata = []
 bdata = []
 name_data = []
+
+with open(input_SW_directory1) as input_file:
+    data = json.load(input_file)
 
 for i in range(0, len(data)):
     rdata.append(int(data[i].get('R')))
     gdata.append(int(data[i].get('G')))
     bdata.append(int(data[i].get('B')))
     name_data.append(data[i].get('Color Name'))
+
+with open(input_SW_directory2) as input_file:
+    data = json.load(input_file)
+
+for i in range(1, len(data)):
+    rdata.append(int(data[i].get('field4')))
+    gdata.append(int(data[i].get('field5')))
+    bdata.append(int(data[i].get('field6')))
+    name_data.append(data[i].get('field2'))
+
+#pp = pprint.PrettyPrinter(indent=4)
+#pp.pprint(data)
 
 fig = plt.figure()
 ax = plt.axes(projection='3d')
@@ -126,9 +135,13 @@ new_list = [['first', 'second'], ['third', 'four'], [1, 2, 3, 4, 5, 6]]
 with xlsxwriter.Workbook('test.xlsx') as workbook:
     worksheet = workbook.add_worksheet()
 
+
+    worksheet.write(0, 0, 'Benjamin Moore')
+    worksheet.write(1, 0, 'Shermin Williams')
+
     for row_num, data in enumerate(name_dataMB):
-        worksheet.write(row_num, 0, data)
-        worksheet.write(row_num, 1, closest_colorSW[row_num])
+        worksheet.write(row_num+1, 0, data)
+        worksheet.write(row_num+1, 1, closest_colorSW[row_num])
 
 
 #print(name_dataMB)
