@@ -25,3 +25,10 @@ https://jsonformatter.org/xml-parser
 
 #### XML to JSON
 https://codebeautify.org/xmltojson
+
+### FLASK WEB HOSTING
+https://stevenloria.com/hosting-static-flask-sites-on-github-pages/
+
+https://flask.palletsprojects.com/en/2.0.x/
+
+https://pythonhosted.org/Frozen-Flask/

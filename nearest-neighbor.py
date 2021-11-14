@@ -64,7 +64,12 @@ ax = plt.axes(projection='3d')
 
 # Data for three-dimensional scattered points
 ax.scatter(rdata, gdata, bdata, marker='o');
-#plt.show()
+ax.set_xlabel('Red axis')
+ax.set_ylabel('Green axis')
+ax.set_zlabel('Blue axis')
+
+
+plt.show()
 
 # Import Benjamin Moore Data
 input_BM_directory = "./BenjaminMoore/BM_JSON/"
