@@ -64,7 +64,7 @@ ax = plt.axes(projection='3d')
 
 # Data for three-dimensional scattered points
 ax.scatter(rdata, gdata, bdata, marker='o');
-plt.show()
+#plt.show()
 
 # Import Benjamin Moore Data
 input_BM_directory = "./BenjaminMoore/BM_JSON/"
@@ -82,6 +82,9 @@ gdataMB = []
 bdataMB = []
 name_dataMB = []
 
+
+# iterate through both SW and BM Files and determine which points are closest to each other
+
 for i in range(0, len(input_filename)):
     with open(input_BM_directory + input_filename[i], 'r') as input_file:
         data = json.load(input_file)
@@ -96,12 +99,14 @@ for i in range(0, len(input_filename)):
                 bdataMB.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('blue'))
                 name_dataMB.append(data['colorBook']['colorPage'][i]['colorEntry'][j].get('colorName'))
 
-closest_colorSW = []
+closest_colorSW_name = []
+closest_colorSW_hex = []
 
 for i in range(0, len(name_dataMB)):
     distance = 0
     min_distance = 256*3
-    closest_color = ""
+    closest_color_name = ""
+    closest_color_hex = ""
 
     for j in range(0, len(name_data)):
         r1 = rdata[j]
@@ -114,35 +119,43 @@ for i in range(0, len(name_dataMB)):
         if (distance < min_distance):
             #print(min_distance)
             #print(distance)
-            closest_color = name_data[j]
+            closest_color_name = name_data[j]
             min_distance = distance
             
     #print(closest_color)
 
-    closest_colorSW.append(closest_color)
+    closest_colorSW_name.append(closest_color_name)
+    closest_colorSW_hex.append(closest_color_hex)
 
 #print(rdata)
 #print(rdataMB)
 
-
 #print(len(bdataMB))
 #print(len(name_dataMB))
 
+
+# Write to excel sheet
+
 import xlsxwriter
 
-new_list = [['first', 'second'], ['third', 'four'], [1, 2, 3, 4, 5, 6]]
+with xlsxwriter.Workbook('SW-BM-chart.xlsx') as workbook:
+    workbook.add_format().set_bg_color('#0000FF')
+    #worksheet = workbook.add_format({'bg_color': 'yellow'})
 
-with xlsxwriter.Workbook('test.xlsx') as workbook:
+    bold   = workbook.add_format({'bold': True})
+    header_color   = workbook.add_format({'bg_color': '#ADD8E6'})
+
     worksheet = workbook.add_worksheet()
 
+    worksheet.set_column(0, 1, 30)
 
-    worksheet.write(0, 0, 'Benjamin Moore')
-    worksheet.write(1, 0, 'Shermin Williams')
+    worksheet.write(0, 0, 'Benjamin Moore', header_color)
+    worksheet.write(0, 1, 'Shermin Williams', header_color)
 
     for row_num, data in enumerate(name_dataMB):
+        data = data.split(' ', 1)[1]
         worksheet.write(row_num+1, 0, data)
-        worksheet.write(row_num+1, 1, closest_colorSW[row_num])
-
+        worksheet.write(row_num+1, 1, closest_colorSW_name[row_num])
 
 #print(name_dataMB)
 #print(closest_colorSW)
