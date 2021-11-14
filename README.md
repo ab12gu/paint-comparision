@@ -32,3 +32,4 @@ https://stevenloria.com/hosting-static-flask-sites-on-github-pages/
 https://flask.palletsprojects.com/en/2.0.x/
 
 https://pythonhosted.org/Frozen-Flask/
+
