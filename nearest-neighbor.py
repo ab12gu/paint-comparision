@@ -77,13 +77,13 @@ for filename in os.listdir(input_BM_directory):
 
 #print(input_filename)
 
-rdataMB = []
-gdataMB = []
-bdataMB = []
+rdataBM = []
+gdataBM = []
+bdataBM = []
 name_dataMB = []
 
 
-# iterate through both SW and BM Files and determine which points are closest to each other
+# iterate through all BM data and store rgb and name values
 
 for i in range(0, len(input_filename)):
     with open(input_BM_directory + input_filename[i], 'r') as input_file:
@@ -94,14 +94,20 @@ for i in range(0, len(input_filename)):
         #print(data['colorBook']['colorPage'][1]['colorEntry'][1]['RGB8'].get('blue'))
         for i in range(0,len(data['colorBook']['colorPage'])):
             for j in range(0,len(data['colorBook']['colorPage'][i]['colorEntry'])):
-                rdataMB.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('red'))
-                gdataMB.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('green'))
-                bdataMB.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('blue'))
+                rdataBM.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('red'))
+                gdataBM.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('green'))
+                bdataBM.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('blue'))
                 name_dataMB.append(data['colorBook']['colorPage'][i]['colorEntry'][j].get('colorName'))
 
 closest_colorSW_name = []
 closest_colorSW_hex = []
 
+# find hex values of all BM data
+colorBM_hex = []
+for i in range(0, len(name_dataMB)):
+    colorBM_hex.append('#%02x%02x%02x' % (rdataBM[i], gdataBM[i], bdataBM[i]))
+
+# iterate through both SW and BM Files and determine which points are closest to each other
 for i in range(0, len(name_dataMB)):
     distance = 0
     min_distance = 256*3
@@ -110,17 +116,18 @@ for i in range(0, len(name_dataMB)):
 
     for j in range(0, len(name_data)):
         r1 = rdata[j]
-        r2 = rdataMB[i]
+        r2 = rdataBM[i]
         g1 = gdata[j]
-        g2 = gdataMB[i]
+        g2 = gdataBM[i]
         b1 = bdata[j]
-        b2 = bdataMB[i]
+        b2 = bdataBM[i]
         distance = distance_formula(r1, r2, g1, g2, b1, b2)
         if (distance < min_distance):
             #print(min_distance)
             #print(distance)
             closest_color_name = name_data[j]
             min_distance = distance
+            closest_color_hex = '#%02x%02x%02x' % (rdata[j], gdata[j], bdata[j])
             
     #print(closest_color)
 
@@ -128,9 +135,9 @@ for i in range(0, len(name_dataMB)):
     closest_colorSW_hex.append(closest_color_hex)
 
 #print(rdata)
-#print(rdataMB)
+#print(rdataBM)
 
-#print(len(bdataMB))
+#print(len(bdataBM))
 #print(len(name_dataMB))
 
 
@@ -153,9 +160,19 @@ with xlsxwriter.Workbook('SW-BM-chart.xlsx') as workbook:
     worksheet.write(0, 1, 'Shermin Williams', header_color)
 
     for row_num, data in enumerate(name_dataMB):
+
+        # add color to background
+        dataSW_color   = workbook.add_format({'bg_color': closest_colorSW_hex[row_num]})
+        dataBM_color   = workbook.add_format({'bg_color': colorBM_hex[row_num]})
+
+        # remove number prefix
         data = data.split(' ', 1)[1]
-        worksheet.write(row_num+1, 0, data)
-        worksheet.write(row_num+1, 1, closest_colorSW_name[row_num])
+
+        # write bm data
+        worksheet.write(row_num+1, 0, data, dataBM_color)
+
+        # write sw data
+        worksheet.write(row_num+1, 1, closest_colorSW_name[row_num], dataSW_color)
 
 #print(name_dataMB)
 #print(closest_colorSW)
