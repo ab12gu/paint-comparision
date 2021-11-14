@@ -1,0 +1,1843 @@
+{
+  "colorBook": {
+    "bookName": "Historical Colors",
+    "colorPage": [
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-1 Castleton Mist",
+            "RGB8": {
+              "red": 219,
+              "green": 212,
+              "blue": 162
+            }
+          },
+          {
+            "colorName": "HC-2 Beacon Hill Damask",
+            "RGB8": {
+              "red": 230,
+              "green": 220,
+              "blue": 172
+            }
+          },
+          {
+            "colorName": "HC-3 Greenmount Silk",
+            "RGB8": {
+              "red": 237,
+              "green": 229,
+              "blue": 197
+            }
+          },
+          {
+            "colorName": "HC-4 Hawthorne Yellow",
+            "RGB8": {
+              "red": 246,
+              "green": 226,
+              "blue": 165
+            }
+          },
+          {
+            "colorName": "HC-5 Weston Flax",
+            "RGB8": {
+              "red": 243,
+              "green": 230,
+              "blue": 187
+            }
+          },
+          {
+            "colorName": "HC-6 Windham Cream",
+            "RGB8": {
+              "red": 246,
+              "green": 234,
+              "blue": 200
+            }
+          },
+          {
+            "colorName": "HC-7 Bryant Gold",
+            "RGB8": {
+              "red": 214,
+              "green": 167,
+              "blue": 96
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-8 Dorset Gold",
+            "RGB8": {
+              "red": 222,
+              "green": 183,
+              "blue": 116
+            }
+          },
+          {
+            "colorName": "HC-9 Chestertown Buff",
+            "RGB8": {
+              "red": 222,
+              "green": 192,
+              "blue": 135
+            }
+          },
+          {
+            "colorName": "HC-10 Stuart Gold",
+            "RGB8": {
+              "red": 223,
+              "green": 185,
+              "blue": 103
+            }
+          },
+          {
+            "colorName": "HC-11 Marblehead Gold",
+            "RGB8": {
+              "red": 226,
+              "green": 197,
+              "blue": 121
+            }
+          },
+          {
+            "colorName": "HC-12 Concord Ivory",
+            "RGB8": {
+              "red": 232,
+              "green": 206,
+              "blue": 142
+            }
+          },
+          {
+            "colorName": "HC-13 Millington Gold",
+            "RGB8": {
+              "red": 185,
+              "green": 157,
+              "blue": 92
+            }
+          },
+          {
+            "colorName": "HC-14 Princeton Gold",
+            "RGB8": {
+              "red": 195,
+              "green": 171,
+              "blue": 109
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-15 Henderson Buff",
+            "RGB8": {
+              "red": 204,
+              "green": 187,
+              "blue": 133
+            }
+          },
+          {
+            "colorName": "HC-16 Livingston Gold",
+            "RGB8": {
+              "red": 161,
+              "green": 140,
+              "blue": 96
+            }
+          },
+          {
+            "colorName": "HC-17 Summerdale Gold",
+            "RGB8": {
+              "red": 194,
+              "green": 169,
+              "blue": 116
+            }
+          },
+          {
+            "colorName": "HC-18 Adams Gold",
+            "RGB8": {
+              "red": 219,
+              "green": 203,
+              "blue": 157
+            }
+          },
+          {
+            "colorName": "HC-19 Norwich Brown",
+            "RGB8": {
+              "red": 150,
+              "green": 129,
+              "blue": 94
+            }
+          },
+          {
+            "colorName": "HC-20 Woodstock Tan",
+            "RGB8": {
+              "red": 164,
+              "green": 144,
+              "blue": 107
+            }
+          },
+          {
+            "colorName": "HC-21 Huntington Beige",
+            "RGB8": {
+              "red": 187,
+              "green": 169,
+              "blue": 136
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-22 Blair Gold",
+            "RGB8": {
+              "red": 189,
+              "green": 165,
+              "blue": 113
+            }
+          },
+          {
+            "colorName": "HC-23 Yorkshire Tan",
+            "RGB8": {
+              "red": 193,
+              "green": 177,
+              "blue": 141
+            }
+          },
+          {
+            "colorName": "HC-24 Pittsfield Buff",
+            "RGB8": {
+              "red": 222,
+              "green": 205,
+              "blue": 168
+            }
+          },
+          {
+            "colorName": "HC-25 Quincy Tan",
+            "RGB8": {
+              "red": 192,
+              "green": 175,
+              "blue": 141
+            }
+          },
+          {
+            "colorName": "HC-26 Monroe Bisque",
+            "RGB8": {
+              "red": 219,
+              "green": 203,
+              "blue": 171
+            }
+          },
+          {
+            "colorName": "HC-27 Monterey White",
+            "RGB8": {
+              "red": 234,
+              "green": 230,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "HC-28 Shelburne Buff",
+            "RGB8": {
+              "red": 204,
+              "green": 182,
+              "blue": 142
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-29 Dunmore Cream",
+            "RGB8": {
+              "red": 223,
+              "green": 207,
+              "blue": 167
+            }
+          },
+          {
+            "colorName": "HC-30 Philadelphia Cream",
+            "RGB8": {
+              "red": 238,
+              "green": 222,
+              "blue": 184
+            }
+          },
+          {
+            "colorName": "HC-31 Waterbury Cream",
+            "RGB8": {
+              "red": 222,
+              "green": 203,
+              "blue": 155
+            }
+          },
+          {
+            "colorName": "HC-32 Standish White",
+            "RGB8": {
+              "red": 236,
+              "green": 220,
+              "blue": 186
+            }
+          },
+          {
+            "colorName": "HC-33 Montgomery White",
+            "RGB8": {
+              "red": 245,
+              "green": 227,
+              "blue": 193
+            }
+          },
+          {
+            "colorName": "HC-34 Wilmington Tan",
+            "RGB8": {
+              "red": 205,
+              "green": 177,
+              "blue": 133
+            }
+          },
+          {
+            "colorName": "HC-35 Powell Buff",
+            "RGB8": {
+              "red": 223,
+              "green": 205,
+              "blue": 168
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-36 Hepplewhite Ivory",
+            "RGB8": {
+              "red": 244,
+              "green": 230,
+              "blue": 196
+            }
+          },
+          {
+            "colorName": "HC-37 Mystic Gold",
+            "RGB8": {
+              "red": 168,
+              "green": 137,
+              "blue": 92
+            }
+          },
+          {
+            "colorName": "HC-38 Decatur Buff",
+            "RGB8": {
+              "red": 194,
+              "green": 168,
+              "blue": 126
+            }
+          },
+          {
+            "colorName": "HC-39 Putnam Ivory",
+            "RGB8": {
+              "red": 219,
+              "green": 202,
+              "blue": 172
+            }
+          },
+          {
+            "colorName": "HC-40 Greenfield Pumpkin",
+            "RGB8": {
+              "red": 156,
+              "green": 114,
+              "blue": 74
+            }
+          },
+          {
+            "colorName": "HC-41 Richmond Gold",
+            "RGB8": {
+              "red": 184,
+              "green": 146,
+              "blue": 100
+            }
+          },
+          {
+            "colorName": "HC-42 Roxbury Caramel",
+            "RGB8": {
+              "red": 203,
+              "green": 164,
+              "blue": 121
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-43 Tyler Taupe",
+            "RGB8": {
+              "red": 178,
+              "green": 151,
+              "blue": 112
+            }
+          },
+          {
+            "colorName": "HC-44 Lenox Tan",
+            "RGB8": {
+              "red": 195,
+              "green": 175,
+              "blue": 143
+            }
+          },
+          {
+            "colorName": "HC-45 Shaker Beige",
+            "RGB8": {
+              "red": 210,
+              "green": 195,
+              "blue": 168
+            }
+          },
+          {
+            "colorName": "HC-46 Jackson Tan",
+            "RGB8": {
+              "red": 171,
+              "green": 138,
+              "blue": 107
+            }
+          },
+          {
+            "colorName": "HC-47 Brookline Beige",
+            "RGB8": {
+              "red": 193,
+              "green": 167,
+              "blue": 138
+            }
+          },
+          {
+            "colorName": "HC-48 Bradstreet Beige",
+            "RGB8": {
+              "red": 210,
+              "green": 190,
+              "blue": 165
+            }
+          },
+          {
+            "colorName": "HC-49 Mayflower Red",
+            "RGB8": {
+              "red": 159,
+              "green": 99,
+              "blue": 78
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-50 Georgian Brick",
+            "RGB8": {
+              "red": 153,
+              "green": 90,
+              "blue": 74
+            }
+          },
+          {
+            "colorName": "HC-51 Audubon Russet",
+            "RGB8": {
+              "red": 175,
+              "green": 108,
+              "blue": 86
+            }
+          },
+          {
+            "colorName": "HC-52 Ansonia Peach",
+            "RGB8": {
+              "red": 232,
+              "green": 180,
+              "blue": 137
+            }
+          },
+          {
+            "colorName": "HC-53 Hathaway Peach",
+            "RGB8": {
+              "red": 242,
+              "green": 203,
+              "blue": 168
+            }
+          },
+          {
+            "colorName": "HC-54 Jumel Peachtone",
+            "RGB8": {
+              "red": 242,
+              "green": 214,
+              "blue": 184
+            }
+          },
+          {
+            "colorName": "HC-55 Winthrop Peach",
+            "RGB8": {
+              "red": 206,
+              "green": 170,
+              "blue": 145
+            }
+          },
+          {
+            "colorName": "HC-56 Georgetown Pink Beige",
+            "RGB8": {
+              "red": 224,
+              "green": 194,
+              "blue": 172
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-57 Sheraton Beige",
+            "RGB8": {
+              "red": 235,
+              "green": 212,
+              "blue": 188
+            }
+          },
+          {
+            "colorName": "HC-58 Chippendale Rosetone",
+            "RGB8": {
+              "red": 215,
+              "green": 180,
+              "blue": 164
+            }
+          },
+          {
+            "colorName": "HC-59 Odessa Pink",
+            "RGB8": {
+              "red": 227,
+              "green": 201,
+              "blue": 187
+            }
+          },
+          {
+            "colorName": "HC-60 Queen Anne Pink",
+            "RGB8": {
+              "red": 242,
+              "green": 218,
+              "blue": 199
+            }
+          },
+          {
+            "colorName": "HC-61 New London Burgundy",
+            "RGB8": {
+              "red": 118,
+              "green": 76,
+              "blue": 79
+            }
+          },
+          {
+            "colorName": "HC-62 Somerville Red",
+            "RGB8": {
+              "red": 155,
+              "green": 110,
+              "blue": 108
+            }
+          },
+          {
+            "colorName": "HC-63 Monticello Rose",
+            "RGB8": {
+              "red": 209,
+              "green": 175,
+              "blue": 160
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-64 Townsend Harbor Brown",
+            "RGB8": {
+              "red": 100,
+              "green": 70,
+              "blue": 68
+            }
+          },
+          {
+            "colorName": "HC-65 Hodley Red",
+            "RGB8": {
+              "red": 120,
+              "green": 78,
+              "blue": 75
+            }
+          },
+          {
+            "colorName": "HC-66 Garrison Red",
+            "RGB8": {
+              "red": 141,
+              "green": 90,
+              "blue": 87
+            }
+          },
+          {
+            "colorName": "HC-67 Clinton Brown",
+            "RGB8": {
+              "red": 102,
+              "green": 86,
+              "blue": 75
+            }
+          },
+          {
+            "colorName": "HC-68 Middlebury Brown",
+            "RGB8": {
+              "red": 106,
+              "green": 90,
+              "blue": 78
+            }
+          },
+          {
+            "colorName": "HC-69 Whitall Brown",
+            "RGB8": {
+              "red": 124,
+              "green": 109,
+              "blue": 94
+            }
+          },
+          {
+            "colorName": "HC-70 Van Buren Brown",
+            "RGB8": {
+              "red": 96,
+              "green": 80,
+              "blue": 71
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-71 Hasbrouck Brown",
+            "RGB8": {
+              "red": 102,
+              "green": 77,
+              "blue": 68
+            }
+          },
+          {
+            "colorName": "HC-72 Branchport Brown",
+            "RGB8": {
+              "red": 97,
+              "green": 82,
+              "blue": 75
+            }
+          },
+          {
+            "colorName": "HC-73 Plymouth Brown",
+            "RGB8": {
+              "red": 128,
+              "green": 103,
+              "blue": 79
+            }
+          },
+          {
+            "colorName": "HC-74 Valley Forge Brown",
+            "RGB8": {
+              "red": 147,
+              "green": 115,
+              "blue": 85
+            }
+          },
+          {
+            "colorName": "HC-75 Maryville Brown",
+            "RGB8": {
+              "red": 158,
+              "green": 120,
+              "blue": 87
+            }
+          },
+          {
+            "colorName": "HC-76 Davenport Tan",
+            "RGB8": {
+              "red": 139,
+              "green": 120,
+              "blue": 101
+            }
+          },
+          {
+            "colorName": "HC-77 Alexandria Beige",
+            "RGB8": {
+              "red": 164,
+              "green": 147,
+              "blue": 125
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-78 Litchfield Gray",
+            "RGB8": {
+              "red": 214,
+              "green": 203,
+              "blue": 188
+            }
+          },
+          {
+            "colorName": "HC-79 Greenbrier Beige",
+            "RGB8": {
+              "red": 188,
+              "green": 172,
+              "blue": 143
+            }
+          },
+          {
+            "colorName": "HC-80 Bleeker Beige",
+            "RGB8": {
+              "red": 206,
+              "green": 193,
+              "blue": 169
+            }
+          },
+          {
+            "colorName": "HC-81 Manchester Tan",
+            "RGB8": {
+              "red": 220,
+              "green": 211,
+              "blue": 189
+            }
+          },
+          {
+            "colorName": "HC-82 Bennington Gray",
+            "RGB8": {
+              "red": 195,
+              "green": 182,
+              "blue": 155
+            }
+          },
+          {
+            "colorName": "HC-83 Grant Beige",
+            "RGB8": {
+              "red": 207,
+              "green": 198,
+              "blue": 177
+            }
+          },
+          {
+            "colorName": "HC-84 Elmira White",
+            "RGB8": {
+              "red": 220,
+              "green": 212,
+              "blue": 196
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-85 Fairview Taupe",
+            "RGB8": {
+              "red": 125,
+              "green": 114,
+              "blue": 98
+            }
+          },
+          {
+            "colorName": "HC-86 Kingsport Gray",
+            "RGB8": {
+              "red": 149,
+              "green": 135,
+              "blue": 117
+            }
+          },
+          {
+            "colorName": "HC-87 Ashley Gray",
+            "RGB8": {
+              "red": 166,
+              "green": 155,
+              "blue": 142
+            }
+          },
+          {
+            "colorName": "HC-88 Jamesboro Gold",
+            "RGB8": {
+              "red": 152,
+              "green": 133,
+              "blue": 103
+            }
+          },
+          {
+            "colorName": "HC-89 Northampton Putty",
+            "RGB8": {
+              "red": 173,
+              "green": 157,
+              "blue": 125
+            }
+          },
+          {
+            "colorName": "HC-90 Crown Point Sand",
+            "RGB8": {
+              "red": 207,
+              "green": 196,
+              "blue": 165
+            }
+          },
+          {
+            "colorName": "HC-91 Danville Tan",
+            "RGB8": {
+              "red": 188,
+              "green": 172,
+              "blue": 137
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-92 Wheeling Neutral",
+            "RGB8": {
+              "red": 207,
+              "green": 191,
+              "blue": 161
+            }
+          },
+          {
+            "colorName": "HC-93 Carrington Beige",
+            "RGB8": {
+              "red": 219,
+              "green": 210,
+              "blue": 184
+            }
+          },
+          {
+            "colorName": "HC-94 Old Salem Gray",
+            "RGB8": {
+              "red": 165,
+              "green": 155,
+              "blue": 122
+            }
+          },
+          {
+            "colorName": "HC-95 Sag Harbor Gray",
+            "RGB8": {
+              "red": 185,
+              "green": 175,
+              "blue": 150
+            }
+          },
+          {
+            "colorName": "HC-96 Richmond Gray",
+            "RGB8": {
+              "red": 207,
+              "green": 200,
+              "blue": 171
+            }
+          },
+          {
+            "colorName": "HC-97 Hancock Gray",
+            "RGB8": {
+              "red": 151,
+              "green": 142,
+              "blue": 113
+            }
+          },
+          {
+            "colorName": "HC-98 Providence Olive",
+            "RGB8": {
+              "red": 173,
+              "green": 162,
+              "blue": 131
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-99 Abingdon Putty",
+            "RGB8": {
+              "red": 215,
+              "green": 207,
+              "blue": 178
+            }
+          },
+          {
+            "colorName": "HC-100 Gloucester Sage",
+            "RGB8": {
+              "red": 124,
+              "green": 119,
+              "blue": 102
+            }
+          },
+          {
+            "colorName": "HC-101 Hampshire Gray",
+            "RGB8": {
+              "red": 145,
+              "green": 138,
+              "blue": 115
+            }
+          },
+          {
+            "colorName": "HC-102 Clarksville Gray",
+            "RGB8": {
+              "red": 179,
+              "green": 170,
+              "blue": 145
+            }
+          },
+          {
+            "colorName": "HC-103 Cromwell Gray",
+            "RGB8": {
+              "red": 128,
+              "green": 120,
+              "blue": 103
+            }
+          },
+          {
+            "colorName": "HC-104 Copley Gray",
+            "RGB8": {
+              "red": 146,
+              "green": 139,
+              "blue": 121
+            }
+          },
+          {
+            "colorName": "HC-105 Rockport Gray",
+            "RGB8": {
+              "red": 169,
+              "green": 163,
+              "blue": 150
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-106 Crownsville Gray",
+            "RGB8": {
+              "red": 135,
+              "green": 128,
+              "blue": 106
+            }
+          },
+          {
+            "colorName": "HC-107 Gettysburg Gray",
+            "RGB8": {
+              "red": 155,
+              "green": 151,
+              "blue": 133
+            }
+          },
+          {
+            "colorName": "HC-108 Sandy Hook Gray",
+            "RGB8": {
+              "red": 175,
+              "green": 169,
+              "blue": 152
+            }
+          },
+          {
+            "colorName": "HC-109 Sussex Green",
+            "RGB8": {
+              "red": 129,
+              "green": 125,
+              "blue": 101
+            }
+          },
+          {
+            "colorName": "HC-110 Wethersfield Moss",
+            "RGB8": {
+              "red": 144,
+              "green": 142,
+              "blue": 114
+            }
+          },
+          {
+            "colorName": "HC-111 Nantucket Gray",
+            "RGB8": {
+              "red": 176,
+              "green": 172,
+              "blue": 148
+            }
+          },
+          {
+            "colorName": "HC-112 Tate Olive",
+            "RGB8": {
+              "red": 130,
+              "green": 129,
+              "blue": 103
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-113 Louisburg Green",
+            "RGB8": {
+              "red": 157,
+              "green": 159,
+              "blue": 136
+            }
+          },
+          {
+            "colorName": "HC-114 Saybrook Sage",
+            "RGB8": {
+              "red": 178,
+              "green": 184,
+              "blue": 163
+            }
+          },
+          {
+            "colorName": "HC-115 Georgian Green",
+            "RGB8": {
+              "red": 186,
+              "green": 184,
+              "blue": 145
+            }
+          },
+          {
+            "colorName": "HC-116 Guilford Green",
+            "RGB8": {
+              "red": 204,
+              "green": 206,
+              "blue": 175
+            }
+          },
+          {
+            "colorName": "HC-117 Hancock Green",
+            "RGB8": {
+              "red": 213,
+              "green": 219,
+              "blue": 192
+            }
+          },
+          {
+            "colorName": "HC-118 Sherwood Green",
+            "RGB8": {
+              "red": 170,
+              "green": 182,
+              "blue": 150
+            }
+          },
+          {
+            "colorName": "HC-119 Kittery Point Green",
+            "RGB8": {
+              "red": 192,
+              "green": 204,
+              "blue": 174
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-120 Van Alen Green",
+            "RGB8": {
+              "red": 203,
+              "green": 216,
+              "blue": 193
+            }
+          },
+          {
+            "colorName": "HC-121 Peale Green",
+            "RGB8": {
+              "red": 89,
+              "green": 107,
+              "blue": 85
+            }
+          },
+          {
+            "colorName": "HC-122 Great Barrington Green",
+            "RGB8": {
+              "red": 122,
+              "green": 129,
+              "blue": 101
+            }
+          },
+          {
+            "colorName": "HC-123 Kennebunkport Green",
+            "RGB8": {
+              "red": 146,
+              "green": 158,
+              "blue": 131
+            }
+          },
+          {
+            "colorName": "HC-124 Caldwell Green",
+            "RGB8": {
+              "red": 99,
+              "green": 113,
+              "blue": 104
+            }
+          },
+          {
+            "colorName": "HC-125 Cushing Green",
+            "RGB8": {
+              "red": 105,
+              "green": 119,
+              "blue": 103
+            }
+          },
+          {
+            "colorName": "HC-126 Avon Green",
+            "RGB8": {
+              "red": 116,
+              "green": 128,
+              "blue": 107
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-127 Fairmont Green",
+            "RGB8": {
+              "red": 100,
+              "green": 133,
+              "blue": 106
+            }
+          },
+          {
+            "colorName": "HC-128 Clearspring Green",
+            "RGB8": {
+              "red": 118,
+              "green": 155,
+              "blue": 129
+            }
+          },
+          {
+            "colorName": "HC-129 Southfield Green",
+            "RGB8": {
+              "red": 136,
+              "green": 172,
+              "blue": 148
+            }
+          },
+          {
+            "colorName": "HC-130 Webster Green",
+            "RGB8": {
+              "red": 101,
+              "green": 129,
+              "blue": 109
+            }
+          },
+          {
+            "colorName": "HC-131 Lehigh Green",
+            "RGB8": {
+              "red": 118,
+              "green": 150,
+              "blue": 126
+            }
+          },
+          {
+            "colorName": "HC-132 Harrisburg Green",
+            "RGB8": {
+              "red": 139,
+              "green": 172,
+              "blue": 153
+            }
+          },
+          {
+            "colorName": "HC-133 Yorktowne Green",
+            "RGB8": {
+              "red": 71,
+              "green": 91,
+              "blue": 94
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-134 Tarrytown Green",
+            "RGB8": {
+              "red": 66,
+              "green": 88,
+              "blue": 83
+            }
+          },
+          {
+            "colorName": "HC-135 Lafayette Green",
+            "RGB8": {
+              "red": 73,
+              "green": 97,
+              "blue": 86
+            }
+          },
+          {
+            "colorName": "HC-136 Waterbury Green",
+            "RGB8": {
+              "red": 109,
+              "green": 146,
+              "blue": 136
+            }
+          },
+          {
+            "colorName": "HC-137 Mill Springs Blue",
+            "RGB8": {
+              "red": 126,
+              "green": 162,
+              "blue": 155
+            }
+          },
+          {
+            "colorName": "HC-138 Covington Blue",
+            "RGB8": {
+              "red": 148,
+              "green": 182,
+              "blue": 173
+            }
+          },
+          {
+            "colorName": "HC-139 Salisbury Green",
+            "RGB8": {
+              "red": 177,
+              "green": 187,
+              "blue": 165
+            }
+          },
+          {
+            "colorName": "HC-140 Prescott Green",
+            "RGB8": {
+              "red": 191,
+              "green": 202,
+              "blue": 184
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-141 Hollingsworth Green",
+            "RGB8": {
+              "red": 205,
+              "green": 213,
+              "blue": 197
+            }
+          },
+          {
+            "colorName": "HC-142 Stratton Blue",
+            "RGB8": {
+              "red": 148,
+              "green": 170,
+              "blue": 161
+            }
+          },
+          {
+            "colorName": "HC-143 Wythe Blue",
+            "RGB8": {
+              "red": 171,
+              "green": 191,
+              "blue": 181
+            }
+          },
+          {
+            "colorName": "HC-144 Palladian Blue",
+            "RGB8": {
+              "red": 194,
+              "green": 210,
+              "blue": 202
+            }
+          },
+          {
+            "colorName": "HC-145 Van Courtland Blue",
+            "RGB8": {
+              "red": 135,
+              "green": 153,
+              "blue": 159
+            }
+          },
+          {
+            "colorName": "HC-146 Wedgewood Gray",
+            "RGB8": {
+              "red": 173,
+              "green": 192,
+              "blue": 190
+            }
+          },
+          {
+            "colorName": "HC-147 Woodlawn Blue",
+            "RGB8": {
+              "red": 194,
+              "green": 209,
+              "blue": 203
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-148 Jamestown Blue",
+            "RGB8": {
+              "red": 131,
+              "green": 161,
+              "blue": 167
+            }
+          },
+          {
+            "colorName": "HC-149 Buxton Blue",
+            "RGB8": {
+              "red": 158,
+              "green": 183,
+              "blue": 187
+            }
+          },
+          {
+            "colorName": "HC-150 Yarmouth Blue",
+            "RGB8": {
+              "red": 182,
+              "green": 201,
+              "blue": 202
+            }
+          },
+          {
+            "colorName": "HC-151 Buckland Blue",
+            "RGB8": {
+              "red": 98,
+              "green": 135,
+              "blue": 152
+            }
+          },
+          {
+            "colorName": "HC-152 Whipple Blue",
+            "RGB8": {
+              "red": 119,
+              "green": 159,
+              "blue": 177
+            }
+          },
+          {
+            "colorName": "HC-153 Marlboro Blue",
+            "RGB8": {
+              "red": 150,
+              "green": 186,
+              "blue": 199
+            }
+          },
+          {
+            "colorName": "HC-154 Hale Navy",
+            "RGB8": {
+              "red": 68,
+              "green": 76,
+              "blue": 87
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-155 Newburyport Blue",
+            "RGB8": {
+              "red": 71,
+              "green": 86,
+              "blue": 103
+            }
+          },
+          {
+            "colorName": "HC-156 Van Deusen Blue",
+            "RGB8": {
+              "red": 73,
+              "green": 92,
+              "blue": 111
+            }
+          },
+          {
+            "colorName": "HC-157 Narragansett Green",
+            "RGB8": {
+              "red": 68,
+              "green": 82,
+              "blue": 86
+            }
+          },
+          {
+            "colorName": "HC-158 Newburg Green",
+            "RGB8": {
+              "red": 69,
+              "green": 90,
+              "blue": 99
+            }
+          },
+          {
+            "colorName": "HC-159 Philipsburg Blue",
+            "RGB8": {
+              "red": 99,
+              "green": 121,
+              "blue": 134
+            }
+          },
+          {
+            "colorName": "HC-160 Knoxville Gray",
+            "RGB8": {
+              "red": 95,
+              "green": 109,
+              "blue": 109
+            }
+          },
+          {
+            "colorName": "HC-161 Templeton Gray",
+            "RGB8": {
+              "red": 120,
+              "green": 135,
+              "blue": 135
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-162 Brewster Gray",
+            "RGB8": {
+              "red": 139,
+              "green": 151,
+              "blue": 151
+            }
+          },
+          {
+            "colorName": "HC-163 Duxbury Gray",
+            "RGB8": {
+              "red": 128,
+              "green": 135,
+              "blue": 128
+            }
+          },
+          {
+            "colorName": "HC-164 Puritan Gray",
+            "RGB8": {
+              "red": 152,
+              "green": 160,
+              "blue": 156
+            }
+          },
+          {
+            "colorName": "HC-165 Boothbay Gray",
+            "RGB8": {
+              "red": 171,
+              "green": 179,
+              "blue": 177
+            }
+          },
+          {
+            "colorName": "HC-166 Kendall Charcoal",
+            "RGB8": {
+              "red": 104,
+              "green": 103,
+              "blue": 99
+            }
+          },
+          {
+            "colorName": "HC-167 Amherst Gray",
+            "RGB8": {
+              "red": 118,
+              "green": 119,
+              "blue": 113
+            }
+          },
+          {
+            "colorName": "HC-168 Chelsea Gray",
+            "RGB8": {
+              "red": 135,
+              "green": 133,
+              "blue": 125
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-169 Coventry Gray",
+            "RGB8": {
+              "red": 185,
+              "green": 187,
+              "blue": 183
+            }
+          },
+          {
+            "colorName": "HC-170 Stonington Gray",
+            "RGB8": {
+              "red": 203,
+              "green": 204,
+              "blue": 198
+            }
+          },
+          {
+            "colorName": "HC-171 Wickham Gray",
+            "RGB8": {
+              "red": 213,
+              "green": 217,
+              "blue": 211
+            }
+          },
+          {
+            "colorName": "HC-172 Revere Pewter",
+            "RGB8": {
+              "red": 204,
+              "green": 199,
+              "blue": 185
+            }
+          },
+          {
+            "colorName": "HC-173 Edgecomb Gray",
+            "RGB8": {
+              "red": 218,
+              "green": 212,
+              "blue": 197
+            }
+          },
+          {
+            "colorName": "HC-174 Lancaster Whitewash",
+            "RGB8": {
+              "red": 231,
+              "green": 226,
+              "blue": 204
+            }
+          },
+          {
+            "colorName": "HC-175 Briarwood",
+            "RGB8": {
+              "red": 161,
+              "green": 153,
+              "blue": 138
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-176 Annapolis Gray",
+            "RGB8": {
+              "red": 202,
+              "green": 191,
+              "blue": 176
+            }
+          },
+          {
+            "colorName": "HC-177 Richmond Bisque",
+            "RGB8": {
+              "red": 218,
+              "green": 199,
+              "blue": 167
+            }
+          },
+          {
+            "colorName": "HC-178 Charcoal Slate",
+            "RGB8": {
+              "red": 101,
+              "green": 104,
+              "blue": 106
+            }
+          },
+          {
+            "colorName": "HC-179 Platinum Gray",
+            "RGB8": {
+              "red": 169,
+              "green": 170,
+              "blue": 164
+            }
+          },
+          {
+            "colorName": "HC-180 Cliffside Gray",
+            "RGB8": {
+              "red": 205,
+              "green": 209,
+              "blue": 203
+            }
+          },
+          {
+            "colorName": "HC-181 Heritage Red",
+            "RGB8": {
+              "red": 154,
+              "green": 11,
+              "blue": 21
+            }
+          },
+          {
+            "colorName": "HC-182 Classic Burgundy",
+            "RGB8": {
+              "red": 106,
+              "green": 25,
+              "blue": 27
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-183 Country Redwood",
+            "RGB8": {
+              "red": 119,
+              "green": 45,
+              "blue": 36
+            }
+          },
+          {
+            "colorName": "HC-184 Cottage Red",
+            "RGB8": {
+              "red": 103,
+              "green": 43,
+              "blue": 38
+            }
+          },
+          {
+            "colorName": "HC-185 Tudor Brown",
+            "RGB8": {
+              "red": 80,
+              "green": 59,
+              "blue": 49
+            }
+          },
+          {
+            "colorName": "HC-186 Charleston Brown",
+            "RGB8": {
+              "red": 117,
+              "green": 83,
+              "blue": 58
+            }
+          },
+          {
+            "colorName": "HC-187 Black Forest Green",
+            "RGB8": {
+              "red": 37,
+              "green": 47,
+              "blue": 45
+            }
+          },
+          {
+            "colorName": "HC-188 Essex Green",
+            "RGB8": {
+              "red": 40,
+              "green": 55,
+              "blue": 47
+            }
+          },
+          {
+            "colorName": "HC-189 Chrome Green",
+            "RGB8": {
+              "red": 12,
+              "green": 66,
+              "blue": 47
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "HC-190 Black",
+            "RGB8": {
+              "red": 50,
+              "green": 50,
+              "blue": 51
+            }
+          },
+          {
+            "colorName": "HC-191 Hamilton Blue",
+            "RGB8": {
+              "red": 96,
+              "green": 119,
+              "blue": 128
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

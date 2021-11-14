@@ -1,0 +1,1465 @@
+{
+  "colorBook": {
+    "bookName": "Off White Colors",
+    "colorPage": [
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-1 Natural Wicker",
+            "RGB8": {
+              "red": 232,
+              "green": 223,
+              "blue": 203
+            }
+          },
+          {
+            "colorName": "OC-2 Pale Almond",
+            "RGB8": {
+              "red": 232,
+              "green": 220,
+              "blue": 196
+            }
+          },
+          {
+            "colorName": "OC-3 Lambskin",
+            "RGB8": {
+              "red": 233,
+              "green": 221,
+              "blue": 201
+            }
+          },
+          {
+            "colorName": "OC-4 Brandy Cream",
+            "RGB8": {
+              "red": 227,
+              "green": 213,
+              "blue": 195
+            }
+          },
+          {
+            "colorName": "OC-5 Maritime White",
+            "RGB8": {
+              "red": 230,
+              "green": 223,
+              "blue": 207
+            }
+          },
+          {
+            "colorName": "OC-6 Feather Down",
+            "RGB8": {
+              "red": 231,
+              "green": 225,
+              "blue": 208
+            }
+          },
+          {
+            "colorName": "OC-7 Creamy White",
+            "RGB8": {
+              "red": 228,
+              "green": 221,
+              "blue": 201
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-8 Elephant Tusk",
+            "RGB8": {
+              "red": 229,
+              "green": 221,
+              "blue": 197
+            }
+          },
+          {
+            "colorName": "OC-9 Ballet White",
+            "RGB8": {
+              "red": 230,
+              "green": 225,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "OC-10 White Sand",
+            "RGB8": {
+              "red": 225,
+              "green": 217,
+              "blue": 199
+            }
+          },
+          {
+            "colorName": "OC-11 Clay Beige",
+            "RGB8": {
+              "red": 218,
+              "green": 208,
+              "blue": 188
+            }
+          },
+          {
+            "colorName": "OC-12 Muslin",
+            "RGB8": {
+              "red": 226,
+              "green": 215,
+              "blue": 194
+            }
+          },
+          {
+            "colorName": "OC-13 Soft Chamois",
+            "RGB8": {
+              "red": 233,
+              "green": 230,
+              "blue": 217
+            }
+          },
+          {
+            "colorName": "OC-14 Natural Cream",
+            "RGB8": {
+              "red": 219,
+              "green": 214,
+              "blue": 199
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-15 Baby Fawn",
+            "RGB8": {
+              "red": 218,
+              "green": 212,
+              "blue": 197
+            }
+          },
+          {
+            "colorName": "OC-16 Cedar Key",
+            "RGB8": {
+              "red": 216,
+              "green": 207,
+              "blue": 192
+            }
+          },
+          {
+            "colorName": "OC-17 White Dove",
+            "RGB8": {
+              "red": 240,
+              "green": 239,
+              "blue": 230
+            }
+          },
+          {
+            "colorName": "OC-18 Dove Wing",
+            "RGB8": {
+              "red": 234,
+              "green": 231,
+              "blue": 220
+            }
+          },
+          {
+            "colorName": "OC-19 Seapearl",
+            "RGB8": {
+              "red": 232,
+              "green": 229,
+              "blue": 218
+            }
+          },
+          {
+            "colorName": "OC-20 Pale Oak",
+            "RGB8": {
+              "red": 222,
+              "green": 218,
+              "blue": 207
+            }
+          },
+          {
+            "colorName": "OC-21 Winter White",
+            "RGB8": {
+              "red": 232,
+              "green": 234,
+              "blue": 227
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-22 Calm",
+            "RGB8": {
+              "red": 231,
+              "green": 229,
+              "blue": 224
+            }
+          },
+          {
+            "colorName": "OC-23 Classic Gray",
+            "RGB8": {
+              "red": 228,
+              "green": 225,
+              "blue": 216
+            }
+          },
+          {
+            "colorName": "OC-24 Wind's Breath",
+            "RGB8": {
+              "red": 224,
+              "green": 220,
+              "blue": 206
+            }
+          },
+          {
+            "colorName": "OC-25 Cloud Cover",
+            "RGB8": {
+              "red": 234,
+              "green": 233,
+              "blue": 225
+            }
+          },
+          {
+            "colorName": "OC-26 Silver Satin",
+            "RGB8": {
+              "red": 228,
+              "green": 227,
+              "blue": 219
+            }
+          },
+          {
+            "colorName": "OC-27 Balboa Mist",
+            "RGB8": {
+              "red": 219,
+              "green": 215,
+              "blue": 205
+            }
+          },
+          {
+            "colorName": "OC-28 Collingwood",
+            "RGB8": {
+              "red": 212,
+              "green": 207,
+              "blue": 197
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-29 Floral White",
+            "RGB8": {
+              "red": 238,
+              "green": 236,
+              "blue": 222
+            }
+          },
+          {
+            "colorName": "OC-30 Gray Mist",
+            "RGB8": {
+              "red": 228,
+              "green": 224,
+              "blue": 211
+            }
+          },
+          {
+            "colorName": "OC-31 Fog Mist",
+            "RGB8": {
+              "red": 227,
+              "green": 222,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "OC-32 Tapestry Beige",
+            "RGB8": {
+              "red": 220,
+              "green": 216,
+              "blue": 198
+            }
+          },
+          {
+            "colorName": "OC-33 Opaline",
+            "RGB8": {
+              "red": 238,
+              "green": 233,
+              "blue": 214
+            }
+          },
+          {
+            "colorName": "OC-34 Marble White",
+            "RGB8": {
+              "red": 241,
+              "green": 236,
+              "blue": 216
+            }
+          },
+          {
+            "colorName": "OC-35 Spanish White",
+            "RGB8": {
+              "red": 236,
+              "green": 231,
+              "blue": 211
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-36 Niveous",
+            "RGB8": {
+              "red": 235,
+              "green": 229,
+              "blue": 206
+            }
+          },
+          {
+            "colorName": "OC-37 Glacier White",
+            "RGB8": {
+              "red": 237,
+              "green": 235,
+              "blue": 225
+            }
+          },
+          {
+            "colorName": "OC-38 Acadia White",
+            "RGB8": {
+              "red": 243,
+              "green": 240,
+              "blue": 224
+            }
+          },
+          {
+            "colorName": "OC-39 Timid White",
+            "RGB8": {
+              "red": 243,
+              "green": 239,
+              "blue": 222
+            }
+          },
+          {
+            "colorName": "OC-40 Albescent",
+            "RGB8": {
+              "red": 236,
+              "green": 228,
+              "blue": 208
+            }
+          },
+          {
+            "colorName": "OC-41 French Canvas",
+            "RGB8": {
+              "red": 230,
+              "green": 228,
+              "blue": 213
+            }
+          },
+          {
+            "colorName": "OC-42 Old Prairie",
+            "RGB8": {
+              "red": 227,
+              "green": 225,
+              "blue": 210
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-43 Overcast",
+            "RGB8": {
+              "red": 223,
+              "green": 220,
+              "blue": 200
+            }
+          },
+          {
+            "colorName": "OC-44 Misty Air",
+            "RGB8": {
+              "red": 228,
+              "green": 223,
+              "blue": 200
+            }
+          },
+          {
+            "colorName": "OC-45 Swiss Coffee",
+            "RGB8": {
+              "red": 239,
+              "green": 237,
+              "blue": 226
+            }
+          },
+          {
+            "colorName": "OC-46 Halo",
+            "RGB8": {
+              "red": 225,
+              "green": 223,
+              "blue": 210
+            }
+          },
+          {
+            "colorName": "OC-47 Ashwood",
+            "RGB8": {
+              "red": 220,
+              "green": 217,
+              "blue": 202
+            }
+          },
+          {
+            "colorName": "OC-48 Hazy Skies",
+            "RGB8": {
+              "red": 207,
+              "green": 204,
+              "blue": 187
+            }
+          },
+          {
+            "colorName": "OC-49 Titanium",
+            "RGB8": {
+              "red": 219,
+              "green": 220,
+              "blue": 208
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-50 November Rain",
+            "RGB8": {
+              "red": 225,
+              "green": 223,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "OC-51 Intense White",
+            "RGB8": {
+              "red": 225,
+              "green": 224,
+              "blue": 216
+            }
+          },
+          {
+            "colorName": "OC-52 Gray Owl",
+            "RGB8": {
+              "red": 212,
+              "green": 213,
+              "blue": 205
+            }
+          },
+          {
+            "colorName": "OC-53 Horizon",
+            "RGB8": {
+              "red": 224,
+              "green": 226,
+              "blue": 220
+            }
+          },
+          {
+            "colorName": "OC-54 White Wisp",
+            "RGB8": {
+              "red": 231,
+              "green": 233,
+              "blue": 226
+            }
+          },
+          {
+            "colorName": "OC-55 Paper White",
+            "RGB8": {
+              "red": 225,
+              "green": 227,
+              "blue": 221
+            }
+          },
+          {
+            "colorName": "OC-56 Moonshine",
+            "RGB8": {
+              "red": 215,
+              "green": 217,
+              "blue": 208
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-57 White Heron",
+            "RGB8": {
+              "red": 241,
+              "green": 242,
+              "blue": 235
+            }
+          },
+          {
+            "colorName": "OC-58 White Ice",
+            "RGB8": {
+              "red": 235,
+              "green": 239,
+              "blue": 234
+            }
+          },
+          {
+            "colorName": "OC-59 Vanilla Milkshake",
+            "RGB8": {
+              "red": 237,
+              "green": 237,
+              "blue": 228
+            }
+          },
+          {
+            "colorName": "OC-60 Icicle",
+            "RGB8": {
+              "red": 238,
+              "green": 238,
+              "blue": 228
+            }
+          },
+          {
+            "colorName": "OC-61 White Diamond",
+            "RGB8": {
+              "red": 237,
+              "green": 240,
+              "blue": 237
+            }
+          },
+          {
+            "colorName": "OC-62 Baby's Breath",
+            "RGB8": {
+              "red": 235,
+              "green": 237,
+              "blue": 233
+            }
+          },
+          {
+            "colorName": "OC-63 Winter Snow",
+            "RGB8": {
+              "red": 237,
+              "green": 239,
+              "blue": 235
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-64 Pure White",
+            "RGB8": {
+              "red": 230,
+              "green": 232,
+              "blue": 229
+            }
+          },
+          {
+            "colorName": "OC-65 Chantilly Lace",
+            "RGB8": {
+              "red": 245,
+              "green": 247,
+              "blue": 242
+            }
+          },
+          {
+            "colorName": "OC-66 Snow White",
+            "RGB8": {
+              "red": 242,
+              "green": 246,
+              "blue": 242
+            }
+          },
+          {
+            "colorName": "OC-67 Ice Mist",
+            "RGB8": {
+              "red": 242,
+              "green": 245,
+              "blue": 242
+            }
+          },
+          {
+            "colorName": "OC-68 Distant Gray",
+            "RGB8": {
+              "red": 243,
+              "green": 245,
+              "blue": 242
+            }
+          },
+          {
+            "colorName": "OC-69 White Opulence",
+            "RGB8": {
+              "red": 246,
+              "green": 243,
+              "blue": 238
+            }
+          },
+          {
+            "colorName": "OC-70 Whitewater Bay",
+            "RGB8": {
+              "red": 245,
+              "green": 240,
+              "blue": 235
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-71 Sand Dollar",
+            "RGB8": {
+              "red": 241,
+              "green": 236,
+              "blue": 229
+            }
+          },
+          {
+            "colorName": "OC-72 Pink Damask",
+            "RGB8": {
+              "red": 247,
+              "green": 241,
+              "blue": 232
+            }
+          },
+          {
+            "colorName": "OC-73 Opal",
+            "RGB8": {
+              "red": 247,
+              "green": 237,
+              "blue": 224
+            }
+          },
+          {
+            "colorName": "OC-74 Onyx White",
+            "RGB8": {
+              "red": 243,
+              "green": 228,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "OC-75 Pristine",
+            "RGB8": {
+              "red": 241,
+              "green": 227,
+              "blue": 211
+            }
+          },
+          {
+            "colorName": "OC-76 Old Country",
+            "RGB8": {
+              "red": 233,
+              "green": 216,
+              "blue": 199
+            }
+          },
+          {
+            "colorName": "OC-77 Colonial Cream",
+            "RGB8": {
+              "red": 248,
+              "green": 236,
+              "blue": 219
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-78 Parchment",
+            "RGB8": {
+              "red": 248,
+              "green": 232,
+              "blue": 213
+            }
+          },
+          {
+            "colorName": "OC-79 Old Fashioned Peach",
+            "RGB8": {
+              "red": 246,
+              "green": 228,
+              "blue": 205
+            }
+          },
+          {
+            "colorName": "OC-80 Pirates Cove Beach",
+            "RGB8": {
+              "red": 246,
+              "green": 225,
+              "blue": 201
+            }
+          },
+          {
+            "colorName": "OC-81 Evening White",
+            "RGB8": {
+              "red": 244,
+              "green": 231,
+              "blue": 212
+            }
+          },
+          {
+            "colorName": "OC-82 Pompeii",
+            "RGB8": {
+              "red": 246,
+              "green": 235,
+              "blue": 215
+            }
+          },
+          {
+            "colorName": "OC-83 Antique White",
+            "RGB8": {
+              "red": 243,
+              "green": 230,
+              "blue": 212
+            }
+          },
+          {
+            "colorName": "OC-84 Crème Caramel",
+            "RGB8": {
+              "red": 241,
+              "green": 225,
+              "blue": 202
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-85 Mayonnaise",
+            "RGB8": {
+              "red": 250,
+              "green": 246,
+              "blue": 230
+            }
+          },
+          {
+            "colorName": "OC-86 White Blush",
+            "RGB8": {
+              "red": 247,
+              "green": 241,
+              "blue": 226
+            }
+          },
+          {
+            "colorName": "OC-87 Capri Coast",
+            "RGB8": {
+              "red": 244,
+              "green": 233,
+              "blue": 213
+            }
+          },
+          {
+            "colorName": "OC-88 Indian White",
+            "RGB8": {
+              "red": 238,
+              "green": 229,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "OC-89 Butter Pecan",
+            "RGB8": {
+              "red": 249,
+              "green": 242,
+              "blue": 226
+            }
+          },
+          {
+            "colorName": "OC-90 Vanilla Ice Cream",
+            "RGB8": {
+              "red": 251,
+              "green": 244,
+              "blue": 225
+            }
+          },
+          {
+            "colorName": "OC-91 Ivory Tusk",
+            "RGB8": {
+              "red": 249,
+              "green": 242,
+              "blue": 222
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-92 Mannequin Cream",
+            "RGB8": {
+              "red": 248,
+              "green": 237,
+              "blue": 211
+            }
+          },
+          {
+            "colorName": "OC-93 Sugar Cookie",
+            "RGB8": {
+              "red": 250,
+              "green": 243,
+              "blue": 225
+            }
+          },
+          {
+            "colorName": "OC-94 Windswept",
+            "RGB8": {
+              "red": 248,
+              "green": 240,
+              "blue": 221
+            }
+          },
+          {
+            "colorName": "OC-95 Navajo White",
+            "RGB8": {
+              "red": 239,
+              "green": 232,
+              "blue": 214
+            }
+          },
+          {
+            "colorName": "OC-96 Gentle Cream",
+            "RGB8": {
+              "red": 234,
+              "green": 222,
+              "blue": 198
+            }
+          },
+          {
+            "colorName": "OC-97 Cream Froth",
+            "RGB8": {
+              "red": 251,
+              "green": 244,
+              "blue": 228
+            }
+          },
+          {
+            "colorName": "OC-98 Bare",
+            "RGB8": {
+              "red": 248,
+              "green": 239,
+              "blue": 220
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-99 Deserted Island",
+            "RGB8": {
+              "red": 240,
+              "green": 230,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "OC-100 Palace White",
+            "RGB8": {
+              "red": 235,
+              "green": 225,
+              "blue": 201
+            }
+          },
+          {
+            "colorName": "OC-101 Desolate",
+            "RGB8": {
+              "red": 247,
+              "green": 235,
+              "blue": 211
+            }
+          },
+          {
+            "colorName": "OC-102 Devon Cream",
+            "RGB8": {
+              "red": 250,
+              "green": 236,
+              "blue": 211
+            }
+          },
+          {
+            "colorName": "OC-103 Antique Yellow",
+            "RGB8": {
+              "red": 248,
+              "green": 237,
+              "blue": 212
+            }
+          },
+          {
+            "colorName": "OC-104 Antique Lace",
+            "RGB8": {
+              "red": 247,
+              "green": 233,
+              "blue": 202
+            }
+          },
+          {
+            "colorName": "OC-105 Calming Cream",
+            "RGB8": {
+              "red": 246,
+              "green": 239,
+              "blue": 217
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-106 Man on the Moon",
+            "RGB8": {
+              "red": 246,
+              "green": 238,
+              "blue": 206
+            }
+          },
+          {
+            "colorName": "OC-107 Antiquity",
+            "RGB8": {
+              "red": 249,
+              "green": 239,
+              "blue": 205
+            }
+          },
+          {
+            "colorName": "OC-108 Pale Moon",
+            "RGB8": {
+              "red": 244,
+              "green": 232,
+              "blue": 191
+            }
+          },
+          {
+            "colorName": "OC-109 Lemon Chiffon",
+            "RGB8": {
+              "red": 247,
+              "green": 244,
+              "blue": 222
+            }
+          },
+          {
+            "colorName": "OC-110 Milkyway",
+            "RGB8": {
+              "red": 252,
+              "green": 247,
+              "blue": 222
+            }
+          },
+          {
+            "colorName": "OC-111 Corinthian White",
+            "RGB8": {
+              "red": 247,
+              "green": 235,
+              "blue": 203
+            }
+          },
+          {
+            "colorName": "OC-112 Goldtone",
+            "RGB8": {
+              "red": 247,
+              "green": 234,
+              "blue": 197
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-113 Powder Sand",
+            "RGB8": {
+              "red": 246,
+              "green": 243,
+              "blue": 226
+            }
+          },
+          {
+            "colorName": "OC-114 Lemon Ice",
+            "RGB8": {
+              "red": 251,
+              "green": 249,
+              "blue": 225
+            }
+          },
+          {
+            "colorName": "OC-115 Cream Silk",
+            "RGB8": {
+              "red": 243,
+              "green": 242,
+              "blue": 216
+            }
+          },
+          {
+            "colorName": "OC-116 Pale Celery",
+            "RGB8": {
+              "red": 243,
+              "green": 236,
+              "blue": 206
+            }
+          },
+          {
+            "colorName": "OC-117 Simply White",
+            "RGB8": {
+              "red": 247,
+              "green": 247,
+              "blue": 238
+            }
+          },
+          {
+            "colorName": "OC-118 Snowfall White",
+            "RGB8": {
+              "red": 247,
+              "green": 248,
+              "blue": 239
+            }
+          },
+          {
+            "colorName": "OC-119 Cloud Nine",
+            "RGB8": {
+              "red": 239,
+              "green": 240,
+              "blue": 230
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-120 Seashell",
+            "RGB8": {
+              "red": 237,
+              "green": 234,
+              "blue": 217
+            }
+          },
+          {
+            "colorName": "OC-121 Mountain Peak White",
+            "RGB8": {
+              "red": 248,
+              "green": 246,
+              "blue": 236
+            }
+          },
+          {
+            "colorName": "OC-122 Cotton Balls",
+            "RGB8": {
+              "red": 246,
+              "green": 247,
+              "blue": 236
+            }
+          },
+          {
+            "colorName": "OC-123 Bavarian Cream",
+            "RGB8": {
+              "red": 248,
+              "green": 248,
+              "blue": 232
+            }
+          },
+          {
+            "colorName": "OC-124 Alpine White",
+            "RGB8": {
+              "red": 245,
+              "green": 245,
+              "blue": 228
+            }
+          },
+          {
+            "colorName": "OC-125 Moonlight White",
+            "RGB8": {
+              "red": 240,
+              "green": 239,
+              "blue": 228
+            }
+          },
+          {
+            "colorName": "OC-126 Easter Lily",
+            "RGB8": {
+              "red": 248,
+              "green": 245,
+              "blue": 227
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-127 White Chocolate",
+            "RGB8": {
+              "red": 246,
+              "green": 244,
+              "blue": 228
+            }
+          },
+          {
+            "colorName": "OC-128 Minced Onion",
+            "RGB8": {
+              "red": 241,
+              "green": 241,
+              "blue": 224
+            }
+          },
+          {
+            "colorName": "OC-129 Alabaster",
+            "RGB8": {
+              "red": 243,
+              "green": 240,
+              "blue": 233
+            }
+          },
+          {
+            "colorName": "OC-130 Cloud White",
+            "RGB8": {
+              "red": 243,
+              "green": 242,
+              "blue": 231
+            }
+          },
+          {
+            "colorName": "OC-131 White Down",
+            "RGB8": {
+              "red": 236,
+              "green": 231,
+              "blue": 216
+            }
+          },
+          {
+            "colorName": "OC-132 Grand Teton White",
+            "RGB8": {
+              "red": 234,
+              "green": 230,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "OC-133 Ancient Ivory",
+            "RGB8": {
+              "red": 239,
+              "green": 237,
+              "blue": 220
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-134 Meadow Mist",
+            "RGB8": {
+              "red": 235,
+              "green": 235,
+              "blue": 217
+            }
+          },
+          {
+            "colorName": "OC-135 Cream Cloak",
+            "RGB8": {
+              "red": 230,
+              "green": 230,
+              "blue": 211
+            }
+          },
+          {
+            "colorName": "OC-136 Celery Salt",
+            "RGB8": {
+              "red": 231,
+              "green": 229,
+              "blue": 208
+            }
+          },
+          {
+            "colorName": "OC-137 Sebring White",
+            "RGB8": {
+              "red": 232,
+              "green": 232,
+              "blue": 222
+            }
+          },
+          {
+            "colorName": "OC-138 White Drifts",
+            "RGB8": {
+              "red": 228,
+              "green": 227,
+              "blue": 214
+            }
+          },
+          {
+            "colorName": "OC-139 Sea Wind",
+            "RGB8": {
+              "red": 226,
+              "green": 224,
+              "blue": 208
+            }
+          },
+          {
+            "colorName": "OC-140 Morning Dew",
+            "RGB8": {
+              "red": 222,
+              "green": 221,
+              "blue": 206
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-141 China White",
+            "RGB8": {
+              "red": 232,
+              "green": 229,
+              "blue": 218
+            }
+          },
+          {
+            "colorName": "OC-142 Sail Cloth",
+            "RGB8": {
+              "red": 229,
+              "green": 223,
+              "blue": 207
+            }
+          },
+          {
+            "colorName": "OC-143 Bone White",
+            "RGB8": {
+              "red": 232,
+              "green": 223,
+              "blue": 203
+            }
+          },
+          {
+            "colorName": "OC-144 Lancaster White",
+            "RGB8": {
+              "red": 231,
+              "green": 226,
+              "blue": 205
+            }
+          },
+          {
+            "colorName": "OC-145 Atrium White",
+            "RGB8": {
+              "red": 243,
+              "green": 240,
+              "blue": 233
+            }
+          },
+          {
+            "colorName": "OC-146 Linen White",
+            "RGB8": {
+              "red": 243,
+              "green": 236,
+              "blue": 219
+            }
+          },
+          {
+            "colorName": "OC-147 Cameo White",
+            "RGB8": {
+              "red": 243,
+              "green": 232,
+              "blue": 208
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-148 Montgomery White",
+            "RGB8": {
+              "red": 245,
+              "green": 227,
+              "blue": 193
+            }
+          },
+          {
+            "colorName": "OC-149 Decorator's White",
+            "RGB8": {
+              "red": 236,
+              "green": 238,
+              "blue": 235
+            }
+          },
+          {
+            "colorName": "OC-150 Brilliant White",
+            "RGB8": {
+              "red": 236,
+              "green": 239,
+              "blue": 234
+            }
+          },
+          {
+            "colorName": "OC-151 White",
+            "RGB8": {
+              "red": 238,
+              "green": 239,
+              "blue": 236
+            }
+          },
+          {
+            "colorName": "OC-152 Super White",
+            "RGB8": {
+              "red": 242,
+              "green": 243,
+              "blue": 239
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

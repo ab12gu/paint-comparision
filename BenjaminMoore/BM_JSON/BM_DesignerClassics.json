@@ -1,0 +1,2218 @@
+{
+  "colorBook": {
+    "bookName": "Designer Classics",
+    "colorPage": [
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-2 Raphael",
+            "RGB8": {
+              "red": 89,
+              "green": 57,
+              "blue": 54
+            }
+          },
+          {
+            "colorName": "CC-4 Camelot",
+            "RGB8": {
+              "red": 94,
+              "green": 77,
+              "blue": 85
+            }
+          },
+          {
+            "colorName": "CC-6 Muskoka Dusk",
+            "RGB8": {
+              "red": 163,
+              "green": 138,
+              "blue": 140
+            }
+          },
+          {
+            "colorName": "CC-8 Frosted Berry",
+            "RGB8": {
+              "red": 192,
+              "green": 165,
+              "blue": 161
+            }
+          },
+          {
+            "colorName": "CC-10 Ultra White",
+            "RGB8": {
+              "red": 237,
+              "green": 239,
+              "blue": 237
+            }
+          },
+          {
+            "colorName": "CC-20 Decorator's White",
+            "RGB8": {
+              "red": 236,
+              "green": 238,
+              "blue": 235
+            }
+          },
+          {
+            "colorName": "CC-30 Oxford White",
+            "RGB8": {
+              "red": 241,
+              "green": 242,
+              "blue": 235
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-32 Radicchio",
+            "RGB8": {
+              "red": 106,
+              "green": 54,
+              "blue": 66
+            }
+          },
+          {
+            "colorName": "CC-34 Jester",
+            "RGB8": {
+              "red": 91,
+              "green": 55,
+              "blue": 71
+            }
+          },
+          {
+            "colorName": "CC-36 Peerage",
+            "RGB8": {
+              "red": 80,
+              "green": 60,
+              "blue": 81
+            }
+          },
+          {
+            "colorName": "CC-38 Nightfall Sky",
+            "RGB8": {
+              "red": 112,
+              "green": 102,
+              "blue": 121
+            }
+          },
+          {
+            "colorName": "CC-40 Cloud White",
+            "RGB8": {
+              "red": 243,
+              "green": 242,
+              "blue": 231
+            }
+          },
+          {
+            "colorName": "CC-50 White Down",
+            "RGB8": {
+              "red": 236,
+              "green": 231,
+              "blue": 216
+            }
+          },
+          {
+            "colorName": "CC-60 Brandy Cream",
+            "RGB8": {
+              "red": 227,
+              "green": 213,
+              "blue": 195
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-62 Sundried Tomato",
+            "RGB8": {
+              "red": 121,
+              "green": 58,
+              "blue": 53
+            }
+          },
+          {
+            "colorName": "CC-64 Bonaparte",
+            "RGB8": {
+              "red": 160,
+              "green": 63,
+              "blue": 63
+            }
+          },
+          {
+            "colorName": "CC-66 Rapture",
+            "RGB8": {
+              "red": 157,
+              "green": 47,
+              "blue": 60
+            }
+          },
+          {
+            "colorName": "CC-68 Lyons Red",
+            "RGB8": {
+              "red": 167,
+              "green": 57,
+              "blue": 66
+            }
+          },
+          {
+            "colorName": "CC-70 Dune White",
+            "RGB8": {
+              "red": 237,
+              "green": 235,
+              "blue": 225
+            }
+          },
+          {
+            "colorName": "CC-80 Gray Mist",
+            "RGB8": {
+              "red": 228,
+              "green": 224,
+              "blue": 211
+            }
+          },
+          {
+            "colorName": "CC-90 Natural Linen",
+            "RGB8": {
+              "red": 216,
+              "green": 206,
+              "blue": 184
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-92 Spanish Red",
+            "RGB8": {
+              "red": 153,
+              "green": 73,
+              "blue": 66
+            }
+          },
+          {
+            "colorName": "CC-94 Northern Fire",
+            "RGB8": {
+              "red": 167,
+              "green": 77,
+              "blue": 68
+            }
+          },
+          {
+            "colorName": "CC-96 Flower Pot",
+            "RGB8": {
+              "red": 185,
+              "green": 110,
+              "blue": 83
+            }
+          },
+          {
+            "colorName": "CC-98 Prairie Lily",
+            "RGB8": {
+              "red": 190,
+              "green": 101,
+              "blue": 73
+            }
+          },
+          {
+            "colorName": "CC-100 Flurry",
+            "RGB8": {
+              "red": 247,
+              "green": 241,
+              "blue": 226
+            }
+          },
+          {
+            "colorName": "CC-110 Muslin",
+            "RGB8": {
+              "red": 226,
+              "green": 215,
+              "blue": 194
+            }
+          },
+          {
+            "colorName": "CC-120 Stone House",
+            "RGB8": {
+              "red": 208,
+              "green": 187,
+              "blue": 157
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-122 Boxcar Red",
+            "RGB8": {
+              "red": 143,
+              "green": 81,
+              "blue": 74
+            }
+          },
+          {
+            "colorName": "CC-124 Louisiana Hot Sauce",
+            "RGB8": {
+              "red": 143,
+              "green": 64,
+              "blue": 49
+            }
+          },
+          {
+            "colorName": "CC-126 Covered Bridge",
+            "RGB8": {
+              "red": 166,
+              "green": 90,
+              "blue": 79
+            }
+          },
+          {
+            "colorName": "CC-128 Red Point Sand",
+            "RGB8": {
+              "red": 180,
+              "green": 106,
+              "blue": 88
+            }
+          },
+          {
+            "colorName": "CC-130 Ivory White",
+            "RGB8": {
+              "red": 243,
+              "green": 240,
+              "blue": 224
+            }
+          },
+          {
+            "colorName": "CC-140 Barely Beige",
+            "RGB8": {
+              "red": 234,
+              "green": 222,
+              "blue": 198
+            }
+          },
+          {
+            "colorName": "CC-150 Sandy Brown",
+            "RGB8": {
+              "red": 212,
+              "green": 193,
+              "blue": 158
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-152 Laurentian Red",
+            "RGB8": {
+              "red": 127,
+              "green": 75,
+              "blue": 71
+            }
+          },
+          {
+            "colorName": "CC-154 Smoked Salmon",
+            "RGB8": {
+              "red": 194,
+              "green": 134,
+              "blue": 116
+            }
+          },
+          {
+            "colorName": "CC-156 Tofino Sunset",
+            "RGB8": {
+              "red": 231,
+              "green": 190,
+              "blue": 173
+            }
+          },
+          {
+            "colorName": "CC-158 Pink Moiré",
+            "RGB8": {
+              "red": 243,
+              "green": 219,
+              "blue": 205
+            }
+          },
+          {
+            "colorName": "CC-160 White Rock",
+            "RGB8": {
+              "red": 246,
+              "green": 239,
+              "blue": 217
+            }
+          },
+          {
+            "colorName": "CC-170 Honey Harbor",
+            "RGB8": {
+              "red": 242,
+              "green": 229,
+              "blue": 197
+            }
+          },
+          {
+            "colorName": "CC-180 Barley",
+            "RGB8": {
+              "red": 238,
+              "green": 216,
+              "blue": 165
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-182 Frontenac Brick",
+            "RGB8": {
+              "red": 189,
+              "green": 140,
+              "blue": 111
+            }
+          },
+          {
+            "colorName": "CC-184 Bed and Breakfast",
+            "RGB8": {
+              "red": 194,
+              "green": 137,
+              "blue": 115
+            }
+          },
+          {
+            "colorName": "CC-186 Indian Summer",
+            "RGB8": {
+              "red": 221,
+              "green": 171,
+              "blue": 135
+            }
+          },
+          {
+            "colorName": "CC-188 Butter Rum",
+            "RGB8": {
+              "red": 241,
+              "green": 202,
+              "blue": 162
+            }
+          },
+          {
+            "colorName": "CC-190 Summer Harvest",
+            "RGB8": {
+              "red": 239,
+              "green": 224,
+              "blue": 184
+            }
+          },
+          {
+            "colorName": "CC-200 Vellum",
+            "RGB8": {
+              "red": 233,
+              "green": 212,
+              "blue": 162
+            }
+          },
+          {
+            "colorName": "CC-210 Dijon",
+            "RGB8": {
+              "red": 226,
+              "green": 195,
+              "blue": 140
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-212 Danse du Soleil",
+            "RGB8": {
+              "red": 250,
+              "green": 216,
+              "blue": 150
+            }
+          },
+          {
+            "colorName": "CC-214 Golden Honey",
+            "RGB8": {
+              "red": 251,
+              "green": 226,
+              "blue": 161
+            }
+          },
+          {
+            "colorName": "CC-216 Butter Milk",
+            "RGB8": {
+              "red": 252,
+              "green": 236,
+              "blue": 194
+            }
+          },
+          {
+            "colorName": "CC-218 Corn Silk",
+            "RGB8": {
+              "red": 254,
+              "green": 239,
+              "blue": 179
+            }
+          },
+          {
+            "colorName": "CC-220 Wheat Sheaf",
+            "RGB8": {
+              "red": 238,
+              "green": 230,
+              "blue": 207
+            }
+          },
+          {
+            "colorName": "CC-230 Delaware Putty",
+            "RGB8": {
+              "red": 222,
+              "green": 212,
+              "blue": 184
+            }
+          },
+          {
+            "colorName": "CC-240 Late Wheat",
+            "RGB8": {
+              "red": 203,
+              "green": 185,
+              "blue": 141
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-242 Maple Fudge",
+            "RGB8": {
+              "red": 230,
+              "green": 197,
+              "blue": 140
+            }
+          },
+          {
+            "colorName": "CC-244 French Toast",
+            "RGB8": {
+              "red": 235,
+              "green": 208,
+              "blue": 161
+            }
+          },
+          {
+            "colorName": "CC-246 Vichyssoise",
+            "RGB8": {
+              "red": 228,
+              "green": 218,
+              "blue": 188
+            }
+          },
+          {
+            "colorName": "CC-248 Papaya",
+            "RGB8": {
+              "red": 230,
+              "green": 216,
+              "blue": 186
+            }
+          },
+          {
+            "colorName": "CC-250 Seaspray",
+            "RGB8": {
+              "red": 227,
+              "green": 220,
+              "blue": 195
+            }
+          },
+          {
+            "colorName": "CC-260 Butter Cream",
+            "RGB8": {
+              "red": 214,
+              "green": 201,
+              "blue": 167
+            }
+          },
+          {
+            "colorName": "CC-270 Baffin Island",
+            "RGB8": {
+              "red": 194,
+              "green": 183,
+              "blue": 152
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-272 Spiced Rum",
+            "RGB8": {
+              "red": 157,
+              "green": 111,
+              "blue": 74
+            }
+          },
+          {
+            "colorName": "CC-274 Ginger Root",
+            "RGB8": {
+              "red": 203,
+              "green": 165,
+              "blue": 115
+            }
+          },
+          {
+            "colorName": "CC-276 Sepia Tan",
+            "RGB8": {
+              "red": 219,
+              "green": 190,
+              "blue": 153
+            }
+          },
+          {
+            "colorName": "CC-278 Kitsilano Beach",
+            "RGB8": {
+              "red": 235,
+              "green": 211,
+              "blue": 178
+            }
+          },
+          {
+            "colorName": "CC-280 Almond Bisque",
+            "RGB8": {
+              "red": 232,
+              "green": 220,
+              "blue": 188
+            }
+          },
+          {
+            "colorName": "CC-290 Straw Hat",
+            "RGB8": {
+              "red": 218,
+              "green": 202,
+              "blue": 162
+            }
+          },
+          {
+            "colorName": "CC-300 Sombrero",
+            "RGB8": {
+              "red": 207,
+              "green": 186,
+              "blue": 134
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-302 Rawhide",
+            "RGB8": {
+              "red": 186,
+              "green": 154,
+              "blue": 121
+            }
+          },
+          {
+            "colorName": "CC-304 Sisal",
+            "RGB8": {
+              "red": 202,
+              "green": 173,
+              "blue": 135
+            }
+          },
+          {
+            "colorName": "CC-306 Cable Knit",
+            "RGB8": {
+              "red": 227,
+              "green": 211,
+              "blue": 180
+            }
+          },
+          {
+            "colorName": "CC-308 Thousand Islands",
+            "RGB8": {
+              "red": 221,
+              "green": 205,
+              "blue": 180
+            }
+          },
+          {
+            "colorName": "CC-310 Dusty Road",
+            "RGB8": {
+              "red": 223,
+              "green": 209,
+              "blue": 193
+            }
+          },
+          {
+            "colorName": "CC-320 Bar Harbor Beige",
+            "RGB8": {
+              "red": 208,
+              "green": 189,
+              "blue": 165
+            }
+          },
+          {
+            "colorName": "CC-330 Hillsborough Beige",
+            "RGB8": {
+              "red": 189,
+              "green": 167,
+              "blue": 141
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-332 Norwester Tan",
+            "RGB8": {
+              "red": 170,
+              "green": 143,
+              "blue": 106
+            }
+          },
+          {
+            "colorName": "CC-334 Great Plains",
+            "RGB8": {
+              "red": 177,
+              "green": 153,
+              "blue": 123
+            }
+          },
+          {
+            "colorName": "CC-336 Wild Mushroom",
+            "RGB8": {
+              "red": 185,
+              "green": 162,
+              "blue": 132
+            }
+          },
+          {
+            "colorName": "CC-338 Bluffs",
+            "RGB8": {
+              "red": 202,
+              "green": 180,
+              "blue": 149
+            }
+          },
+          {
+            "colorName": "CC-340 Lambskin",
+            "RGB8": {
+              "red": 233,
+              "green": 221,
+              "blue": 201
+            }
+          },
+          {
+            "colorName": "CC-350 Sycamore",
+            "RGB8": {
+              "red": 228,
+              "green": 196,
+              "blue": 167
+            }
+          },
+          {
+            "colorName": "CC-360 Potters Clay",
+            "RGB8": {
+              "red": 186,
+              "green": 136,
+              "blue": 103
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-362 Elk",
+            "RGB8": {
+              "red": 166,
+              "green": 142,
+              "blue": 115
+            }
+          },
+          {
+            "colorName": "CC-364 Shore Line",
+            "RGB8": {
+              "red": 181,
+              "green": 160,
+              "blue": 140
+            }
+          },
+          {
+            "colorName": "CC-366 Nubuck",
+            "RGB8": {
+              "red": 202,
+              "green": 176,
+              "blue": 153
+            }
+          },
+          {
+            "colorName": "CC-368 Sandpiper Beige",
+            "RGB8": {
+              "red": 216,
+              "green": 195,
+              "blue": 174
+            }
+          },
+          {
+            "colorName": "CC-370 Sea Urchin",
+            "RGB8": {
+              "red": 226,
+              "green": 208,
+              "blue": 182
+            }
+          },
+          {
+            "colorName": "CC-380 Toffee Cream",
+            "RGB8": {
+              "red": 211,
+              "green": 172,
+              "blue": 137
+            }
+          },
+          {
+            "colorName": "CC-390 Rusty Nail",
+            "RGB8": {
+              "red": 157,
+              "green": 97,
+              "blue": 65
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-392 Muddy York",
+            "RGB8": {
+              "red": 181,
+              "green": 157,
+              "blue": 142
+            }
+          },
+          {
+            "colorName": "CC-394 Boulevard",
+            "RGB8": {
+              "red": 196,
+              "green": 185,
+              "blue": 175
+            }
+          },
+          {
+            "colorName": "CC-396 Stone Castle",
+            "RGB8": {
+              "red": 203,
+              "green": 190,
+              "blue": 176
+            }
+          },
+          {
+            "colorName": "CC-398 Old Montreal",
+            "RGB8": {
+              "red": 203,
+              "green": 186,
+              "blue": 169
+            }
+          },
+          {
+            "colorName": "CC-400 Sundial",
+            "RGB8": {
+              "red": 235,
+              "green": 213,
+              "blue": 177
+            }
+          },
+          {
+            "colorName": "CC-410 Boardwalk",
+            "RGB8": {
+              "red": 214,
+              "green": 180,
+              "blue": 136
+            }
+          },
+          {
+            "colorName": "CC-420 Maple Syrup",
+            "RGB8": {
+              "red": 185,
+              "green": 142,
+              "blue": 97
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-422 Pink Pebble",
+            "RGB8": {
+              "red": 205,
+              "green": 186,
+              "blue": 174
+            }
+          },
+          {
+            "colorName": "CC-424 Old Stone",
+            "RGB8": {
+              "red": 212,
+              "green": 197,
+              "blue": 187
+            }
+          },
+          {
+            "colorName": "CC-426 Bone China",
+            "RGB8": {
+              "red": 221,
+              "green": 212,
+              "blue": 203
+            }
+          },
+          {
+            "colorName": "CC-428 Ice Breaker",
+            "RGB8": {
+              "red": 232,
+              "green": 222,
+              "blue": 208
+            }
+          },
+          {
+            "colorName": "CC-430 Moccasin",
+            "RGB8": {
+              "red": 224,
+              "green": 207,
+              "blue": 180
+            }
+          },
+          {
+            "colorName": "CC-440 Capilano Bridge",
+            "RGB8": {
+              "red": 193,
+              "green": 168,
+              "blue": 136
+            }
+          },
+          {
+            "colorName": "CC-450 Caramel Apple",
+            "RGB8": {
+              "red": 154,
+              "green": 125,
+              "blue": 88
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-452 Deer Granite",
+            "RGB8": {
+              "red": 159,
+              "green": 141,
+              "blue": 125
+            }
+          },
+          {
+            "colorName": "CC-454 Cobblestone",
+            "RGB8": {
+              "red": 184,
+              "green": 170,
+              "blue": 157
+            }
+          },
+          {
+            "colorName": "CC-456 Dufferin Terrace",
+            "RGB8": {
+              "red": 202,
+              "green": 191,
+              "blue": 176
+            }
+          },
+          {
+            "colorName": "CC-458 Mocha Cream",
+            "RGB8": {
+              "red": 212,
+              "green": 202,
+              "blue": 190
+            }
+          },
+          {
+            "colorName": "CC-460 Inukshuk",
+            "RGB8": {
+              "red": 206,
+              "green": 197,
+              "blue": 182
+            }
+          },
+          {
+            "colorName": "CC-470 Rocky Road",
+            "RGB8": {
+              "red": 184,
+              "green": 171,
+              "blue": 155
+            }
+          },
+          {
+            "colorName": "CC-480 Cabot Trail",
+            "RGB8": {
+              "red": 160,
+              "green": 143,
+              "blue": 125
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-482 Chocolate Fondue",
+            "RGB8": {
+              "red": 115,
+              "green": 88,
+              "blue": 73
+            }
+          },
+          {
+            "colorName": "CC-484 Hot Chocolate",
+            "RGB8": {
+              "red": 135,
+              "green": 97,
+              "blue": 80
+            }
+          },
+          {
+            "colorName": "CC-486 Tiramisu",
+            "RGB8": {
+              "red": 181,
+              "green": 151,
+              "blue": 123
+            }
+          },
+          {
+            "colorName": "CC-488 Biscotti",
+            "RGB8": {
+              "red": 201,
+              "green": 173,
+              "blue": 143
+            }
+          },
+          {
+            "colorName": "CC-490 Stone Hearth",
+            "RGB8": {
+              "red": 197,
+              "green": 187,
+              "blue": 171
+            }
+          },
+          {
+            "colorName": "CC-500 Ranchwood",
+            "RGB8": {
+              "red": 174,
+              "green": 163,
+              "blue": 145
+            }
+          },
+          {
+            "colorName": "CC-510 Buckhorn",
+            "RGB8": {
+              "red": 133,
+              "green": 116,
+              "blue": 95
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-512 Marshlands",
+            "RGB8": {
+              "red": 102,
+              "green": 90,
+              "blue": 75
+            }
+          },
+          {
+            "colorName": "CC-514 Hiking Trail",
+            "RGB8": {
+              "red": 158,
+              "green": 136,
+              "blue": 117
+            }
+          },
+          {
+            "colorName": "CC-516 Flagstone",
+            "RGB8": {
+              "red": 151,
+              "green": 136,
+              "blue": 120
+            }
+          },
+          {
+            "colorName": "CC-518 Escarpment",
+            "RGB8": {
+              "red": 163,
+              "green": 158,
+              "blue": 151
+            }
+          },
+          {
+            "colorName": "CC-520 Florentine Plaster",
+            "RGB8": {
+              "red": 203,
+              "green": 197,
+              "blue": 177
+            }
+          },
+          {
+            "colorName": "CC-530 Brandon Beige",
+            "RGB8": {
+              "red": 176,
+              "green": 166,
+              "blue": 144
+            }
+          },
+          {
+            "colorName": "CC-540 Stampede",
+            "RGB8": {
+              "red": 134,
+              "green": 123,
+              "blue": 105
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-542 Willow",
+            "RGB8": {
+              "red": 87,
+              "green": 79,
+              "blue": 73
+            }
+          },
+          {
+            "colorName": "CC-544 Overcoat",
+            "RGB8": {
+              "red": 106,
+              "green": 105,
+              "blue": 104
+            }
+          },
+          {
+            "colorName": "CC-546 Metropolis",
+            "RGB8": {
+              "red": 140,
+              "green": 133,
+              "blue": 125
+            }
+          },
+          {
+            "colorName": "CC-548 Asphalt",
+            "RGB8": {
+              "red": 128,
+              "green": 126,
+              "blue": 120
+            }
+          },
+          {
+            "colorName": "CC-550 October Mist",
+            "RGB8": {
+              "red": 183,
+              "green": 185,
+              "blue": 166
+            }
+          },
+          {
+            "colorName": "CC-560 Raintree Green",
+            "RGB8": {
+              "red": 155,
+              "green": 157,
+              "blue": 136
+            }
+          },
+          {
+            "colorName": "CC-570 Forest Floor",
+            "RGB8": {
+              "red": 99,
+              "green": 101,
+              "blue": 82
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-572 Barnboard",
+            "RGB8": {
+              "red": 140,
+              "green": 131,
+              "blue": 117
+            }
+          },
+          {
+            "colorName": "CC-574 Mortar",
+            "RGB8": {
+              "red": 143,
+              "green": 130,
+              "blue": 107
+            }
+          },
+          {
+            "colorName": "CC-576 Nordic Gray",
+            "RGB8": {
+              "red": 159,
+              "green": 145,
+              "blue": 122
+            }
+          },
+          {
+            "colorName": "CC-578 Hemp Seed",
+            "RGB8": {
+              "red": 210,
+              "green": 198,
+              "blue": 169
+            }
+          },
+          {
+            "colorName": "CC-580 Glazed Green",
+            "RGB8": {
+              "red": 215,
+              "green": 219,
+              "blue": 192
+            }
+          },
+          {
+            "colorName": "CC-590 Grasslands",
+            "RGB8": {
+              "red": 176,
+              "green": 179,
+              "blue": 137
+            }
+          },
+          {
+            "colorName": "CC-600 Mossy Oak",
+            "RGB8": {
+              "red": 124,
+              "green": 129,
+              "blue": 105
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-602 Stanley Park",
+            "RGB8": {
+              "red": 164,
+              "green": 160,
+              "blue": 136
+            }
+          },
+          {
+            "colorName": "CC-604 Turret",
+            "RGB8": {
+              "red": 172,
+              "green": 159,
+              "blue": 137
+            }
+          },
+          {
+            "colorName": "CC-606 Spanish Olive",
+            "RGB8": {
+              "red": 198,
+              "green": 196,
+              "blue": 175
+            }
+          },
+          {
+            "colorName": "CC-608 Dewdrop",
+            "RGB8": {
+              "red": 227,
+              "green": 232,
+              "blue": 221
+            }
+          },
+          {
+            "colorName": "CC-610 Tea Light",
+            "RGB8": {
+              "red": 202,
+              "green": 209,
+              "blue": 192
+            }
+          },
+          {
+            "colorName": "CC-620 High Park",
+            "RGB8": {
+              "red": 141,
+              "green": 154,
+              "blue": 134
+            }
+          },
+          {
+            "colorName": "CC-630 Backwoods",
+            "RGB8": {
+              "red": 89,
+              "green": 99,
+              "blue": 82
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-632 Bed of Ferns",
+            "RGB8": {
+              "red": 154,
+              "green": 147,
+              "blue": 118
+            }
+          },
+          {
+            "colorName": "CC-634 Herbes de Provence",
+            "RGB8": {
+              "red": 175,
+              "green": 170,
+              "blue": 144
+            }
+          },
+          {
+            "colorName": "CC-636 Mountain Air",
+            "RGB8": {
+              "red": 197,
+              "green": 195,
+              "blue": 177
+            }
+          },
+          {
+            "colorName": "CC-638 Sesame",
+            "RGB8": {
+              "red": 220,
+              "green": 215,
+              "blue": 168
+            }
+          },
+          {
+            "colorName": "CC-640 Blue Grass",
+            "RGB8": {
+              "red": 195,
+              "green": 210,
+              "blue": 199
+            }
+          },
+          {
+            "colorName": "CC-650 Grenadier Pond",
+            "RGB8": {
+              "red": 145,
+              "green": 164,
+              "blue": 148
+            }
+          },
+          {
+            "colorName": "CC-660 Jack Pine",
+            "RGB8": {
+              "red": 91,
+              "green": 114,
+              "blue": 106
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-662 Night Owl",
+            "RGB8": {
+              "red": 90,
+              "green": 83,
+              "blue": 61
+            }
+          },
+          {
+            "colorName": "CC-664 Provincial Park",
+            "RGB8": {
+              "red": 106,
+              "green": 104,
+              "blue": 84
+            }
+          },
+          {
+            "colorName": "CC-666 Bonsai",
+            "RGB8": {
+              "red": 97,
+              "green": 99,
+              "blue": 66
+            }
+          },
+          {
+            "colorName": "CC-668 Misted Fern",
+            "RGB8": {
+              "red": 151,
+              "green": 155,
+              "blue": 115
+            }
+          },
+          {
+            "colorName": "CC-670 Gray Wisp",
+            "RGB8": {
+              "red": 192,
+              "green": 199,
+              "blue": 188
+            }
+          },
+          {
+            "colorName": "CC-680 Raindance",
+            "RGB8": {
+              "red": 168,
+              "green": 180,
+              "blue": 171
+            }
+          },
+          {
+            "colorName": "CC-690 Piedmont Gray",
+            "RGB8": {
+              "red": 158,
+              "green": 169,
+              "blue": 162
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-692 Topsoil",
+            "RGB8": {
+              "red": 67,
+              "green": 73,
+              "blue": 63
+            }
+          },
+          {
+            "colorName": "CC-694 Tapenade",
+            "RGB8": {
+              "red": 134,
+              "green": 132,
+              "blue": 104
+            }
+          },
+          {
+            "colorName": "CC-696 Taiga",
+            "RGB8": {
+              "red": 150,
+              "green": 146,
+              "blue": 128
+            }
+          },
+          {
+            "colorName": "CC-698 Killarney",
+            "RGB8": {
+              "red": 185,
+              "green": 185,
+              "blue": 162
+            }
+          },
+          {
+            "colorName": "CC-700 Smoky Green",
+            "RGB8": {
+              "red": 200,
+              "green": 208,
+              "blue": 201
+            }
+          },
+          {
+            "colorName": "CC-710 Mount Saint Anne",
+            "RGB8": {
+              "red": 164,
+              "green": 177,
+              "blue": 175
+            }
+          },
+          {
+            "colorName": "CC-720 Night Train",
+            "RGB8": {
+              "red": 123,
+              "green": 133,
+              "blue": 128
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-722 Vineland",
+            "RGB8": {
+              "red": 136,
+              "green": 137,
+              "blue": 115
+            }
+          },
+          {
+            "colorName": "CC-724 Homestead",
+            "RGB8": {
+              "red": 148,
+              "green": 153,
+              "blue": 129
+            }
+          },
+          {
+            "colorName": "CC-726 Nature Lover",
+            "RGB8": {
+              "red": 166,
+              "green": 171,
+              "blue": 147
+            }
+          },
+          {
+            "colorName": "CC-728 Maid of the Mist",
+            "RGB8": {
+              "red": 188,
+              "green": 199,
+              "blue": 184
+            }
+          },
+          {
+            "colorName": "CC-730 Blue Stream",
+            "RGB8": {
+              "red": 177,
+              "green": 202,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "CC-740 Labrador Blue",
+            "RGB8": {
+              "red": 128,
+              "green": 158,
+              "blue": 173
+            }
+          },
+          {
+            "colorName": "CC-750 West Coast",
+            "RGB8": {
+              "red": 108,
+              "green": 137,
+              "blue": 150
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-752 Miramichi",
+            "RGB8": {
+              "red": 49,
+              "green": 73,
+              "blue": 75
+            }
+          },
+          {
+            "colorName": "CC-754 Polar Jade",
+            "RGB8": {
+              "red": 79,
+              "green": 109,
+              "blue": 108
+            }
+          },
+          {
+            "colorName": "CC-756 Avalon",
+            "RGB8": {
+              "red": 112,
+              "green": 144,
+              "blue": 143
+            }
+          },
+          {
+            "colorName": "CC-758 Scenic Drive",
+            "RGB8": {
+              "red": 157,
+              "green": 173,
+              "blue": 159
+            }
+          },
+          {
+            "colorName": "CC-760 Northern Air",
+            "RGB8": {
+              "red": 161,
+              "green": 191,
+              "blue": 207
+            }
+          },
+          {
+            "colorName": "CC-770 Denim Wash",
+            "RGB8": {
+              "red": 134,
+              "green": 161,
+              "blue": 183
+            }
+          },
+          {
+            "colorName": "CC-780 Kensington Blue",
+            "RGB8": {
+              "red": 76,
+              "green": 91,
+              "blue": 114
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-782 Georgian Bay",
+            "RGB8": {
+              "red": 84,
+              "green": 115,
+              "blue": 133
+            }
+          },
+          {
+            "colorName": "CC-784 Clear Sailing",
+            "RGB8": {
+              "red": 132,
+              "green": 185,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "CC-786 Summer Day",
+            "RGB8": {
+              "red": 152,
+              "green": 196,
+              "blue": 224
+            }
+          },
+          {
+            "colorName": "CC-788 Watercolor",
+            "RGB8": {
+              "red": 189,
+              "green": 213,
+              "blue": 222
+            }
+          },
+          {
+            "colorName": "CC-790 Polar Sky",
+            "RGB8": {
+              "red": 204,
+              "green": 222,
+              "blue": 227
+            }
+          },
+          {
+            "colorName": "CC-800 Blue Nose",
+            "RGB8": {
+              "red": 100,
+              "green": 136,
+              "blue": 160
+            }
+          },
+          {
+            "colorName": "CC-810 Hudson Bay",
+            "RGB8": {
+              "red": 64,
+              "green": 83,
+              "blue": 103
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-812 Five Dollar Bill",
+            "RGB8": {
+              "red": 130,
+              "green": 166,
+              "blue": 193
+            }
+          },
+          {
+            "colorName": "CC-814 Glace Bay",
+            "RGB8": {
+              "red": 155,
+              "green": 181,
+              "blue": 200
+            }
+          },
+          {
+            "colorName": "CC-816 Athabasca",
+            "RGB8": {
+              "red": 178,
+              "green": 192,
+              "blue": 200
+            }
+          },
+          {
+            "colorName": "CC-818 Early Morning",
+            "RGB8": {
+              "red": 156,
+              "green": 178,
+              "blue": 188
+            }
+          },
+          {
+            "colorName": "CC-820 Airway",
+            "RGB8": {
+              "red": 181,
+              "green": 198,
+              "blue": 216
+            }
+          },
+          {
+            "colorName": "CC-830 Stratford Blue",
+            "RGB8": {
+              "red": 119,
+              "green": 134,
+              "blue": 162
+            }
+          },
+          {
+            "colorName": "CC-840 Blue Heron",
+            "RGB8": {
+              "red": 93,
+              "green": 107,
+              "blue": 134
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-842 Mistral",
+            "RGB8": {
+              "red": 17,
+              "green": 86,
+              "blue": 126
+            }
+          },
+          {
+            "colorName": "CC-844 Winter's Eve",
+            "RGB8": {
+              "red": 65,
+              "green": 115,
+              "blue": 157
+            }
+          },
+          {
+            "colorName": "CC-846 Lazy Sunday",
+            "RGB8": {
+              "red": 95,
+              "green": 144,
+              "blue": 183
+            }
+          },
+          {
+            "colorName": "CC-848 Mineral Springs",
+            "RGB8": {
+              "red": 175,
+              "green": 212,
+              "blue": 230
+            }
+          },
+          {
+            "colorName": "CC-850 Blue Ice",
+            "RGB8": {
+              "red": 187,
+              "green": 204,
+              "blue": 224
+            }
+          },
+          {
+            "colorName": "CC-860 Blue Nova",
+            "RGB8": {
+              "red": 92,
+              "green": 110,
+              "blue": 147
+            }
+          },
+          {
+            "colorName": "CC-870 Jet Blue",
+            "RGB8": {
+              "red": 66,
+              "green": 75,
+              "blue": 99
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-872 Delphinium",
+            "RGB8": {
+              "red": 49,
+              "green": 77,
+              "blue": 138
+            }
+          },
+          {
+            "colorName": "CC-874 Mosaic",
+            "RGB8": {
+              "red": 57,
+              "green": 99,
+              "blue": 164
+            }
+          },
+          {
+            "colorName": "CC-876 Mariner's Tale",
+            "RGB8": {
+              "red": 108,
+              "green": 142,
+              "blue": 180
+            }
+          },
+          {
+            "colorName": "CC-878 H2O",
+            "RGB8": {
+              "red": 162,
+              "green": 192,
+              "blue": 214
+            }
+          },
+          {
+            "colorName": "CC-880 Violet Mist",
+            "RGB8": {
+              "red": 202,
+              "green": 209,
+              "blue": 217
+            }
+          },
+          {
+            "colorName": "CC-890 Blue Pearl",
+            "RGB8": {
+              "red": 148,
+              "green": 161,
+              "blue": 190
+            }
+          },
+          {
+            "colorName": "CC-900 Blue Gaspe",
+            "RGB8": {
+              "red": 93,
+              "green": 99,
+              "blue": 117
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-902 Waterdrop",
+            "RGB8": {
+              "red": 93,
+              "green": 122,
+              "blue": 180
+            }
+          },
+          {
+            "colorName": "CC-904 Cascade",
+            "RGB8": {
+              "red": 142,
+              "green": 174,
+              "blue": 218
+            }
+          },
+          {
+            "colorName": "CC-906 Summer Mist",
+            "RGB8": {
+              "red": 158,
+              "green": 179,
+              "blue": 209
+            }
+          },
+          {
+            "colorName": "CC-908 Frozen Canal",
+            "RGB8": {
+              "red": 166,
+              "green": 184,
+              "blue": 206
+            }
+          },
+          {
+            "colorName": "CC-910 Whirlpool",
+            "RGB8": {
+              "red": 223,
+              "green": 227,
+              "blue": 228
+            }
+          },
+          {
+            "colorName": "CC-920 Yukon Sky",
+            "RGB8": {
+              "red": 161,
+              "green": 167,
+              "blue": 183
+            }
+          },
+          {
+            "colorName": "CC-930 Amethyst Shadow",
+            "RGB8": {
+              "red": 111,
+              "green": 114,
+              "blue": 131
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-932 North Sea",
+            "RGB8": {
+              "red": 44,
+              "green": 60,
+              "blue": 77
+            }
+          },
+          {
+            "colorName": "CC-934 In the Twilight",
+            "RGB8": {
+              "red": 117,
+              "green": 126,
+              "blue": 147
+            }
+          },
+          {
+            "colorName": "CC-936 Citadel",
+            "RGB8": {
+              "red": 148,
+              "green": 167,
+              "blue": 191
+            }
+          },
+          {
+            "colorName": "CC-938 Ice Sculpture",
+            "RGB8": {
+              "red": 200,
+              "green": 214,
+              "blue": 229
+            }
+          },
+          {
+            "colorName": "CC-940 Blue Viola",
+            "RGB8": {
+              "red": 173,
+              "green": 180,
+              "blue": 203
+            }
+          },
+          {
+            "colorName": "CC-950 Queen's Wreath",
+            "RGB8": {
+              "red": 125,
+              "green": 130,
+              "blue": 158
+            }
+          },
+          {
+            "colorName": "CC-960 French Violet",
+            "RGB8": {
+              "red": 106,
+              "green": 110,
+              "blue": 135
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "CC-962 Blackberry Punch",
+            "RGB8": {
+              "red": 64,
+              "green": 66,
+              "blue": 81
+            }
+          },
+          {
+            "colorName": "CC-964 Blue Grotto",
+            "RGB8": {
+              "red": 54,
+              "green": 58,
+              "blue": 100
+            }
+          },
+          {
+            "colorName": "CC-966 Wizard",
+            "RGB8": {
+              "red": 65,
+              "green": 71,
+              "blue": 110
+            }
+          },
+          {
+            "colorName": "CC-968 Basic Blue",
+            "RGB8": {
+              "red": 64,
+              "green": 70,
+              "blue": 126
+            }
+          },
+          {
+            "colorName": "CC-970 Heather Field",
+            "RGB8": {
+              "red": 167,
+              "green": 167,
+              "blue": 190
+            }
+          },
+          {
+            "colorName": "CC-980 Purple Haze",
+            "RGB8": {
+              "red": 131,
+              "green": 128,
+              "blue": 147
+            }
+          },
+          {
+            "colorName": "CC-990 Super Nova",
+            "RGB8": {
+              "red": 82,
+              "green": 77,
+              "blue": 91
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
