@@ -1,0 +1,196 @@
+{
+  "colorBook": {
+    "bookName": "ColorTrends2022_en-us",
+    "colorPage": [
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "AF-565 Mysterious",
+            "RGB8": {
+              "red": 69,
+              "green": 75,
+              "blue": 84
+            }
+          },
+          {
+            "colorName": "2090-40 Wild Flower",
+            "RGB8": {
+              "red": 191,
+              "green": 112,
+              "blue": 101
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "2114-60 Hint of Violet",
+            "RGB8": {
+              "red": 220,
+              "green": 212,
+              "blue": 211
+            }
+          },
+          {
+            "colorName": "OC-108 Pale Moon",
+            "RGB8": {
+              "red": 243,
+              "green": 231,
+              "blue": 190
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "OC-140 Morning Dew",
+            "RGB8": {
+              "red": 221,
+              "green": 220,
+              "blue": 205
+            }
+          },
+          {
+            "colorName": "AF-15 Steam",
+            "RGB8": {
+              "red": 240,
+              "green": 239,
+              "blue": 230
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "1495 October Mist",
+            "RGB8": {
+              "red": 182,
+              "green": 184,
+              "blue": 165
+            }
+          },
+          {
+            "colorName": "2145-40 Fernwood Green",
+            "RGB8": {
+              "red": 204,
+              "green": 204,
+              "blue": 163
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "467 High Park",
+            "RGB8": {
+              "red": 140,
+              "green": 153,
+              "blue": 133
+            }
+          },
+          {
+            "colorName": "1563 Quiet Moments",
+            "RGB8": {
+              "red": 199,
+              "green": 207,
+              "blue": 200
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "AF-45 Collector's Item",
+            "RGB8": {
+              "red": 241,
+              "green": 234,
+              "blue": 220
+            }
+          },
+          {
+            "colorName": "966 Natural Linen",
+            "RGB8": {
+              "red": 215,
+              "green": 205,
+              "blue": 183
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "AF-185 Venetian Portico",
+            "RGB8": {
+              "red": 196,
+              "green": 169,
+              "blue": 150
+            }
+          },
+          {
+            "colorName": "HC-100 Gloucester Sage",
+            "RGB8": {
+              "red": 123,
+              "green": 118,
+              "blue": 101
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

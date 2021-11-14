@@ -1,0 +1,409 @@
+{
+  "colorBook": {
+    "bookName": "America's Colors",
+    "colorPage": [
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "AC-1 Coastal Fog",
+            "RGB8": {
+              "red": 203,
+              "green": 197,
+              "blue": 177
+            }
+          },
+          {
+            "colorName": "AC-2 Berkshire Beige",
+            "RGB8": {
+              "red": 176,
+              "green": 166,
+              "blue": 144
+            }
+          },
+          {
+            "colorName": "AC-3 Texas Leather",
+            "RGB8": {
+              "red": 134,
+              "green": 123,
+              "blue": 105
+            }
+          },
+          {
+            "colorName": "AC-4 Yosemite Sand",
+            "RGB8": {
+              "red": 222,
+              "green": 202,
+              "blue": 173
+            }
+          },
+          {
+            "colorName": "AC-5 Springfield Tan",
+            "RGB8": {
+              "red": 193,
+              "green": 168,
+              "blue": 136
+            }
+          },
+          {
+            "colorName": "AC-6 New Chestnut",
+            "RGB8": {
+              "red": 161,
+              "green": 133,
+              "blue": 98
+            }
+          },
+          {
+            "colorName": "AC-7 Adobe Beige",
+            "RGB8": {
+              "red": 217,
+              "green": 197,
+              "blue": 172
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "AC-8 Butte Rock",
+            "RGB8": {
+              "red": 201,
+              "green": 172,
+              "blue": 140
+            }
+          },
+          {
+            "colorName": "AC-9 Nugget",
+            "RGB8": {
+              "red": 183,
+              "green": 145,
+              "blue": 108
+            }
+          },
+          {
+            "colorName": "AC-10 San Clemente Rose",
+            "RGB8": {
+              "red": 219,
+              "green": 185,
+              "blue": 162
+            }
+          },
+          {
+            "colorName": "AC-11 Sierra Ridge",
+            "RGB8": {
+              "red": 203,
+              "green": 163,
+              "blue": 135
+            }
+          },
+          {
+            "colorName": "AC-12 Copper Mountain",
+            "RGB8": {
+              "red": 178,
+              "green": 126,
+              "blue": 97
+            }
+          },
+          {
+            "colorName": "AC-13 Mochachino",
+            "RGB8": {
+              "red": 217,
+              "green": 190,
+              "blue": 174
+            }
+          },
+          {
+            "colorName": "AC-14 Pecos Spice",
+            "RGB8": {
+              "red": 196,
+              "green": 158,
+              "blue": 136
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "AC-15 Colorado Clay",
+            "RGB8": {
+              "red": 184,
+              "green": 141,
+              "blue": 118
+            }
+          },
+          {
+            "colorName": "AC-16 Kentucky Haze",
+            "RGB8": {
+              "red": 164,
+              "green": 177,
+              "blue": 175
+            }
+          },
+          {
+            "colorName": "AC-17 Sea Pine",
+            "RGB8": {
+              "red": 140,
+              "green": 149,
+              "blue": 145
+            }
+          },
+          {
+            "colorName": "AC-18 Smoky Mountain",
+            "RGB8": {
+              "red": 123,
+              "green": 133,
+              "blue": 128
+            }
+          },
+          {
+            "colorName": "AC-19 Homestead Green",
+            "RGB8": {
+              "red": 165,
+              "green": 188,
+              "blue": 183
+            }
+          },
+          {
+            "colorName": "AC-20 Mountain Laurel",
+            "RGB8": {
+              "red": 117,
+              "green": 143,
+              "blue": 137
+            }
+          },
+          {
+            "colorName": "AC-21 Silver Pine",
+            "RGB8": {
+              "red": 91,
+              "green": 114,
+              "blue": 106
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "AC-22 Nantucket Fog",
+            "RGB8": {
+              "red": 163,
+              "green": 181,
+              "blue": 187
+            }
+          },
+          {
+            "colorName": "AC-23 James River Gray",
+            "RGB8": {
+              "red": 135,
+              "green": 153,
+              "blue": 159
+            }
+          },
+          {
+            "colorName": "AC-24 Charlotte Slate",
+            "RGB8": {
+              "red": 103,
+              "green": 122,
+              "blue": 128
+            }
+          },
+          {
+            "colorName": "AC-25 Harbor Gray",
+            "RGB8": {
+              "red": 200,
+              "green": 200,
+              "blue": 195
+            }
+          },
+          {
+            "colorName": "AC-26 Ozark Shadows",
+            "RGB8": {
+              "red": 183,
+              "green": 181,
+              "blue": 173
+            }
+          },
+          {
+            "colorName": "AC-27 Galveston Gray",
+            "RGB8": {
+              "red": 154,
+              "green": 150,
+              "blue": 141
+            }
+          },
+          {
+            "colorName": "AC-28 Smoke Embers",
+            "RGB8": {
+              "red": 194,
+              "green": 192,
+              "blue": 187
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "AC-29 San Antonio Gray",
+            "RGB8": {
+              "red": 181,
+              "green": 179,
+              "blue": 175
+            }
+          },
+          {
+            "colorName": "AC-30 Winter Gates",
+            "RGB8": {
+              "red": 163,
+              "green": 158,
+              "blue": 151
+            }
+          },
+          {
+            "colorName": "AC-31 Hot Spring Stones",
+            "RGB8": {
+              "red": 202,
+              "green": 191,
+              "blue": 176
+            }
+          },
+          {
+            "colorName": "AC-32 Pismo Dunes",
+            "RGB8": {
+              "red": 184,
+              "green": 171,
+              "blue": 155
+            }
+          },
+          {
+            "colorName": "AC-33 Mesa Verde Tan",
+            "RGB8": {
+              "red": 160,
+              "green": 143,
+              "blue": 125
+            }
+          },
+          {
+            "colorName": "AC-34 Cape Hatteras Sand",
+            "RGB8": {
+              "red": 191,
+              "green": 185,
+              "blue": 175
+            }
+          },
+          {
+            "colorName": "AC-35 Valley Forge Tan",
+            "RGB8": {
+              "red": 183,
+              "green": 176,
+              "blue": 164
+            }
+          }
+        ]
+      },
+      {
+        "pageColor": {
+          "RGB8": {
+            "red": 255,
+            "green": 255,
+            "blue": 255
+          }
+        },
+        "colorEntry": [
+          {
+            "colorName": "AC-36 Shenandoah Taupe",
+            "RGB8": {
+              "red": 166,
+              "green": 155,
+              "blue": 142
+            }
+          },
+          {
+            "colorName": "AC-37 Big Bend Beige",
+            "RGB8": {
+              "red": 211,
+              "green": 201,
+              "blue": 190
+            }
+          },
+          {
+            "colorName": "AC-38 North Hampton Beige",
+            "RGB8": {
+              "red": 196,
+              "green": 185,
+              "blue": 175
+            }
+          },
+          {
+            "colorName": "AC-39 Mt. Rushmore Rock",
+            "RGB8": {
+              "red": 170,
+              "green": 155,
+              "blue": 142
+            }
+          },
+          {
+            "colorName": "AC-40 Glacier White",
+            "RGB8": {
+              "red": 237,
+              "green": 235,
+              "blue": 225
+            }
+          },
+          {
+            "colorName": "AC-41 Acadia White",
+            "RGB8": {
+              "red": 243,
+              "green": 240,
+              "blue": 224
+            }
+          },
+          {
+            "colorName": "AC-42 Grand Teton White",
+            "RGB8": {
+              "red": 234,
+              "green": 230,
+              "blue": 209
+            }
+          }
+        ]
+      }
+    ]
+  }
+}
