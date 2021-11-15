@@ -21,7 +21,7 @@ names = zip(BMnames, SWnames)
 
 @app.route("/")
 def main():
-    return '<p>' + (' <br> '.join(str(name) for name in names)) + '</p>'
+    return '<p>' + 'Benjamin Moore || Shermin Williams <br>' + (' <br> '.join(str(name) for name in names)) + '</p>'
 
 
 
