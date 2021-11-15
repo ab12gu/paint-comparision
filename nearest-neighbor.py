@@ -68,7 +68,6 @@ ax.set_xlabel('Red axis')
 ax.set_ylabel('Green axis')
 ax.set_zlabel('Blue axis')
 
-
 plt.show()
 
 # Import Benjamin Moore Data
@@ -86,7 +85,6 @@ rdataBM = []
 gdataBM = []
 bdataBM = []
 name_dataMB = []
-
 
 # iterate through all BM data and store rgb and name values
 
