@@ -1,6 +1,17 @@
 # paint-comparision
 Extract paint from key distributors and find best correlating pairs
 
+## Website Name
+findapaint.com
+
+## Paint Company List
+- Sherwin Williams
+- Benjamin Moore
+- Behr
+- Kelly moore
+- Valspar
+- Dunn Edward’s
+- Pratt & lambert
 
 ### Sherwin-williams all colors: 
 https://www.sherwin-williams.com/homeowners/color/find-and-explore-colors/paint-colors-by-family#/active/color-wall/section/sherwin-williams-colors/ 
