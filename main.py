@@ -33,5 +33,5 @@ names = list(map(list, zip(BMnames, SWnames)))
 
 @app.route("/")
 def main():
-    return '<p>' + 'Benjamin Moore || Shermin Williams <br>' + ' <br> '.join(str(name[0]) + ' || ' + str(name[1]) for name in names) + '</p>'
+    return 'Find a Paint <br><br>' + '<p>' + 'Benjamin Moore || Shermin Williams <br>' + ' <br> '.join(str(name[0]) + ' || ' + str(name[1]) for name in names) + '</p>'
 
