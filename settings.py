@@ -1,28 +1,25 @@
+# filename: settings.py
+#
+# by: Abhay Gupta
+# date created: 21-11-17
+#
+# desc: configuration file for flask settings; used to change path
 # -*- coding: utf-8 -*-
 
 import os
 
+## UNNECESSARY
 REPO_NAME = "flask-ghpages-example"  # Used for FREEZER_BASE_URL
 DEBUG = True
+##
 
-# Assumes the app is located in the same directory
-# where this file resides
+# Assumes the app is located in the same directory where this file resides
 APP_DIR = os.path.dirname(os.path.abspath(__file__)) + '/docs'
-print(os.path.dirname(os.path.abspath(__file__)) + '/docs')
 
-#exit()
+PROJECT_ROOT = os.path.abspath(os.path.join(APP_DIR, os.pardir)) + '/docs'
 
-def parent_dir(path):
-    '''Return the parent of a directory.'''
-    return os.path.abspath(os.path.join(path, os.pardir)) + '/docs'
-
-PROJECT_ROOT = parent_dir(APP_DIR)
-print(PROJECT_ROOT)
-
-# In order to deploy to Github pages, you must build the static files to
-# the project root
+# In order to deploy to Github pages, you must build the static files to the project root
 FREEZER_DESTINATION = PROJECT_ROOT
-# Since this is a repo page (not a Github user page),
-# we need to set the BASE_URL to the correct url as per GH Pages' standards
-FREEZER_REMOVE_EXTRA_FILES = False  # IMPORTANT: If this is True, all app files
-                                    # will be deleted when you run the freezer
+
+# IMPORTANT: If this is True, all app files will be deleted when you run the freezer
+FREEZER_REMOVE_EXTRA_FILES = False  
