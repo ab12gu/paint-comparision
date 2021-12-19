@@ -1,8 +1,8 @@
 # paint-comparision
 Extract paint from key distributors and find best correlating pairs
 
-## Website Name
-findapaint.com
+## Website
+[findapaint.com](http://findapaint.com/)
 
 ## Build Instructions
 Check out the [wiki](https://github.com/ab12gu/paint-comparision/wiki)
