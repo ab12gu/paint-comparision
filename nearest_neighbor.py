@@ -10,31 +10,43 @@
 # 4. Create psuedo-database
 ###################
 
-def nearest_neighbor():
+def distance_formula(x1, x2, y1, y2, z1, z2):
+    """ 
+    Calculate l2 norm distance
+    """
+    return ((x1-x2)**2 + (y1-y2)**2 + (z1-z2)**2)**(1/2)
 
+def nearest_neighbor():
+    """
+    Find the nearest neighboring color 
+    """
+
+    # Import libraries
+    from mpl_toolkits import mplot3d
     from sys import platform as sys_pf
+
+    # Change plotting dependency
     if sys_pf == 'darwin':
         import matplotlib
         # matplotlib.use("TkAgg")
 
     import json
-    import pprint
-    import numpy as np
     import matplotlib.pyplot as plt
-    from mpl_toolkits import mplot3d
+    import numpy as np
+    import pprint
 
-    def distance_formula(x1, x2, y1, y2, z1, z2):
-        return ((x1-x2)**2 + (y1-y2)**2 + (z1-z2)**2)**(1/2)
-
-    # filedirectory
+    # file directory
     input_SW_directory1 = "./SherwinWilliams/SW_json/SW_Emerald_Designer_Edition.json"
     input_SW_directory2 = "./SherwinWilliams/SW_json/SW-ColorSnap.json"
 
+    # initialize data arrays
     rdata = []
     gdata = []
     bdata = []
     name_data = []
 
+    # open file for shermin williams
+    print("Reading Shermin Williams data")
     with open(input_SW_directory1) as input_file:
         data = json.load(input_file)
 
@@ -72,6 +84,7 @@ def nearest_neighbor():
     #plt.show()
 
     # Import Benjamin Moore Data
+    print("Reading Benjamin Moore data")
     input_BM_directory = "./BenjaminMoore/BM_JSON/"
 
     import os
@@ -88,6 +101,7 @@ def nearest_neighbor():
     name_dataMB = []
 
     # iterate through all BM data and store rgb and name values
+    print("Calculating nearest neighbor for each datapoint")
 
     for i in range(0, len(input_filename)):
         with open(input_BM_directory + input_filename[i], 'r') as input_file:
@@ -146,6 +160,7 @@ def nearest_neighbor():
 
 
     # Write to excel sheet
+    print("Writing output to excel sheet")
 
     import xlsxwriter
 
@@ -183,7 +198,7 @@ def nearest_neighbor():
 
     return name_dataMB, closest_colorSW_name
 
-
+# define the entry point
 if __name__ == "__main__":
     nearest_neighbor()
 

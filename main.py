@@ -8,6 +8,7 @@
 # run: python3 freezer.py
 
 # Import data extraction & analysis software
+from re import A
 from nearest_neighbor import nearest_neighbor
 
 # Import flask specific libraries
@@ -21,17 +22,37 @@ from subprocess import Popen
 app = Flask(__name__)
 app.config.from_pyfile('settings.py') 
 pages = FlatPages(app)
-freezer = Freezer(app) # Create a static webpage
+#freezer = Freezer(app) # Create a static webpage
 
 # Call rgb analysis file
-BMnames, SWnames = nearest_neighbor()
-BMnames = [name.split(' ', 1)[1] for name in BMnames]
+# BMnames, SWnames = nearest_neighbor()
+# BMnames = [name.split(' ', 1)[1] for name in BMnames]
 
 # combine matching colors 
-names = list(map(list, zip(BMnames, SWnames)))
-# names = zip(BMnames, SWnames)
+# names = list(map(list, zip(BMnames, SWnames)))
 
-@app.route("/")
+@app.route("/") # decorator
 def main():
+    return render_template('main.html')
+
+def main():
+    """
+    Entry point for flask. Runs first declared function. 
+    """
+    print("Writing python output to main.html")
+    return render_template('template.html', my_string="Wheeeee!", my_list=[0,1,2,3,4,5])
+    #return render_template('main.html')
+
+## Flask will not run methods after first method. 
+
+def main():
+    print("Writing output to index.html")
     return 'Find a Paint <br><br>' + '<p>' + 'Benjamin Moore || Shermin Williams <br>' + ' <br> '.join(str(name[0]) + ' || ' + str(name[1]) for name in names) + '</p>'
 
+def template_test():
+    print("Writing output template.html")
+    return render_template('template.html', my_string="Wheeeee!", my_list=[0,1,2,3,4,5])
+
+## Take contents of flask and make it static via Freezer
+freezer = Freezer(app)
+freezer.freeze()

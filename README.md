@@ -47,3 +47,6 @@ https://flask.palletsprojects.com/en/2.0.x/
 
 https://pythonhosted.org/Frozen-Flask/
 
+## Unicode Characters
+
+https://www.compart.com/en/unicode/search?q=square#characters
