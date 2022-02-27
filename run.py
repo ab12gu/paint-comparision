@@ -23,8 +23,9 @@ from app.nearest_neighbor import nearest_neighbor
 
 # Flask meta
 template_dir = os.path.abspath('./app/templates/')
-#app = Flask(__name__, template_folder=template_dir, static_folder=os.path.join(os.getcwd(),'app','static'))
-app = Flask(__name__, template_folder=template_dir)
+static_dir = os.path.abspath('./app/static/')
+app = Flask(__name__, template_folder=template_dir, static_folder=static_dir)
+#app = Flask(__name__, template_folder=template_dir)
 app.config.from_pyfile('config.py') 
 pages = FlatPages(app)
 
