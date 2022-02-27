@@ -36,8 +36,8 @@ def nearest_neighbor():
     import pprint
 
     # file directory
-    input_SW_directory1 = "./SherwinWilliams/SW_json/SW_Emerald_Designer_Edition.json"
-    input_SW_directory2 = "./SherwinWilliams/SW_json/SW-ColorSnap.json"
+    input_SW_directory1 = "./data/brands/sherwin_williams/SW_json/SW_Emerald_Designer_Edition.json"
+    input_SW_directory2 = "./data/brands/sherwin_williams/SW_json/SW-ColorSnap.json"
 
     # initialize data arrays
     rdata = []
@@ -85,7 +85,7 @@ def nearest_neighbor():
 
     # Import Benjamin Moore Data
     print("Reading Benjamin Moore data")
-    input_BM_directory = "./BenjaminMoore/BM_JSON/"
+    input_BM_directory = "./data/brands/benjamin_moore/BM_JSON/"
 
     import os
 
@@ -164,7 +164,7 @@ def nearest_neighbor():
 
     import xlsxwriter
 
-    with xlsxwriter.Workbook('SW-BM-chart.xlsx') as workbook:
+    with xlsxwriter.Workbook('./data/excel/SW-BM-chart.xlsx') as workbook:
         workbook.add_format().set_bg_color('#0000FF')
         #worksheet = workbook.add_format({'bg_color': 'yellow'})
 

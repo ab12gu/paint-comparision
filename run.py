@@ -41,6 +41,14 @@ pages = FlatPages(app)
 # @app.route("/app") # decorator
 @app.route('/') # decorator
 def main():
+
+    # Call rgb analysis file
+    BMnames, SWnames = nearest_neighbor()
+    BMnames = [name.split(' ', 1)[1] for name in BMnames]
+
+    # combine matching colors 
+    names = list(map(list, zip(BMnames, SWnames)))
+
     return render_template('main.html')
 
 def main():

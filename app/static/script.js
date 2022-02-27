@@ -8,9 +8,24 @@ desc: enables dynamic content for user at client side (due to static site)
 // arrays of brands/colors
 var brands = ['Behr', 'Benjamin Moore', 'Dunn Edwards', 'Kelly Moore', 'Pratt & Lambert', 'Sherwin Williams', 'Valspar'];
 var colors = ['pink1', 'pink2', 'pink3', 'pink4', 'pink5', 'pink6', 'pink7'];
+var allBrands = brands.slice();
+
+function selectedBrand() {
+    var selectedBrand = document.getElementById('brands').value;
+
+    // remove brand from brand list
+    var index = allBrands.indexOf(selectedBrand);
+    brands = allBrands.slice();
+    if (index !== -1) {
+        brands.splice(index, 1);
+    }
+
+    // remove brand from hex wheel
+    updateHexBrandText()
+}
 
 // Fill out text items (brand/color) around hexagons
-function updatehexBrandText() {
+function updateHexBrandText() {
     var hexBrandTexts = document.getElementsByClassName('hexBrandText'); // brand items
     var hexColorTexts= document.getElementsByClassName('hexColorText'); // color items
     for (var i = 0; i < hexBrandTexts.length; i++) {
@@ -22,20 +37,9 @@ function updatehexBrandText() {
         hexColorText.innerHTML = colors[i];
         //hexColorText.style.color = "black";
 
-
     }
+    /* alert(specifiedColor) */
 }
-
-function showTemperatures() {
-    var temperatures = [59.2, 60.1, 63, 65, 62].map(function (t, i) {
-      return 'The temperature at ' + (i || 'noon') + ' was ' + t
-    })
-  
-    document.getElementById('temperatures').innerHTML =
-      '<li>' + temperatures.join('</li><li>') + '</li>'
-  }
-  
-  showTemperatures()
 
 /*
 function updatehexBrandText() {
@@ -47,11 +51,6 @@ function updatehexBrandText() {
     }
 }
 updatehexBrandText()
-
-function selectedBrand() {
-    var selectedBrand = document.getElementById('brands').value;
-    alert(selectedBrand)
-}
 
 */
 
