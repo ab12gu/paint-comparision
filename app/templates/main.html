@@ -8,7 +8,7 @@
         <link rel="icon" type="image/png" href="../static/color-palette.png"/>
     </head>
 
-    <body onload="updateHexText()">
+    <body onload="updatehexBrandText()">
         <h1>Find a Paint</h1>
         <div class="elem1"> 
             <label for="Supplier">Choose Supplier: &nbsp&nbsp&nbsp</label>
@@ -35,21 +35,31 @@
         <span style="color: #6C6; font-size: 135px;">&#x2B22;</span>
         -->
 
+
 <!-- TOP HEX ROW -->
     <div class="black">
+            <div class="textBlock">
+                <span class="hexBrandText"/> <!--Brand1-->
+            </div>
+            <div class="textBlock" style="margin-left:280px">
+                <span class="hexBrandText"/> <!--Brand2-->
+            </div>
+        <br>
+            <div class="textBlock">
+                <span class="hexColorText"/> <!--Color1-->
+            </div>
+            <div class="textBlock" style="margin-left:280px">
+                <span class="hexColorText"/> <!--Color2-->
+            </div>
         <div class="tab">
-            <span class="hexText"></span>
-            &nbsp &nbsp &nbsp &nbsp &nbsp 
             <span class="hex" id="topLeftHex" style="color: pink"/>
             <span class="hex" id="topRightHex" style="color: pink"/>
-            &nbsp &nbsp &nbsp &nbsp &nbsp 
-            <span class="hexText"></span>
         </div>
 
         <!--
         <script>
             let name = "Shermin Williams";
-                var spans = document.getElementsByClassName('hexText');
+                var spans = document.getElementsByClassName('hexBrandText');
                 for (var i = 0; i < spans.length; i++) {
                     var span = spans[i];
                     span.innerHTML = name;
@@ -58,27 +68,53 @@
 -->
 
 <!-- MID HEX ROW -->
-       <div>
-            <span class="hexText"></span>
-            &nbsp &nbsp &nbsp &nbsp &nbsp 
+            <div class="textBlock">
+                <span class="hexBrandText"/> <!--Brand1-->
+            </div>
+            <div class="textBlock" style="margin-left:280px">
+                <span class="hexBrandText"/> <!--Brand2-->
+            </div>
+        <br>
+            <div class="textBlock">
+                <span class="hexColorText"/> <!--Color1-->
+            </div>
+            <div class="textBlock" style="margin-left:280px">
+                <span class="hexColorText"/> <!--Color2-->
+            </div>
+       <div class="midHexTab">
             <span class="hex" id="leftHex" style="color: pink"/>
             <span class="hex" id="centerHex" style="color: pink" />
             <span class="hex" id="rightHex" style="color: pink" />
-            &nbsp &nbsp &nbsp &nbsp &nbsp 
-            <span class="hexText"></span>
         </div>
 
 <!-- BOT HEX ROW -->
+                <div class="textBlock">
+                <br>
+                <br>
+                    <span class="hexBrandText"/> <!--Brand1-->
+                </div>
+                <div class="textBlock" style="margin-left:280px">
+                <br>
+                <br>
+                    <span class="hexBrandText"/> <!--Brand2-->
+                </div>
+            <br>
+                <div class="textBlock">
+                <br>
+                <br>
+                    <span class="hexColorText"/> <!--Color1-->
+                </div>
+                <div class="textBlock" style="margin-left:280px">
+                <br>
+                <br>
+                    <span class="hexColorText"/> <!--Color2-->
+                </div>
         <div class="tab">
-            <span class="hexText"></span>
-            &nbsp &nbsp &nbsp &nbsp &nbsp 
             <span class="hex" id="botLeftHex" style="color: pink"/>
             <span class="hex" id="botRightHex" style="color: pink"/>
-            &nbsp &nbsp &nbsp &nbsp &nbsp 
-            <span class="hexText"></span>
         </div>
     </div>
-    <span onload=updateHexText() />
+    <span onload=updatehexBrandText() />
     <br> 
     <br>
     <hr>
@@ -181,5 +217,6 @@
 
 
 </html>
+
 
 

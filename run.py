@@ -9,18 +9,22 @@
 
 # Import data extraction & analysis software
 from re import A
-from nearest_neighbor import nearest_neighbor
 
 # Import flask specific libraries
 from flask import Flask, render_template
 from flask_flatpages import FlatPages
 from flask_frozen import Freezer
+import os
 
 from subprocess import Popen
 
+# local files
+from app.nearest_neighbor import nearest_neighbor
+
 # Flask meta
-app = Flask(__name__)
-app.config.from_pyfile('settings.py') 
+template_dir = os.path.abspath('./app/templates/')
+app = Flask(__name__, template_folder=template_dir)
+app.config.from_pyfile('config.py') 
 pages = FlatPages(app)
 #freezer = Freezer(app) # Create a static webpage
 

@@ -1,4 +1,4 @@
-# paint-comparision
+# paint-comparison
 Extract paint from key distributors and find best correlating pairs
 
 ## Website
@@ -6,6 +6,12 @@ Extract paint from key distributors and find best correlating pairs
 
 ## Build Instructions
 Check out the [wiki](https://github.com/ab12gu/paint-comparision/wiki)
+install `poetry`
+navigate to poetry folder `.\poetry\`
+run shell `poetry shell`
+install dependencies `poetry install`
+navigate to root `.\..\`
+run app `python3 app.py`
 
 ## Paint Company List
 - Sherwin Williams
@@ -47,6 +53,15 @@ https://flask.palletsprojects.com/en/2.0.x/
 
 https://pythonhosted.org/Frozen-Flask/
 
+https://realpython.com/introduction-to-flask-part-1-setting-up-a-static-site/
+
+### Directory Structure
+
+https://codersdiaries.com/blog/flask-project-structure
+
+https://realpython.com/dependency-management-python-poetry/
+
 ## Unicode Characters
 
 https://www.compart.com/en/unicode/search?q=square#characters
+
