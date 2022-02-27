@@ -2,15 +2,20 @@
 <html>
     <head>
         <title> Find a Paint</title>
-        <script type="text/javascript" src="../static/script.js"></script> <!-- JAVASCRIPT REFERENCE -->
-        <script src="{{ url_for('static', filename='script.js') }}"></script> <!--JS REF for BUILD-->
 
+        <!-- Rendering References-->
         <script src="../docs/static/script.js"></script> <!--JS REF for BUILD-->
         <link rel="stylesheet" href="../docs/static/styles.css"> <!-- CSS REFERENCE -->
-
-        <link rel="stylesheet" href="../static/styles.css"> <!-- CSS REFERENCE -->
-        <link href='https://fonts.googleapis.com/css?family=Alegreya Sans SC' rel='stylesheet'> <!-- FONT REFERENCE-->
         <link rel="icon" type="image/png" href="../docs/static/color-palette.png"/> <!-- FLAVICON -->
+
+        <!-- Pre-Rendering References-->
+        <script type="text/javascript" src="../static/script.js"></script> <!-- JS REFERENCE -->
+        <link rel="stylesheet" href="../static/styles.css"> <!-- CSS REFERENCE -->
+        <link rel="icon" type="image/png" href="../static/color-palette.png"/> <!-- FLAVICON -->
+        <!--<script src="{{ url_for('static', filename='script.js') }}"></script> <!--JS REF for BUILD-->
+
+
+        <link href='https://fonts.googleapis.com/css?family=Alegreya Sans SC' rel='stylesheet'> <!-- FONT REFERENCE-->
     </head>
 
     <body onload="updatehexBrandText()">
