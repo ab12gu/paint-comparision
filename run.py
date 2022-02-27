@@ -23,9 +23,10 @@ from app.nearest_neighbor import nearest_neighbor
 
 # Flask meta
 template_dir = os.path.abspath('./app/templates/')
-app = Flask(__name__, template_folder=template_dir)
+app = Flask(__name__, template_folder=template_dir, static_folder=os.path.join(os.getcwd(),'app','static'))
 app.config.from_pyfile('config.py') 
 pages = FlatPages(app)
+
 #freezer = Freezer(app) # Create a static webpage
 
 # Call rgb analysis file
@@ -35,7 +36,8 @@ pages = FlatPages(app)
 # combine matching colors 
 # names = list(map(list, zip(BMnames, SWnames)))
 
-@app.route("/") # decorator
+# @app.route("/app") # decorator
+@app.route('/') # decorator
 def main():
     return render_template('main.html')
 
