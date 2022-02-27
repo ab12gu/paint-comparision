@@ -10,7 +10,7 @@ var brands = ['Behr', 'Benjamin Moore', 'Dunn Edwards', 'Kelly Moore', 'Pratt & 
 var colors = ['pink1', 'pink2', 'pink3', 'pink4', 'pink5', 'pink6', 'pink7'];
 
 // Fill out text items (brand/color) around hexagons
-window.onload = function updatehexBrandText() {
+function updatehexBrandText() {
     var hexBrandTexts = document.getElementsByClassName('hexBrandText'); // brand items
     var hexColorTexts= document.getElementsByClassName('hexColorText'); // color items
     for (var i = 0; i < hexBrandTexts.length; i++) {
@@ -37,6 +37,7 @@ function showTemperatures() {
   
   showTemperatures()
 
+/*
 function updatehexBrandText() {
     let name = "Shermin Williams";
     var spans = document.getElementsByClassName('hexBrandText');
@@ -51,6 +52,8 @@ function selectedBrand() {
     var selectedBrand = document.getElementById('brands').value;
     alert(selectedBrand)
 }
+
+*/
 
 function updateSpecifiedColor() {
 
