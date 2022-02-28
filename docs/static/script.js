@@ -18,11 +18,15 @@ var PLdict = {};
 var SWdict = {};
 var Vdict = {};
 
-alert("hello");
 SWdict = JSON.parse(JSON.stringify(SW_data));
+
+/* CHECK VARIABLE INPUT FROM JINJA-PYTHON
+alert("hello");
 alert(SWdict["Cargo Pants"]);
 // var tp_data = {{letters|safe}};
 alert("world");
+*/
+
 /*
 alert("hello");
 var tp_data = {{letters|safe}}
@@ -41,9 +45,6 @@ alert(letters)
 */
 
 function selectedBrand() {
-    console.log("goodbye")
-    alert("hello")
-    alert(parsedBM)
     var selectedBrand = document.getElementById('brands').value;
     currBrand = selectedBrand;
 
@@ -110,8 +111,9 @@ function updateSpecifiedColor() {
     }
 
     var specifiedColor = document.getElementById('specifiedColor').value;
-    alert(specifiedColor)
+    //alert(specifiedColor)
     document.getElementById("centerHex").style.color = currBrandDict[specifiedColor];
+    //document.getElementById("centerHex").style.color = specifiedColor
 
     /* TEST CODE -- DELETE
     alert("Hello Javatpoint");  
