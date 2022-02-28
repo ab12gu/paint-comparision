@@ -9,11 +9,18 @@ desc: enables dynamic content for user at client side (due to static site)
 var brands = ['Behr', 'Benjamin Moore', 'Dunn Edwards', 'Kelly Moore', 'Pratt & Lambert', 'Sherwin Williams', 'Valspar'];
 var colors = ['pink1', 'pink2', 'pink3', 'pink4', 'pink5', 'pink6', 'pink7'];
 var allBrands = brands.slice();
+var currBrand = "Sherwin Williams";
+var Bdict = {};
+var BMdict = {};
+var DEdict = {};
+var KMdict = {};
+var PLdict = {};
+var SWdict = {};
+var Vdict = {};
 
 alert("hello");
-alert(JSON.parse(JSON.stringify(tp_data)));
-some_data = JSON.parse(JSON.stringify(tp_data));
-alert(some_data["Cargo Pants"]);
+SWdict = JSON.parse(JSON.stringify(SW_data));
+alert(SWdict["Cargo Pants"]);
 // var tp_data = {{letters|safe}};
 alert("world");
 /*
@@ -38,6 +45,7 @@ function selectedBrand() {
     alert("hello")
     alert(parsedBM)
     var selectedBrand = document.getElementById('brands').value;
+    currBrand = selectedBrand;
 
     // remove brand from brand list
     var index = allBrands.indexOf(selectedBrand);
@@ -82,8 +90,28 @@ updatehexBrandText()
 
 function updateSpecifiedColor() {
 
+    // use dictionary associated with the current brand
+    var currBrandDict = {}
+    switch(currBrand) {
+        case "Behr":
+            currBrandDict = SWdict;
+        case "Senjamin Moore":
+            currBrandDict = SWdict;
+        case "Dunn Edwards":
+            currBrandDict = SWdict;
+        case "Kelly Moore":
+            currBrandDict = SWdict;
+        case "Pratt & Lambert":
+            currBrandDict = SWdict;
+        case "Sherwin Williams":
+            currBrandDict = SWdict;
+        case "Valspar":
+            currBrandDict = SWdict;
+    }
+
     var specifiedColor = document.getElementById('specifiedColor').value;
-    document.getElementById("centerHex").style.color = specifiedColor;
+    alert(specifiedColor)
+    document.getElementById("centerHex").style.color = currBrandDict[specifiedColor];
 
     /* TEST CODE -- DELETE
     alert("Hello Javatpoint");  

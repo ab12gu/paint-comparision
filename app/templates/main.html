@@ -5,7 +5,7 @@
 
         <!-- Pass jinja variables to JS-->
         <script>
-          var tp_data = {{SW_data|safe}};
+          var SW_data = {{SW_data|safe}};
         </script>
 
         <!-- Rendering References-->
@@ -49,8 +49,11 @@
         <!--
         <span style="color: #6C6; font-size: 135px;">&#x2B22;</span>
         -->
+
+        <!--
         <p>{{ letters|safe }}</p>
         <p>{{ SW_data|safe }}</p>
+        -->
         <script>
           var tp_data = {{letters|safe}};
           var new_data = tp_data;
