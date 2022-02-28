@@ -98,7 +98,7 @@ def nearest_neighbor():
     rdataBM = []
     gdataBM = []
     bdataBM = []
-    name_dataMB = []
+    name_dataBM = []
 
     # iterate through all BM data and store rgb and name values
     print("Calculating nearest neighbor for each datapoint")
@@ -115,18 +115,18 @@ def nearest_neighbor():
                     rdataBM.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('red'))
                     gdataBM.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('green'))
                     bdataBM.append(data['colorBook']['colorPage'][i]['colorEntry'][j]['RGB8'].get('blue'))
-                    name_dataMB.append(data['colorBook']['colorPage'][i]['colorEntry'][j].get('colorName'))
+                    name_dataBM.append(data['colorBook']['colorPage'][i]['colorEntry'][j].get('colorName'))
 
     closest_colorSW_name = []
     closest_colorSW_hex = []
 
     # find hex values of all BM data
     colorBM_hex = []
-    for i in range(0, len(name_dataMB)):
+    for i in range(0, len(name_dataBM)):
         colorBM_hex.append('#%02x%02x%02x' % (rdataBM[i], gdataBM[i], bdataBM[i]))
 
     # iterate through both SW and BM Files and determine which points are closest to each other
-    for i in range(0, len(name_dataMB)):
+    for i in range(0, len(name_dataBM)):
         distance = 0
         min_distance = 256*3
         closest_color_name = ""
@@ -156,7 +156,7 @@ def nearest_neighbor():
     #print(rdataBM)
 
     #print(len(bdataBM))
-    #print(len(name_dataMB))
+    #print(len(name_dataBM))
 
 
     # Write to excel sheet
@@ -178,7 +178,7 @@ def nearest_neighbor():
         worksheet.write(0, 0, 'Benjamin Moore', header_color)
         worksheet.write(0, 1, 'Shermin Williams', header_color)
 
-        for row_num, data in enumerate(name_dataMB):
+        for row_num, data in enumerate(name_dataBM):
 
             # add color to background
             dataSW_color   = workbook.add_format({'bg_color': closest_colorSW_hex[row_num]})
@@ -193,10 +193,15 @@ def nearest_neighbor():
             # write sw data
             worksheet.write(row_num+1, 1, closest_colorSW_name[row_num], dataSW_color)
 
-    #print(name_dataMB)
+    #print(name_dataBM)
     #print(closest_colorSW)
 
-    return name_dataMB, closest_colorSW_name
+    # create dictionary from two lists
+    SW_dict = dict(zip(closest_colorSW_name, closest_colorSW_hex))
+    name_dataBM = [name.split(' ', 1)[1] for name in name_dataBM]
+    BM_dict = dict(zip(name_dataBM, colorBM_hex))
+
+    return BM_dict, SW_dict
 
 # define the entry point
 if __name__ == "__main__":

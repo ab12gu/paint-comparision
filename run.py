@@ -7,7 +7,8 @@
 # NOTE: in docs/ folder because of limitations of github pages
 # run: python3 freezer.py
 
-# Import data extraction & analysis software
+# Import data extraction & analysis softwareA
+import json
 from re import A
 
 # Import flask specific libraries
@@ -42,14 +43,13 @@ pages = FlatPages(app)
 @app.route('/') # decorator
 def main():
 
-    # Call rgb analysis file
-    BMnames, SWnames = nearest_neighbor()
-    BMnames = [name.split(' ', 1)[1] for name in BMnames]
+    # Call rgb analysis file, return dictionary
+    BM_dict, SW_dict = nearest_neighbor()
+    data = [1, 'foo']
+    return render_template('main.html', SW_data=SW_dict, letters = {'a':1,'b':2,'c':3})
 
-    # combine matching colors 
-    names = list(map(list, zip(BMnames, SWnames)))
 
-    return render_template('main.html')
+    return render_template('main.html', BM_dict=json.dumps(BM_dict), SW_dict=json.dumps(SW_dict))
 
 def main():
     """

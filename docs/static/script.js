@@ -10,7 +10,33 @@ var brands = ['Behr', 'Benjamin Moore', 'Dunn Edwards', 'Kelly Moore', 'Pratt & 
 var colors = ['pink1', 'pink2', 'pink3', 'pink4', 'pink5', 'pink6', 'pink7'];
 var allBrands = brands.slice();
 
+alert("hello");
+alert(JSON.parse(JSON.stringify(tp_data)));
+some_data = JSON.parse(JSON.stringify(tp_data));
+alert(some_data["Cargo Pants"]);
+// var tp_data = {{letters|safe}};
+alert("world");
+/*
+alert("hello");
+var tp_data = {{letters|safe}}
+alert(tp_data)
+
+/*
+// load python data of colors
+var myvar = '{{SW_dict|tojson}}';
+var parsedSW = JSON.parse(myvar);
+
+var myvar = '{{BM_dict|tojson}}';
+var parsedBM = JSON.parse(myvar);
+
+
+alert(letters)
+*/
+
 function selectedBrand() {
+    console.log("goodbye")
+    alert("hello")
+    alert(parsedBM)
     var selectedBrand = document.getElementById('brands').value;
 
     // remove brand from brand list

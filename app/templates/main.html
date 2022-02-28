@@ -3,6 +3,11 @@
     <head>
         <title> Find a Paint</title>
 
+        <!-- Pass jinja variables to JS-->
+        <script>
+          var tp_data = {{SW_data|safe}};
+        </script>
+
         <!-- Rendering References-->
         <script src="../docs/static/script.js"></script> <!--JS REF for BUILD-->
         <link rel="stylesheet" href="../docs/static/styles.css"> <!-- CSS REFERENCE -->
@@ -44,9 +49,17 @@
         <!--
         <span style="color: #6C6; font-size: 135px;">&#x2B22;</span>
         -->
+        <p>{{ letters|safe }}</p>
+        <p>{{ SW_data|safe }}</p>
+        <script>
+          var tp_data = {{letters|safe}};
+          var new_data = tp_data;
+          alert("bye")
+          some_data = JSON.parse(JSON.stringify(tp_data));
+          alert(some_data['a']);
+        </script>
 
-
-<!-- TOP HEX ROW -->
+       <!-- TOP HEX ROW -->
     <div class="black">
             <div class="textBlock">
                 <span class="hexBrandText"/> <!--Brand1-->
