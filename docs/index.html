@@ -28,224 +28,227 @@
     </head>
 
     <body onload="updateHexBrandText()">
-        <h1>Find a Paint</h1>
-        <div class="elem1"> 
-            <label for="Supplier">Choose Supplier: &nbsp&nbsp&nbsp</label>
-                    <select name="brands" id="brands" onchange="selectedBrand()">
-                        <option value="Sherwin Williams">Sherwin Williams</option>
-                        <option value="Benjamin Moore">Benjamin Moore</option>
-                        <option value="Dunn Edwards">Dunn Edwards</option>
-                        <option value="Kelly Moore">Kelly Moore</option>
-                        <option value="Pratt and Lambert">Pratt and Lambert</option>
-                        <option value="Valspar">Valspar</option>
-                        <option value="Behr">Behr</option>
-                    </select>
-        </div>
-        <p>
-            <label for="fname">Specify Color:</label>
-            &nbsp &nbsp &nbsp 
-            <input type="text" id="specifiedColor" name="specifiedColor" width="10px">
-            <input type="button" value="Enter" onclick="updateSpecifiedColor()"/>  
-            <br>
-            <br>
-        </p>
-        
-        <!--
-        <span style="color: #6C6; font-size: 135px;">&#x2B22;</span>
-        -->
+        <div class="body-width">
 
-        <!--
-        <p>{'a': 1, 'b': 2, 'c': 3}</p>
-        <p></p>
-        -->
+            <h1>Find a Paint</h1>
+            <div class="elem1"> 
+                <label for="Supplier">Choose Supplier: &nbsp&nbsp&nbsp</label>
+                        <select name="brands" id="brands" onchange="selectedBrand()">
+                            <option value="Sherwin Williams">Sherwin Williams</option>
+                            <option value="Benjamin Moore">Benjamin Moore</option>
+                            <option value="Dunn Edwards">Dunn Edwards</option>
+                            <option value="Kelly Moore">Kelly Moore</option>
+                            <option value="Pratt and Lambert">Pratt and Lambert</option>
+                            <option value="Valspar">Valspar</option>
+                            <option value="Behr">Behr</option>
+                        </select>
+            </div>
+            <p>
+                <label for="fname">Specify Color:</label>
+                &nbsp &nbsp &nbsp 
+                <input type="text" id="specifiedColor" name="specifiedColor" width="10px">
+                <input type="button" value="Enter" onclick="updateSpecifiedColor()"/>  
+                <br>
+                <br>
+            </p>
+            
+            <!--
+            <span style="color: #6C6; font-size: 135px;">&#x2B22;</span>
+            -->
 
-        <!--
-        <script>
-          var tp_data = {'a': 1, 'b': 2, 'c': 3};
-          var new_data = tp_data;
-          alert("bye")
-          some_data = JSON.parse(JSON.stringify(tp_data));
-          alert(some_data['a']);
-        </script>
-        -->
+            <!--
+            <p>{'a': 1, 'b': 2, 'c': 3}</p>
+            <p></p>
+            -->
 
-       <!-- TOP HEX ROW -->
-    <div class="black">
-            <div class="textBlock">
-                <span class="hexBrandText"/> <!--Brand1-->
-            </div>
-            <div class="textBlock" style="margin-left:280px">
-                <span class="hexBrandText"/> <!--Brand2-->
-            </div>
-        <br>
-            <div class="textBlock">
-                <span class="hexColorText"/> <!--Color1-->
-            </div>
-            <div class="textBlock" style="margin-left:280px">
-                <span class="hexColorText"/> <!--Color2-->
-            </div>
-        <div class="tab">
-            <span class="hex" id="topLeftHex" style="color: pink"/>
-            <span class="hex" id="topRightHex" style="color: pink"/>
-        </div>
+            <!--
+            <script>
+            var tp_data = {'a': 1, 'b': 2, 'c': 3};
+            var new_data = tp_data;
+            alert("bye")
+            some_data = JSON.parse(JSON.stringify(tp_data));
+            alert(some_data['a']);
+            </script>
+            -->
 
-        <!--
-        <script>
-            let name = "Shermin Williams";
-                var spans = document.getElementsByClassName('hexBrandText');
-                for (var i = 0; i < spans.length; i++) {
-                    var span = spans[i];
-                    span.innerHTML = name;
-                }
-        </script>
--->
-
-<!-- MID HEX ROW -->
-            <div class="textBlock">
-                <span class="hexBrandText"/> <!--Brand1-->
-            </div>
-            <div class="textBlock" style="margin-left:280px">
-                <span class="hexBrandText"/> <!--Brand2-->
-            </div>
-        <br>
-            <div class="textBlock">
-                <span class="hexColorText"/> <!--Color1-->
-            </div>
-            <div class="textBlock" style="margin-left:280px">
-                <span class="hexColorText"/> <!--Color2-->
-            </div>
-       <div class="midHexTab">
-            <span class="hex" id="leftHex" style="color: pink"/>
-            <span class="hex" id="centerHex" style="color: pink" />
-            <span class="hex" id="rightHex" style="color: pink" />
-        </div>
-
-<!-- BOT HEX ROW -->
+        <!-- TOP HEX ROW -->
+        <div class="black">
                 <div class="textBlock">
-                <br>
-                <br>
                     <span class="hexBrandText"/> <!--Brand1-->
                 </div>
                 <div class="textBlock" style="margin-left:280px">
-                <br>
-                <br>
                     <span class="hexBrandText"/> <!--Brand2-->
                 </div>
             <br>
                 <div class="textBlock">
-                <br>
-                <br>
                     <span class="hexColorText"/> <!--Color1-->
                 </div>
                 <div class="textBlock" style="margin-left:280px">
-                <br>
-                <br>
                     <span class="hexColorText"/> <!--Color2-->
                 </div>
-        <div class="tab">
-            <span class="hex" id="botLeftHex" style="color: pink"/>
-            <span class="hex" id="botRightHex" style="color: pink"/>
-        </div>
-    </div>
-    <span onload=updateHexBrandText() />
-    <br> 
-    <br>
-    <hr>
+            <div class="tab">
+                <span class="hex" id="topLeftHex" style="color: pink"/>
+                <span class="hex" id="topRightHex" style="color: pink"/>
+            </div>
 
-<!-- Color Pallette -->
-        <p>Color Pallette:</p> 
-        <div class="black">
-        <div>
-            <div style="margin-top: 1em">
-                Behr &nbsp &nbsp
-            </div>
-            <div class="tab_pallet">
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-            </div>
-        </div>
-        <div>
-            <div>
-                Benjamin Moore &nbsp &nbsp
-            </div>
-            <div class="tab_pallet">
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-            </div>
-        </div>
-        <div>
-            <div>
-                Dunn Edwards &nbsp &nbsp
-            </div>
-            <div class="tab_pallet">
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-            </div>
-        </div>
-        <div>
-            <div>
-                Kelly Moore &nbsp &nbsp
-            </div>
-            <div class="tab_pallet">
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-            </div>
-        </div>
-        <div>
-            <div>
-                Pratt & Lambert &nbsp &nbsp
-            </div>
-            <div class="tab_pallet">
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-            </div>
-        </div>
-        <div>
-            <div>
-                Sherwin Williams &nbsp &nbsp
-            </div>
-            <div class="tab_pallet">
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-            </div>
-        </div>
-        <div>
-            <div>
-                Valspar &nbsp &nbsp
-            </div>
-            <div class="tab_pallet">
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-                <span class="square" />
-            </div>
-        </div>
-    </div>
+            <!--
+            <script>
+                let name = "Shermin Williams";
+                    var spans = document.getElementsByClassName('hexBrandText');
+                    for (var i = 0; i < spans.length; i++) {
+                        var span = spans[i];
+                        span.innerHTML = name;
+                    }
+            </script>
+    -->
 
-        <hr>
-        <br>
-        <span>By: </span><span style="color:black">Abhay Gupta</span> 
-        <p>Donate via  <a href="https://patreon.com/abgup?utm_medium=social&utm_source=twitter&utm_campaign=creatorshare ">Patreon</a></p> 
+    <!-- MID HEX ROW -->
+                <div class="textBlock">
+                    <span class="hexBrandText"/> <!--Brand1-->
+                </div>
+                <div class="textBlock" style="margin-left:280px">
+                    <span class="hexBrandText"/> <!--Brand2-->
+                </div>
+            <br>
+                <div class="textBlock">
+                    <span class="hexColorText"/> <!--Color1-->
+                </div>
+                <div class="textBlock" style="margin-left:280px">
+                    <span class="hexColorText"/> <!--Color2-->
+                </div>
+        <div class="midHexTab">
+                <span class="hex" id="leftHex" style="color: pink"/>
+                <span class="hex" id="centerHex" style="color: pink" />
+                <span class="hex" id="rightHex" style="color: pink" />
+            </div>
 
+        <!-- BOT HEX ROW -->
+                <div class="textBlock">
+                    <br>
+                    <br>
+                        <span class="hexBrandText"/> <!--Brand1-->
+                </div>
+                    <div class="textBlock" style="margin-left:280px">
+                        <br>
+                        <br>
+                            <span class="hexBrandText"/> <!--Brand2-->
+                    </div>
+                    <br>
+                        <div class="textBlock">
+                        <br>
+                        <br>
+                            <span class="hexColorText"/> <!--Color1-->
+                        </div>
+                        <div class="textBlock" style="margin-left:280px">
+                        <br>
+                        <br>
+                            <span class="hexColorText"/> <!--Color2-->
+                        </div>
+                <div class="tab">
+                    <span class="hex" id="botLeftHex" style="color: pink"/>
+                    <span class="hex" id="botRightHex" style="color: pink"/>
+                </div>
+            </div>
+            <span onload=updateHexBrandText() />
+            <br> 
+            <br>
+            <hr>
+
+            <!-- Color Pallette -->
+            <p>Color Pallette:</p> 
+            <div class="black">
+                <div>
+                    <div style="margin-top: 1em">
+                        Behr &nbsp &nbsp
+                    </div>
+                    <div class="tab_pallet">
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        Benjamin Moore &nbsp &nbsp
+                    </div>
+                    <div class="tab_pallet">
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        Dunn Edwards &nbsp &nbsp
+                    </div>
+                    <div class="tab_pallet">
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        Kelly Moore &nbsp &nbsp
+                    </div>
+                    <div class="tab_pallet">
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        Pratt & Lambert &nbsp &nbsp
+                    </div>
+                    <div class="tab_pallet">
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        Sherwin Williams &nbsp &nbsp
+                    </div>
+                    <div class="tab_pallet">
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                    </div>
+                </div>
+                <div>
+                    <div>
+                        Valspar &nbsp &nbsp
+                    </div>
+                    <div class="tab_pallet">
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                        <span class="square" />
+                    </div>
+                </div>
+            </div>
+
+            <hr>
+            <br>
+            <span>By: </span><span style="color:black">Abhay Gupta</span> 
+            <p>Donate via  <a href="https://patreon.com/abgup?utm_medium=social&utm_source=twitter&utm_campaign=creatorshare ">Patreon</a></p> 
+
+        </div>
     </body>
 
 

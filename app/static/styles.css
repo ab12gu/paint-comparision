@@ -8,15 +8,32 @@ h1 {
   color: red;
 }
 
-body {
-    font-family: Alegreya Sans SC;
-    vertical-align: middle;
-    /*width:700px;*/
-    width: 30%;
-    max-width: 100%;
-    margin:0 auto;
-    color: #FB607F;
-    font-weight: 900;
+/* BODY for desktop */
+@media only screen and (min-width:700px) {
+    .body-width {
+        font-family: Alegreya Sans SC;
+        vertical-align: middle;
+        /*width:700px;*/
+        width: 30%;
+        max-width: 100%;
+        margin:0 auto;
+        color: #FB607F;
+        font-weight: 900;
+    }
+}
+
+/* BODY for mobile */
+@media only screen and (max-width:700px) {
+    .body-width {
+        font-family: Alegreya Sans SC;
+        vertical-align: middle;
+        /*width:700px;*/
+        width: 100%;
+        max-width: 100%;
+        margin:0 auto;
+        color: #FB607F;
+        font-weight: 900;
+    }
 }
 
 .hex::before {
