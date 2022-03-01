@@ -10,15 +10,16 @@ var brands = ['Behr', 'Benjamin Moore', 'Dunn Edwards', 'Kelly Moore', 'Pratt & 
 var colors = ['pink1', 'pink2', 'pink3', 'pink4', 'pink5', 'pink6', 'pink7'];
 var allBrands = brands.slice();
 var currBrand = "Sherwin Williams";
-var Bdict = {};
-var BMdict = {};
-var DEdict = {};
-var KMdict = {};
-var PLdict = {};
-var SWdict = {};
-var Vdict = {};
+var BdataDict = {};
+var BMdataDict = {};
+var DEdataDict = {};
+var KMdataDict = {};
+var PLdataDict = {};
+var SWdataDict = {};
+var VdataDict = {};
 
-SWdict = JSON.parse(JSON.stringify(SW_data));
+SWdataDict = JSON.parse(JSON.stringify(SWdata));
+BMdataDict = JSON.parse(JSON.stringify(BMdata));
 
 /* CHECK VARIABLE INPUT FROM JINJA-PYTHON
 alert("hello");
@@ -95,19 +96,19 @@ function updateSpecifiedColor() {
     var currBrandDict = {}
     switch(currBrand) {
         case "Behr":
-            currBrandDict = SWdict;
-        case "Senjamin Moore":
-            currBrandDict = SWdict;
+            currBrandDict = SWdataDict;
+        case "Benjamin Moore":
+            currBrandDict = BMdataDict;
         case "Dunn Edwards":
-            currBrandDict = SWdict;
+            currBrandDict = SWdataDict;
         case "Kelly Moore":
-            currBrandDict = SWdict;
+            currBrandDict = SWdataDict;
         case "Pratt & Lambert":
-            currBrandDict = SWdict;
+            currBrandDict = SWdataDict;
         case "Sherwin Williams":
-            currBrandDict = SWdict;
+            currBrandDict = SWdataDict;
         case "Valspar":
-            currBrandDict = SWdict;
+            currBrandDict = SWdataDict;
     }
 
     var specifiedColor = document.getElementById('specifiedColor').value;

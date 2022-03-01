@@ -44,9 +44,9 @@ pages = FlatPages(app)
 def main():
 
     # Call rgb analysis file, return dictionary
-    BM_dict, SW_dict = nearest_neighbor()
+    BM_data, SW_data = nearest_neighbor()
     data = [1, 'foo']
-    return render_template('main.html', SW_data=SW_dict, letters = {'a':1,'b':2,'c':3})
+    return render_template('main.html', SWdata=SW_data, BMdata = BM_data, letters = {'a':1,'b':2,'c':3})
 
 
     return render_template('main.html', BM_dict=json.dumps(BM_dict), SW_dict=json.dumps(SW_dict))
