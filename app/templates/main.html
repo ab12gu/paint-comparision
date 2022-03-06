@@ -1,7 +1,11 @@
-<!DOCTYPE html> 
+<!DOCTYPE html> <!-- Document type for browser rendering-->
 <html>
-    <head>
+    <head> <!-- Non-content information-->
+        <!-- URL description, aka title-->
         <title> Find a Paint</title>
+
+        <!--Define character encoding-->
+        <meta charset="utf-8">
         
         <!-- Mobile rendering tag-->
         <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -23,35 +27,45 @@
         <link rel="icon" type="image/png" href="../static/color-palette.png"/> <!-- FLAVICON -->
         <!--<script src="{{ url_for('static', filename='script.js') }}"></script> <!--JS REF for BUILD-->
 
-
+        <!-- Font reference -->
         <link href='https://fonts.googleapis.com/css?family=Alegreya Sans SC' rel='stylesheet'> <!-- FONT REFERENCE-->
     </head>
 
-    <body onload="updateHexBrandText()">
+    <body onload="updateHexBrandText()"> <!-- Contains all content -->
         <div class="body-width">
 
-            <h1>Find a Paint</h1>
-            <div class="elem1"> 
-                <label for="Supplier">Choose Supplier: &nbsp&nbsp&nbsp</label>
-                        <select name="brands" id="brands" onchange="selectedBrand()">
-                            <option value="Sherwin Williams">Sherwin Williams</option>
-                            <option value="Benjamin Moore">Benjamin Moore</option>
-                            <option value="Dunn Edwards">Dunn Edwards</option>
-                            <option value="Kelly Moore">Kelly Moore</option>
-                            <option value="Pratt and Lambert">Pratt and Lambert</option>
-                            <option value="Valspar">Valspar</option>
-                            <option value="Behr">Behr</option>
-                        </select>
+            <!-- Page title -->
+            <div class="title">
+                <h1>
+                    Find a Paint
+                </h1>
             </div>
+
+            <!-- Drop down (label-input) for brand selection-->
+            <label for="Supplier">Choose Supplier: &nbsp&nbsp&nbsp</label>
+                <span class="indent-supplier-select">
+                    <select name="brands" id="brands" onchange="selectedBrand()"> <!-- call JS function-->
+                        <option value="Sherwin Williams">Sherwin Williams</option>
+                        <option value="Benjamin Moore">Benjamin Moore</option>
+                        <option value="Dunn Edwards">Dunn Edwards</option>
+                        <option value="Kelly Moore">Kelly Moore</option>
+                        <option value="Pratt and Lambert">Pratt and Lambert</option>
+                        <option value="Valspar">Valspar</option>
+                        <option value="Behr">Behr</option>
+                    </select>
+                </span>
+
+            <!-- Drop down (label-input) for color selection-->
             <p>
                 <label for="fname">Specify Color:</label>
-                &nbsp &nbsp &nbsp 
-                <input type="text" id="specifiedColor" name="specifiedColor" width="10px">
-                <input type="button" value="Enter" onclick="updateSpecifiedColor()"/>  
-                <br>
-                <br>
+                    <span class="indent-color-select">
+                        <input type="text" id="specifiedColor" name="specifiedColor" width="10px">
+                        <input type="button" value="Enter" onclick="updateSpecifiedColor()"/>  
+                    </span>
             </p>
-            
+                <br>
+                <br>
+            <!--#region Jinja tests-->
             <!--
             <span style="color: #6C6; font-size: 135px;">&#x2B22;</span>
             -->
@@ -70,6 +84,8 @@
             alert(some_data['a']);
             </script>
             -->
+            <!--#endregion-->
+
 
         <!-- TOP HEX ROW -->
         <div class="black">
