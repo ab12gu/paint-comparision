@@ -140,7 +140,6 @@ function updateSpecifiedColor() {
     }
 
     // Update surrounding color text
-    alert("hello")
     updateHexColorText(index);
 
     // Update surround colors based on selected brand index
