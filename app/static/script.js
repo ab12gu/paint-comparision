@@ -9,7 +9,7 @@ desc: enables dynamic content for user at client side (due to static site)
 var brands = ['Behr', 'Benjamin Moore', 'Dunn Edwards', 'Kelly Moore', 'Pratt & Lambert', 'Sherwin Williams', 'Valspar'];
 var colors = ['pink1', 'pink2', 'pink3', 'pink4', 'pink5', 'pink6', 'pink7'];
 var allBrands = brands.slice();
-var currBrand = "Sherwin Williams";
+var currBrand = "Benjamin Moore";
 
 // initialize brand data
 var BdataDict = {};
@@ -23,6 +23,7 @@ var VdataDict = {};
 // pull data from python via Jinja
 SWdataDict = JSON.parse(JSON.stringify(SWdata));
 BMdataDict = JSON.parse(JSON.stringify(BMdata));
+
 
 // remove brand from outer hex list and update descriptors of hexagon
 function selectedBrand() {
@@ -40,6 +41,16 @@ function selectedBrand() {
 
     // remove brand from hex wheel
     updateHexBrandText()
+
+    // clear brands
+    var defaultColor = "blue"
+    document.getElementById('topLeftHex').style.color = defaultColor;
+    document.getElementById('topRightHex').style.color = defaultColor;
+    document.getElementById('leftHex').style.color = defaultColor;
+    document.getElementById('centerHex').style.color = defaultColor;
+    document.getElementById('rightHex').style.color = defaultColor;
+    document.getElementById('botLeftHex').style.color = defaultColor;
+    document.getElementById('botRightHex').style.color =  defaultColor;
 }
 
 // fill out text items (brand/color) around hexagons
@@ -65,39 +76,61 @@ function updateHexBrandText() {
 function updateSpecifiedColor() {
 
     // use dictionary associated with the current brand
-    var currBrandDict = {}
+    let currBrandDict = {}
     switch(currBrand) {
         case "Behr":
-            currBrandDict = SWdataDict;
+            currBrandDict = BMdataDict;
+            break;
         case "Benjamin Moore":
             currBrandDict = BMdataDict;
+            break;
         case "Dunn Edwards":
-            currBrandDict = SWdataDict;
+            currBrandDict = BMdataDict;
+            break;
         case "Kelly Moore":
-            currBrandDict = SWdataDict;
+            currBrandDict = BMdataDict;
+            break;
         case "Pratt & Lambert":
-            currBrandDict = SWdataDict;
+            currBrandDict = BMdataDict;
+            break;
         case "Sherwin Williams":
             currBrandDict = SWdataDict;
+            break;
         case "Valspar":
-            currBrandDict = SWdataDict;
+            currBrandDict = BMdataDict;
+            break;
     }
 
     // Update color based on brand/color spec
+    var index;
     var specifiedColor = document.getElementById('specifiedColor').value;
-    document.getElementById("centerHex").style.color = currBrandDict[specifiedColor];
+    //alert(specifiedColor)
+    //alert(currBrand)
+
+    // find the hex color associated with the specified name
+    for (var key in currBrandDict){
+        if (currBrandDict[key][0] == specifiedColor){
+            document.getElementById("centerHex").style.color = currBrandDict[key][1];
+            index = key; // save key for surrounding colors
+            break;
+        }
+    }
 
     // Update surround colors based on selected brand index
-    document.getElementById('topLeftHex').style.color = "blue";
-    document.getElementById('topRightHex').style.color = "blue";
-    document.getElementById('leftHex').style.color = "blue";
-    document.getElementById('rightHex').style.color = "blue";
-    document.getElementById('botLeftHex').style.color = "blue";
-    document.getElementById('botRightHex').style.color = "blue";
+    var defaultColor = "#375480"
+    document.getElementById('topLeftHex').style.color = defaultColor;
+    document.getElementById('topRightHex').style.color = defaultColor;
+    document.getElementById('leftHex').style.color = defaultColor;
+    document.getElementById('rightHex').style.color = defaultColor;
+    document.getElementById('botLeftHex').style.color = defaultColor; //BMnumDict[index];
+    document.getElementById('botRightHex').style.color =  SWdataDict[index][1];
 
     /* CHECK brand colors based on */
     //alert(specifiedColor)
     //alert(currBrandDict[specifiedColor])
+
+    //#region My Region
+
 
     //document.getElementById("centerHex").style.color = specifiedColor
 
@@ -131,8 +164,11 @@ function updateSpecifiedColor() {
     //var outputColor = document.getElementById("center");
     //var outputColor = document.getElementsByClassName('cs10E8CA05');
     //outputColor.style.color = 'blue';
+
+    //#endregion
   }
 
+//#region Antiquated functions
 /*
 function updatehexBrandText() {
     let name = "Shermin Williams";
@@ -145,7 +181,6 @@ function updatehexBrandText() {
 updatehexBrandText()
 
 */
-
 
 
 /* CHECK VARIABLE INPUT FROM JINJA-PYTHON
@@ -171,3 +206,6 @@ var parsedBM = JSON.parse(myvar);
 
 alert(letters)
 */
+
+//#endregion
+

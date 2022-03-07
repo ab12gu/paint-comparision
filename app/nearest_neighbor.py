@@ -10,6 +10,9 @@
 # 4. Create psuedo-database
 ###################
 
+from re import A
+
+
 def distance_formula(x1, x2, y1, y2, z1, z2):
     """ 
     Calculate l2 norm distance
@@ -197,11 +200,27 @@ def nearest_neighbor():
     #print(closest_colorSW)
 
     # create dictionary from two lists
-    SW_dict = dict(zip(closest_colorSW_name, closest_colorSW_hex))
-    name_dataBM = [name.split(' ', 1)[1] for name in name_dataBM]
-    BM_dict = dict(zip(name_dataBM, colorBM_hex))
+    print("Transfering data into dictionaries")
+    SW_dict = {}
+    for i in range(len(closest_colorSW_hex)):
+       SW_dict[i] = [closest_colorSW_name[i], closest_colorSW_hex[i]]
+
+    BM_dict = {}
+    name_dataBM = [name.split(' ', 1)[1] for name in name_dataBM] # remove identifier from prefix
+    for i in range(len(name_dataBM)):
+        BM_dict[i] = [name_dataBM[i], colorBM_hex[i]]
 
     return BM_dict, SW_dict
+
+    #region direct hex-name old
+    print(len(closest_colorSW_hex))
+    print(len(closest_colorSW_name))
+    SW_dict = dict(zip(closest_colorSW_name, closest_colorSW_hex))
+    print(len(SW_dict))
+    name_dataBM = [name.split(' ', 1)[1] for name in name_dataBM]
+    BM_dict = dict(zip(name_dataBM, colorBM_hex))
+    #endregion
+
 
 # define the entry point
 if __name__ == "__main__":

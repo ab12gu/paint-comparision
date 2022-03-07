@@ -12,8 +12,8 @@
 
         <!-- Pass jinja variables to JS-->
         <script>
-          var SWdata = {{SWdata|safe}};
-          var BMdata = {{BMdata|safe}};
+            var SWdata = {{SWdata|safe}};
+            var BMdata = {{BMdata|safe}};
         </script>
 
         <!-- Rendering References-->
@@ -45,8 +45,8 @@
             <label for="Supplier">Choose Supplier: &nbsp&nbsp&nbsp</label>
                 <span class="indent-supplier-select">
                     <select name="brands" id="brands" onchange="selectedBrand()"> <!-- call JS function-->
-                        <option value="Sherwin Williams">Sherwin Williams</option>
                         <option value="Benjamin Moore">Benjamin Moore</option>
+                        <option value="Sherwin Williams">Sherwin Williams</option>
                         <option value="Dunn Edwards">Dunn Edwards</option>
                         <option value="Kelly Moore">Kelly Moore</option>
                         <option value="Pratt and Lambert">Pratt and Lambert</option>
