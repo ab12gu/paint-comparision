@@ -203,12 +203,12 @@ def nearest_neighbor():
     print("Transfering data into dictionaries")
     SW_dict = {}
     for i in range(len(closest_colorSW_hex)):
-       SW_dict[i] = [closest_colorSW_name[i], closest_colorSW_hex[i]]
+       SW_dict[i] = [closest_colorSW_name[i].lower(), closest_colorSW_hex[i]]
 
     BM_dict = {}
     name_dataBM = [name.split(' ', 1)[1] for name in name_dataBM] # remove identifier from prefix
     for i in range(len(name_dataBM)):
-        BM_dict[i] = [name_dataBM[i], colorBM_hex[i]]
+        BM_dict[i] = [name_dataBM[i].lower(), colorBM_hex[i]]
 
     return BM_dict, SW_dict
 

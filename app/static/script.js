@@ -26,7 +26,7 @@ BMdataDict = JSON.parse(JSON.stringify(BMdata));
 
 
 // remove brand from outer hex list and update descriptors of hexagon
-function selectedBrand() {
+window.onload = function selectedBrand() {
 
     // get brand name from DOM
     var selectedBrand = document.getElementById('brands').value;
@@ -72,6 +72,28 @@ function updateHexBrandText() {
     /* alert(specifiedColor) */
 }
 
+function updateHexColorText(index){
+    /*
+        use index to find color of each brand
+        use color text to update color array
+        update dom with color text
+    */
+
+    // store color text
+    var Bcolor =    "blue"; // BdataDict[index][0];
+    var BMcolor =   "blue"; // BMdataDict[index][0];
+    var DEcolor =   "blue"; // DEdataDict[index][0];
+    var KMcolor =   "blue"; // KMdataDict[index][0];
+    var PLcolor =   "blue"; // PLdataDict[index][0];
+    var SWcolor =   SWdataDict[index][0];
+    var Vcolor =    "blue"; // VdataDict[index][0];
+
+    var SWbrandIndex = brands.indexOf('Sherwin Williams');
+    colors[SWbrandIndex] = SWcolor;
+
+    // update text
+    updateHexBrandText();
+}
 
 function updateSpecifiedColor() {
 
@@ -104,6 +126,7 @@ function updateSpecifiedColor() {
     // Update color based on brand/color spec
     var index;
     var specifiedColor = document.getElementById('specifiedColor').value;
+    specifiedColor = specifiedColor.toLowerCase();
     //alert(specifiedColor)
     //alert(currBrand)
 
@@ -115,6 +138,10 @@ function updateSpecifiedColor() {
             break;
         }
     }
+
+    // Update surrounding color text
+    alert("hello")
+    updateHexColorText(index);
 
     // Update surround colors based on selected brand index
     var defaultColor = "#375480"
