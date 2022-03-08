@@ -1,5 +1,9 @@
 <!DOCTYPE html> <!-- Document type for browser rendering-->
 <html>
+
+<!------------------------------------------------------------------------------>
+            <!-- Header: Jinja Variables & References -->
+<!------------------------------------------------------------------------------>
     <head> <!-- Non-content information-->
         <!-- URL description, aka title-->
         <title> Find a Paint</title>
@@ -17,20 +21,22 @@
         </script>
 
         <!-- Rendering References-->
-        <script src="../docs/static/script.js"></script> <!--JS REF for BUILD-->
-        <link rel="stylesheet" href="../docs/static/styles.css"> <!-- CSS REFERENCE -->
-        <link rel="icon" type="image/png" href="../docs/static/color-palette.png"/> <!-- FLAVICON -->
+        <script src="../docs/static/script.js"></script>                                <!--JS REF for BUILD-->
+        <link rel="stylesheet" href="../docs/static/styles.css">                        <!-- CSS REFERENCE -->
+        <link rel="icon" type="image/png" href="../docs/static/color-palette.png"/>     <!-- FLAVICON -->
 
         <!-- Pre-Rendering References-->
-        <script type="text/javascript" src="../static/script.js"></script> <!-- JS REFERENCE -->
-        <link rel="stylesheet" href="../static/styles.css"> <!-- CSS REFERENCE -->
-        <link rel="icon" type="image/png" href="../static/color-palette.png"/> <!-- FLAVICON -->
-        <!--<script src="/static/script.js"></script> <!--JS REF for BUILD-->
+        <script type="text/javascript" src="../static/script.js"></script>              <!-- JS REFERENCE -->
+        <link rel="stylesheet" href="../static/styles.css">                             <!-- CSS REFERENCE -->
+        <link rel="icon" type="image/png" href="../static/color-palette.png"/>          <!-- FLAVICON -->
 
         <!-- Font reference -->
         <link href='https://fonts.googleapis.com/css?family=Alegreya Sans SC' rel='stylesheet'> <!-- FONT REFERENCE-->
     </head>
 
+<!------------------------------------------------------------------------------>
+            <!-- Body -->
+<!------------------------------------------------------------------------------>
     <body onload="updateHexBrandText()"> <!-- Contains all content -->
         <div class="body-width">
 
@@ -65,27 +71,10 @@
             </p>
                 <br>
                 <br>
-            <!--#region Jinja tests-->
-            <!--
-            <span style="color: #6C6; font-size: 135px;">&#x2B22;</span>
-            -->
 
-            <!--
-            <p></p>
-            <p></p>
-            -->
-
-            <!--
-            <script>
-            var tp_data = ;
-            var new_data = tp_data;
-            alert("bye")
-            some_data = JSON.parse(JSON.stringify(tp_data));
-            alert(some_data['a']);
-            </script>
-            -->
-            <!--#endregion-->
-
+<!------------------------------------------------------------------------------>
+            <!-- Hexagons -->
+<!------------------------------------------------------------------------------>
 
         <!-- TOP HEX ROW -->
         <div class="black">
@@ -132,7 +121,7 @@
                 <div class="textBlock" style="margin-left:280px">
                     <span class="hexColorText"/> <!--Color2-->
                 </div>
-        <div class="midHexTab">
+            <div class="midHexTab">
                 <span class="hex" id="leftHex" style="color: pink"/>
                 <span class="hex" id="centerHex" style="color: pink" />
                 <span class="hex" id="rightHex" style="color: pink" />
@@ -169,11 +158,12 @@
             <br> 
             <br>
             <hr>
-
+<!------------------------------------------------------------------------------>
             <!-- Color Pallette -->
+<!------------------------------------------------------------------------------>
             <p>Color Pallette:</p> 
             <div class="black">
-                <div style="margin-top: 1em" class="palletes">
+                <div class="palletes">
                     <div class="pallete">
                         <div class="pallete-title">Behr</div>
                         <div class="pallete-squares">
@@ -246,16 +236,20 @@
                     </div>
                 </div>
             </div>
-
             <hr>
-            <br>
-            <span>By: </span><span style="color:black">Abhay Gupta</span> 
-            <p>Donate via  <a href="https://patreon.com/abgup?utm_medium=social&utm_source=twitter&utm_campaign=creatorshare ">Patreon</a></p> 
 
+<!------------------------------------------------------------------------------>
+            <!-- Footer -->
+<!------------------------------------------------------------------------------>
+            <div style="margin-top:2em">
+                By: <span style="color:black">Abhay Gupta</span> 
+            </div>
+            <div style="margin:1em 0em 3em 0em"> <!-- top right bot left-->
+                Donate via  <a href="https://patreon.com/abgup?utm_medium=social&utm_source=twitter&utm_campaign=creatorshare ">Patreon</a>
+            </div>
         </div>
+
     </body>
-
-
 </html>
 
 
