@@ -101,3 +101,44 @@ span {
     margin-top:-10px;
     margin-left:280px;
 }
+
+
+
+.pallete {
+    padding: 4px;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    
+    /* you can set a max width if you choose to */
+    /* max-width: 500px; */
+  
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid red; */
+  }
+  
+  .pallete-squares {
+    gap: 1px;
+    display: flex;
+    justify-content: space-between;
+    width:140px;
+  
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid green; */
+  }
+  
+  .pallete-title {
+    width: 150px;
+  
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid orange; */
+  }
+  
+  .square-pallette {
+    width: 25px;
+    height: 25px;
+    background: pink;
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid blue; */
+  }
