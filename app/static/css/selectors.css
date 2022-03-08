@@ -1,0 +1,49 @@
+/*********************************************************************************/
+/* selector region (brand, color) */
+/*********************************************************************************/
+
+#brands{
+    width:133px;
+   }
+
+.selector {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+
+
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid red; */
+}
+
+.selector-label {
+    width: 150px;
+
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid orange; */
+}
+
+.selector-box {
+    gap: 5px;
+    display: flex;
+    justify-content: space-between;
+    width:200px;
+
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid green; */
+}
+
+
+/* Tab data */
+.indent-supplier-select {
+    padding-left: 3%;
+}
+
+/* Tab data */
+.indent-color-select {
+    padding-left: 9%;
+}
+

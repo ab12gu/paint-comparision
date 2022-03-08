@@ -2,17 +2,6 @@
 /* hexagon region */
 /*********************************************************************************/
 
-/* Tab data */
-.indent-supplier-select {
-    padding-left: 3%;
-}
-
-/* Tab data */
-.indent-color-select {
-    padding-left: 9%;
-}
-
-
 .hex::before {
     content: "\2B22";
     font-size:135px;

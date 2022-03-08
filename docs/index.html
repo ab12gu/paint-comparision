@@ -6,7 +6,7 @@
 <!------------------------------------------------------------------------------>
     <head> <!-- Non-content information-->
         <!-- URL description, aka title-->
-        <title class="title-font"> Find a Paint</title>
+        <title> Find a Paint</title>
 
         <!--Define character encoding-->
         <meta charset="utf-8">
@@ -41,36 +41,39 @@
         <div class="body-display">
 
             <!-- Page title -->
-            <div class="title">
+            <div class="title-font">
                 <h1>
                     Find a Paint
                 </h1>
             </div>
 
             <!-- Drop down (label-input) for brand selection-->
-            <label for="Supplier">Choose Supplier: &nbsp&nbsp&nbsp</label>
-                <span class="indent-supplier-select">
-                    <select name="brands" id="brands" onchange="selectedBrand()"> <!-- call JS function-->
-                        <option value="Benjamin Moore">Benjamin Moore</option>
-                        <option value="Sherwin Williams">Sherwin Williams</option>
-                        <option value="Dunn Edwards">Dunn Edwards</option>
-                        <option value="Kelly Moore">Kelly Moore</option>
-                        <option value="Pratt and Lambert">Pratt and Lambert</option>
-                        <option value="Valspar">Valspar</option>
-                        <option value="Behr">Behr</option>
-                    </select>
-                </span>
+            <div class="selector">
+                <div class="selector-label">
+                    <label for="Supplier">Choose Supplier</label>
+                </div>
+                    <div class="selector-box">
+                        <select name="brands" id="brands" onchange="selectedBrand()"> <!-- call JS function-->
+                            <option value="Benjamin Moore">Benjamin Moore</option>
+                            <option value="Sherwin Williams">Sherwin Williams</option>
+                            <option value="Dunn Edwards">Dunn Edwards</option>
+                            <option value="Kelly Moore">Kelly Moore</option>
+                            <option value="Pratt and Lambert">Pratt and Lambert</option>
+                            <option value="Valspar">Valspar</option>
+                            <option value="Behr">Behr</option>
+                        </select>
+                    </div>
+            </div>
 
             <!-- Drop down (label-input) for color selection-->
-            <p>
-                <label for="fname">Specify Color:</label>
-                    <span class="indent-color-select">
-                        <input type="text" id="specifiedColor" name="specifiedColor" width="10px">
+            <div class="selector">
+                <div class="selector-label">Specify Color</div>
+                    <div class="selector-box">
+                        <input type="text" id="specifiedColor" name="specifiedColor" size="18">
                         <input type="button" value="Enter" onclick="updateSpecifiedColor()"/>  
-                    </span>
-            </p>
-                <br>
-                <br>
+                    </div>
+            </div>
+            <hr>
 
 <!------------------------------------------------------------------------------>
             <!-- Hexagons -->
