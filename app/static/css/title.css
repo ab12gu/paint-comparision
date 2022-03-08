@@ -1,9 +1,10 @@
 /*********************************************************************************/
-/* import css elements */
+/* title region */
 /*********************************************************************************/
 
-@import "css/base.css";
-@import "css/body.css";
-@import "css/color-palette.css";
-@import "css/hexagon.css";
-@import "css/title.css";
+/* title font */
+.title-font {
+  font-family: Alegreya Sans SC;
+  color: black
+}
+

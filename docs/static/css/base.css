@@ -1,9 +1,9 @@
 /*********************************************************************************/
-/* import css elements */
+/* base tags region */
 /*********************************************************************************/
 
-@import "css/base.css";
-@import "css/body.css";
-@import "css/color-palette.css";
-@import "css/hexagon.css";
-@import "css/title.css";
+/* Empty class */
+span {
+    margin: 0;
+    padding:0;
+}
