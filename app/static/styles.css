@@ -66,14 +66,10 @@ span {
     margin-bottom: -1.15em;
 }
 
-
-.tab_pallet {
-    margin-left: 10.25em
-}
-
 /* square box for pallet*/
 .square-palette {
     display: inline-block;
+    z-index: 1;
     background-color: pink;
     height: 1.5em; /*calc(100%-50px);*/
     width: 1.5em;
