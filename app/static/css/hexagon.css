@@ -2,27 +2,81 @@
 /* hexagon region */
 /*********************************************************************************/
 
-.hex::before {
-    content: "\2B22";
-    font-size:135px;
-    line-height: .64em;
-    margin-left:-0.085em;
-    margin-right:-0.085em;
+.hexagons {
+    padding: 1px;
+    display: grid;
+    grid-template-rows: auto;
+    grid-template-columns: auto 1fr;
+    align-items: center;
+    
+    /* you can set a max width if you choose to */
+    /* max-width: 500px; */
+  
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid red; */
 }
 
-.tab {
-    margin-left: 8.55em
-}
-
-.midHexTab {
-    margin-top: -1.15em;
-    margin-left: 5.35em;
-    margin-bottom: -1.15em;
-}
-
-.textBlock{
-    width: 140px;
+.hexagon-label-left {
+    margin-top: 1.3em;
+    padding-right: 0.5em;
+    width: 170px;
+    height: 3em;
+    color: black;
     text-align: right;
-    /*border: 1px solid black;*/
-    position: absolute;
+
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid orange; */
 }
+
+.hexagon-label-right {
+    margin-top: 2em;
+    padding-left: 0.5em;
+    width: 170px;
+    height: 3em;
+    color: black;
+    text-align: left;
+
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid orange; */
+}
+
+.hexagon-grid {
+    gap: 1px;
+    display: flex;
+    justify-content: start;
+    width: 500px;/*width:208px;*/
+
+
+    /* uncomment the next line for debugging/visualization */
+    /* outline: 1px solid green; */
+}
+
+.hexagon {
+    margin-top: 30px;
+    width: 104px;
+    height: 60px;
+    background-color: pink;
+    position: relative;
+}
+
+.hexagon:before {
+    content: " ";
+    width: 0; height: 0;
+    border-bottom: 30px solid pink;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+    position: absolute;
+    top: -30px;
+}
+
+.hexagon:after {
+    content: "";
+    width: 0;
+    position: absolute;
+    bottom: -30px;
+    border-top: 30px solid pink;
+    border-left: 52px solid transparent;
+    border-right: 52px solid transparent;
+}
+
+/*******************************************/
