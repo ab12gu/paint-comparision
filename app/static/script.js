@@ -110,6 +110,23 @@ function updateSpecifiedColor() {
     }
 
     /*
+        Loop through color brands and fill in the color name with the 
+        matching name from the associated dictionary
+    */
+
+    let count = 0;
+    for (let i = 0; i < 7; i++) {
+        if (currData[i][0] == "Sherwin Williams") {
+            currData[i][1] = SWdataDict[index][0];
+        } 
+        else {
+            currData[i][1] = BMdataDict[index][0];
+        }
+    }
+
+    updateHexBrandText();
+
+    /*
     // fill out outer hexagons
     let count = 0;
     for (let i = 0; i < 7; i++) {
