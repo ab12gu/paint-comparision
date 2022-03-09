@@ -95,8 +95,10 @@ function updateSpecifiedColor() {
     var index;
     var specifiedColor = document.getElementById('specifiedColor').value;
     specifiedColor = specifiedColor.toLowerCase();
-    alert(specifiedColor)
-    alert(currBrand)
+
+    // CHECK if selectors are stored locally
+    //alert(specifiedColor)
+    //alert(currBrand)
 
     // find the hex color associated with the specified name
     for (var key in currBrandDict){
@@ -107,6 +109,7 @@ function updateSpecifiedColor() {
         }
     }
 
+    /*
     // fill out outer hexagons
     let count = 0;
     for (let i = 0; i < 7; i++) {
@@ -124,6 +127,7 @@ function updateSpecifiedColor() {
 
         count += 1;
     }
+    */
 
     // Update surrounding color text
     updateHexColorText(index);

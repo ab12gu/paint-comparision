@@ -95,20 +95,39 @@ function updateSpecifiedColor() {
     var index;
     var specifiedColor = document.getElementById('specifiedColor').value;
     specifiedColor = specifiedColor.toLowerCase();
-    alert(specifiedColor)
-    alert(currBrand)
+
+    // CHECK if selectors are stored locally
+    //alert(specifiedColor)
+    //alert(currBrand)
 
     // find the hex color associated with the specified name
     for (var key in currBrandDict){
         if (currBrandDict[key][0] == specifiedColor){
-            let elem = getComputedStyle(document.getElementById("centerHex"));
-            alert(elem.getPropertyValue('--color'));
             document.getElementById("centerHex").style.setProperty('--color', currBrandDict[key][1]);
-            document.getElementById("centerHex").style.color = currBrandDict[key][1];
             index = key; // save key for surrounding colors
             break;
         }
     }
+
+    /*
+    // fill out outer hexagons
+    let count = 0;
+    for (let i = 0; i < 7; i++) {
+        if (currData[i][0] == currBrand){ // skip center hex
+            continue; 
+        }
+
+        // loop through outer hex
+        let hexs = document.getElementsByClassName('hexagon');
+        for (var i = 0; i < hexs.length; i++) {
+            var span = hexs[i];
+            span.innerHTML = name;
+        }
+        
+
+        count += 1;
+    }
+    */
 
     // Update surrounding color text
     updateHexColorText(index);

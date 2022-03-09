@@ -4,7 +4,7 @@ function updateHexBrandText() {
     let hexColorTexts= document.getElementsByClassName('hexColorText'); // color items
 
     // Loop through brands, and populate text based on brands
-    let count = 0
+    let count = 0;
     for (let i = 0; i < 7; i++) {
         if (currData[i][0] == currBrand) {
             continue;
@@ -18,7 +18,6 @@ function updateHexBrandText() {
         let hexColorText = hexColorTexts[count];
         hexColorText.innerHTML = currData[i][1];
         count += 1;
-
     }
     /* alert(specifiedColor) */
 }
