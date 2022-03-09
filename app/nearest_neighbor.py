@@ -12,7 +12,6 @@
 
 from re import A
 
-
 def distance_formula(x1, x2, y1, y2, z1, z2):
     """ 
     Calculate l2 norm distance
@@ -111,7 +110,6 @@ def nearest_neighbor():
             data = json.load(input_file)
 
             #pp.pprint(data)
-            
             #print(data['colorBook']['colorPage'][1]['colorEntry'][1]['RGB8'].get('blue'))
             for i in range(0,len(data['colorBook']['colorPage'])):
                 for j in range(0,len(data['colorBook']['colorPage'][i]['colorEntry'])):

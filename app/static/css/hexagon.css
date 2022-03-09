@@ -51,30 +51,33 @@
     /* outline: 1px solid green; */
 }
 
+/***** Hexagon ******************************/
+
 .hexagon {
+    --color: pink;
     margin-top: 30px;
     width: 104px;
     height: 60px;
-    background-color: pink;
+    background-color: var(--color);
     position: relative;
 }
 
-.hexagon:before {
+.hexagon::before {
     content: " ";
     width: 0; height: 0;
-    border-bottom: 30px solid pink;
+    border-bottom: 30px solid var(--color);
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
     position: absolute;
     top: -30px;
 }
 
-.hexagon:after {
+.hexagon::after {
     content: "";
     width: 0;
     position: absolute;
     bottom: -30px;
-    border-top: 30px solid pink;
+    border-top: 30px solid var(--color);
     border-left: 52px solid transparent;
     border-right: 52px solid transparent;
 }

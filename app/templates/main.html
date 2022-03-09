@@ -20,11 +20,14 @@
             var BMdata = {{BMdata|safe}};
         </script>
 
-        <!-- Rendering References-->
+        <!-- JQUERY CDN (content delivery network) Reference :: online server reference-->
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+        <!-- Rendering References -->
         <script src="../docs/static/script.js"></script>                                <!--JS REF for BUILD-->
         <link rel="stylesheet" href="../docs/static/styles.css">                        <!-- CSS REFERENCE -->
         <link rel="icon" type="image/png" href="../docs/static/color-palette.png"/>     <!-- FLAVICON -->
-
+       
         <!-- Pre-Rendering References-->
         <script type="text/javascript" src="../static/script.js"></script>              <!-- JS REFERENCE -->
         <link rel="stylesheet" href="../static/styles.css">                             <!-- CSS REFERENCE -->
@@ -86,8 +89,8 @@
                     <div class="hexColorText"></div>
                 </div><!--Brand1-->
                 <div class="hexagon-grid">
-                    <div class="hexagon"></div>
-                    <div class="hexagon"></div>
+                    <div class="hexagon" id="outerHex"></div>
+                    <div class="hexagon" id="outerHex"></div>
                     <div class="hexagon-label-right"> 
                         <div class="hexBrandText"></div>
                         <div class="hexColorText"></div>
@@ -102,9 +105,9 @@
                     <div class="hexColorText"></div>
                 </div><!--Brand1-->
                 <div class="hexagon-grid">
-                    <div class="hexagon"></div>
-                    <div class="hexagon"></div>
-                    <div class="hexagon"></div>
+                    <div class="hexagon" id="outerHex"></div>
+                    <div class="hexagon" id="centerHex" style="--color:blue"></div>
+                    <div class="hexagon" id="outerHex'"></div>
                     <div class="hexagon-label-right"> 
                         <div class="hexBrandText"></div>
                         <div class="hexColorText"></div>
@@ -119,8 +122,8 @@
                     <div class="hexColorText"></div>
                 </div><!--Brand1-->
                 <div class="hexagon-grid">
-                    <div class="hexagon"></div>
-                    <div class="hexagon"></div>
+                    <div class="hexagon" id="outerHex"></div>
+                    <div class="hexagon" id="outerHex"></div>
                     <div class="hexagon-label-right"> 
                         <div class="hexBrandText"></div>
                         <div class="hexColorText"></div>
@@ -211,7 +214,6 @@
                 </div>
             </div>
             <hr>
-
 <!------------------------------------------------------------------------------>
             <!-- Footer -->
 <!------------------------------------------------------------------------------>

@@ -25,36 +25,22 @@ app = Flask(__name__, template_folder=template_dir, static_folder=static_dir)
 app.config.from_pyfile('config.py') 
 pages = FlatPages(app)
 
+
+# ENTRY POINT
 @app.route('/') # decorator
 def main():
     """
     Entry point for flask. Runs first declared function. 
     """
+
     # Call rgb analysis file, return dictionary
     BM_data, SW_data = nearest_neighbor()
-    data = [1, 'foo']
+
     return render_template('main.html', BMdata=BM_data, SWdata=SW_data)
-    ## return render_template('main.html', BM_dict=json.dumps(BM_dict), SW_dict=json.dumps(SW_dict))
+
+
 
 ## Take contents of flask and make it static via Freezer
 freezer = Freezer(app)
 freezer.freeze()
 
-
-
-#region Old SW-BM match print to html
-
-
-# Call rgb analysis file
-# BMnames, SWnames = nearest_neighbor()
-# BMnames = [name.split(' ', 1)[1] for name in BMnames]
-
-# combine matching colors 
-# names = list(map(list, zip(BMnames, SWnames)))
-
-## Flask will not run methods after first method. 
-def main():
-    print("Writing output to index.html")
-    return 'Find a Paint <br><br>' + '<p>' + 'Benjamin Moore || Shermin Williams <br>' + ' <br> '.join(str(name[0]) + ' || ' + str(name[1]) for name in names) + '</p>'
-
-#endregion

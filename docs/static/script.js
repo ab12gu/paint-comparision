@@ -5,11 +5,21 @@ date created: 22-02-26
 desc: enables dynamic content for user at client side (due to static site)
 */
 
+// reference external js scripts -- pass to dom
+document.write('<script src="../static/js/updateText.js" type="text/javascript"></script>'); // pre-build
+document.write('<script src="../docs/static/js/updateText.js" type="text/javascript"></script>'); // post-build
+
 // arrays of brands/colors
 var brands = ['Behr', 'Benjamin Moore', 'Dunn Edwards', 'Kelly Moore', 'Pratt & Lambert', 'Sherwin Williams', 'Valspar'];
 var colors = ['pink1', 'pink2', 'pink3', 'pink4', 'pink5', 'pink6', 'pink7'];
 var allBrands = brands.slice();
 var currBrand = "Benjamin Moore";
+
+// add brands + associated colors to dictionary
+var currData = {};
+for (let i = 0; i < 7; i++) {
+   currData[i] = [brands[i], colors[i]]; 
+}
 
 // initialize brand data
 var BdataDict = {};
@@ -26,7 +36,7 @@ BMdataDict = JSON.parse(JSON.stringify(BMdata));
 
 
 // remove brand from outer hex list and update descriptors of hexagon
-window.onload = function selectedBrand() {
+function selectedBrand() {
 
     // get brand name from DOM
     var selectedBrand = document.getElementById('brands').value;
@@ -43,7 +53,7 @@ window.onload = function selectedBrand() {
     updateHexBrandText()
 
     // clear brands
-    var defaultColor = "blue"
+    let defaultColor = "blue"
     document.getElementById('topLeftHex').style.color = defaultColor;
     document.getElementById('topRightHex').style.color = defaultColor;
     document.getElementById('leftHex').style.color = defaultColor;
@@ -51,48 +61,6 @@ window.onload = function selectedBrand() {
     document.getElementById('rightHex').style.color = defaultColor;
     document.getElementById('botLeftHex').style.color = defaultColor;
     document.getElementById('botRightHex').style.color =  defaultColor;
-}
-
-// fill out text items (brand/color) around hexagons
-function updateHexBrandText() {
-    var hexBrandTexts = document.getElementsByClassName('hexBrandText'); // brand items
-    var hexColorTexts= document.getElementsByClassName('hexColorText'); // color items
-
-    // Loop through brands, and populate text based on brands
-    for (var i = 0; i < hexBrandTexts.length; i++) {
-        var hexBrandText = hexBrandTexts[i];
-        hexBrandText.innerHTML = brands[i];
-        hexBrandText.style.color = "black";
-
-        var hexColorText = hexColorTexts[i];
-        hexColorText.innerHTML = colors[i];
-        //hexColorText.style.color = "black";
-
-    }
-    /* alert(specifiedColor) */
-}
-
-function updateHexColorText(index){
-    /*
-        use index to find color of each brand
-        use color text to update color array
-        update dom with color text
-    */
-
-    // store color text
-    var Bcolor =    "blue"; // BdataDict[index][0];
-    var BMcolor =   "blue"; // BMdataDict[index][0];
-    var DEcolor =   "blue"; // DEdataDict[index][0];
-    var KMcolor =   "blue"; // KMdataDict[index][0];
-    var PLcolor =   "blue"; // PLdataDict[index][0];
-    var SWcolor =   SWdataDict[index][0];
-    var Vcolor =    "blue"; // VdataDict[index][0];
-
-    var SWbrandIndex = brands.indexOf('Sherwin Williams');
-    colors[SWbrandIndex] = SWcolor;
-
-    // update text
-    updateHexBrandText();
 }
 
 function updateSpecifiedColor() {
@@ -127,12 +95,15 @@ function updateSpecifiedColor() {
     var index;
     var specifiedColor = document.getElementById('specifiedColor').value;
     specifiedColor = specifiedColor.toLowerCase();
-    //alert(specifiedColor)
-    //alert(currBrand)
+    alert(specifiedColor)
+    alert(currBrand)
 
     // find the hex color associated with the specified name
     for (var key in currBrandDict){
         if (currBrandDict[key][0] == specifiedColor){
+            let elem = getComputedStyle(document.getElementById("centerHex"));
+            alert(elem.getPropertyValue('--color'));
+            document.getElementById("centerHex").style.setProperty('--color', currBrandDict[key][1]);
             document.getElementById("centerHex").style.color = currBrandDict[key][1];
             index = key; // save key for surrounding colors
             break;
