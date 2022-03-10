@@ -1,0 +1,1008 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>Dunn-Edwards Perfect-Palette - Magentas, Reds, Pinks</bookName>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>254</red>
+        <green>232</green>
+        <blue>245</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5000 (Bashful)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>232</green>
+        <blue>245</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5001 (Spring Lilac)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>215</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5002 (Light Lavender)</colorName>
+      <RGB8>
+        <red>241</red>
+        <green>191</green>
+        <blue>226</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5003 (Exotic Violet)</colorName>
+      <RGB8>
+        <red>225</red>
+        <green>160</green>
+        <blue>207</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5004 (Peruvian Lily)</colorName>
+      <RGB8>
+        <red>205</red>
+        <green>125</green>
+        <blue>181</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5005 (Brandywine)</colorName>
+      <RGB8>
+        <red>179</red>
+        <green>94</green>
+        <blue>151</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5006 (Plum Passion)</colorName>
+      <RGB8>
+        <red>155</red>
+        <green>75</green>
+        <blue>128</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5007 (Pale Blossom)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>225</green>
+        <blue>240</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5008 (Pink Lily)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>208</green>
+        <blue>231</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5009 (Soft Cashmere)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>182</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>222</red>
+        <green>150</green>
+        <blue>193</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5010 (Gumdrop)</colorName>
+      <RGB8>
+        <red>222</red>
+        <green>150</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5011 (Deep Carnation)</colorName>
+      <RGB8>
+        <red>201</red>
+        <green>115</green>
+        <blue>162</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5012 (Vivid Violet)</colorName>
+      <RGB8>
+        <red>174</red>
+        <green>88</green>
+        <blue>131</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5013 (Deep Magenta)</colorName>
+      <RGB8>
+        <red>150</red>
+        <green>70</green>
+        <blue>106</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5014 (Spun Sugar)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>226</green>
+        <blue>237</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5015 (Minimal Rose)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>207</green>
+        <blue>224</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5016 (Muddy Mauve)</colorName>
+      <RGB8>
+        <red>228</red>
+        <green>179</green>
+        <blue>204</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5017 (Exotic Lilac)</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>152</green>
+        <blue>181</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5018 (First Plum)</colorName>
+      <RGB8>
+        <red>184</red>
+        <green>117</green>
+        <blue>146</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5019 (Rosewine)</colorName>
+      <RGB8>
+        <red>157</red>
+        <green>92</green>
+        <blue>117</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>130</red>
+        <green>73</green>
+        <blue>90</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5020 (Mahogany Cherry)</colorName>
+      <RGB8>
+        <red>130</red>
+        <green>73</green>
+        <blue>90</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5021 (Bunny Tail)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>227</green>
+        <blue>244</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5022 (Sweet Sachet)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>216</green>
+        <blue>240</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5023 (Pretty in Pink)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>191</green>
+        <blue>228</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5024 (Violet Kiss)</colorName>
+      <RGB8>
+        <red>240</red>
+        <green>160</green>
+        <blue>209</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5025 (Fuchsia Blush)</colorName>
+      <RGB8>
+        <red>228</red>
+        <green>124</green>
+        <blue>184</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5026 (Crushed Berries)</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>91</green>
+        <blue>155</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5027 (Razzle Dazzle)</colorName>
+      <RGB8>
+        <red>186</red>
+        <green>65</green>
+        <blue>123</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5028 (Fairy Wings)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>235</green>
+        <blue>242</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5029 (Berry Frost)</colorName>
+      <RGB8>
+        <red>251</red>
+        <green>218</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>243</red>
+        <green>195</green>
+        <blue>216</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5030 (Sweetheart)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>195</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5031 (Think Pink)</colorName>
+      <RGB8>
+        <red>229</red>
+        <green>165</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5032 (Heirloom Rose)</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>130</green>
+        <blue>160</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5033 (Raspberry Parfait)</colorName>
+      <RGB8>
+        <red>185</red>
+        <green>100</green>
+        <blue>130</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5034 (Cherry Berry)</colorName>
+      <RGB8>
+        <red>159</red>
+        <green>77</green>
+        <blue>101</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5035 (Fairy Dust)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>232</green>
+        <blue>244</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5036 (Ballerina)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>213</green>
+        <blue>233</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5037 (Flamingo Feather)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>189</green>
+        <blue>217</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5038 (Be My Valentine)</colorName>
+      <RGB8>
+        <red>236</red>
+        <green>157</green>
+        <blue>195</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5039 (Real Raspberry)</colorName>
+      <RGB8>
+        <red>221</red>
+        <green>121</green>
+        <blue>162</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>201</red>
+        <green>91</green>
+        <blue>131</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5040 (Lipstick)</colorName>
+      <RGB8>
+        <red>201</red>
+        <green>91</green>
+        <blue>131</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5041 (Sangria)</colorName>
+      <RGB8>
+        <red>177</red>
+        <green>69</green>
+        <blue>102</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5042 (Cherubic)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>230</green>
+        <blue>241</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5043 (Rose Glow)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>219</green>
+        <blue>235</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5044 (Sweet Romance)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>196</green>
+        <blue>221</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5045 (Taffy Pink)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>166</green>
+        <blue>200</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5046 (Carnation)</colorName>
+      <RGB8>
+        <red>244</red>
+        <green>133</green>
+        <blue>172</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5047 (Love Letter)</colorName>
+      <RGB8>
+        <red>228</red>
+        <green>101</green>
+        <blue>142</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5048 (Pink Punch)</colorName>
+      <RGB8>
+        <red>208</red>
+        <green>74</green>
+        <blue>112</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5049 (Early Blossom)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>229</green>
+        <blue>237</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>252</red>
+        <green>210</green>
+        <blue>223</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5050 (Creamy Strawberry)</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>210</green>
+        <blue>223</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5051 (Berries 'n' Cream)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>184</green>
+        <blue>202</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5052 (Love Potion)</colorName>
+      <RGB8>
+        <red>227</red>
+        <green>152</green>
+        <blue>175</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5053 (First Love)</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>117</green>
+        <blue>138</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5054 (Candied Apple)</colorName>
+      <RGB8>
+        <red>185</red>
+        <green>91</green>
+        <blue>109</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5055 (Merlot)</colorName>
+      <RGB8>
+        <red>164</red>
+        <green>74</green>
+        <blue>86</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5056 (Sweetly)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>229</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5057 (Ballet Slipper)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>218</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5058 (Cherry Blush)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>201</green>
+        <blue>221</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5059 (Heartfelt)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>173</green>
+        <blue>201</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>252</red>
+        <green>138</green>
+        <blue>170</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5060 (Rock 'n' Rose)</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>138</green>
+        <blue>170</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5061 (Cupid's Arrow)</colorName>
+      <RGB8>
+        <red>238</red>
+        <green>107</green>
+        <blue>139</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5062 (Rosy Cheeks)</colorName>
+      <RGB8>
+        <red>220</red>
+        <green>80</green>
+        <blue>110</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5063 (Powder Puff)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>239</green>
+        <blue>243</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5064 (Pink Perfume)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>219</green>
+        <blue>229</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5065 (Sweet Serenade)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>197</green>
+        <blue>213</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5066 (Tutu)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>167</green>
+        <blue>189</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5067 (Posy Petal)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>135</green>
+        <blue>156</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5068 (Slice of Watermelon)</colorName>
+      <RGB8>
+        <red>225</red>
+        <green>105</green>
+        <blue>124</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5069 (Cherry Hill)</colorName>
+      <RGB8>
+        <red>204</red>
+        <green>81</green>
+        <blue>96</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>230</green>
+        <blue>236</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5070 (Nosegay)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>230</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5071 (Baby Girl)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>223</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5072 (Bubblegum)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>201</green>
+        <blue>215</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5073 (Baby's Blanket)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>174</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5074 (Charming Cherry)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>144</green>
+        <blue>162</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5075 (Fiery Flamingo)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>109</green>
+        <blue>123</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5076 (Strawberry Jam)</colorName>
+      <RGB8>
+        <red>227</red>
+        <green>75</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5077 (Rose Water)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>233</green>
+        <blue>237</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5078 (Pink Pleasure)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>223</green>
+        <blue>229</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5079 (Sweet Sixteen)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>201</green>
+        <blue>211</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>174</green>
+        <blue>187</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5080 (Poodle Skirt)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>174</green>
+        <blue>187</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5081 (Strawberry Shortcake)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>142</green>
+        <blue>153</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5082 (Redstone)</colorName>
+      <RGB8>
+        <red>228</red>
+        <green>107</green>
+        <blue>113</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5083 (Deep Hibiscus)</colorName>
+      <RGB8>
+        <red>203</red>
+        <green>82</green>
+        <blue>81</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5084 (Pink Sparkle)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>233</green>
+        <blue>235</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5085 (Satin Ribbon)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>216</green>
+        <blue>220</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5086 (Piglet)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>192</green>
+        <blue>198</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5087 (Simple Pink)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>163</green>
+        <blue>170</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5088 (Apple Valley)</colorName>
+      <RGB8>
+        <red>234</red>
+        <green>131</green>
+        <blue>134</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5089 (Geranium Red)</colorName>
+      <RGB8>
+        <red>215</red>
+        <green>105</green>
+        <blue>104</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>195</red>
+        <green>85</green>
+        <blue>80</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5090 (Pomegranate)</colorName>
+      <RGB8>
+        <red>195</red>
+        <green>85</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5091 (Just Pink Enough)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>235</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5092 (First Crush)</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>216</green>
+        <blue>220</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5093 (Rose Reminder)</colorName>
+      <RGB8>
+        <red>244</red>
+        <green>192</green>
+        <blue>198</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5094 (Berry Riche)</colorName>
+      <RGB8>
+        <red>229</red>
+        <green>162</green>
+        <blue>171</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5095 (Victorian Rouge)</colorName>
+      <RGB8>
+        <red>210</red>
+        <green>128</green>
+        <blue>133</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5096 (Terra Rosa)</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>101</green>
+        <blue>105</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5097 (Red Rock)</colorName>
+      <RGB8>
+        <red>166</red>
+        <green>80</green>
+        <blue>82</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5098 (Glimpse of Pink)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>243</green>
+        <blue>244</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5099 (Camellia)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>231</green>
+        <blue>235</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>214</green>
+        <blue>221</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5100 (No Need to Blush)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>214</green>
+        <blue>221</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5101 (Love Affair)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>190</green>
+        <blue>200</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5102 (Strawberry Frappe)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>162</green>
+        <blue>170</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5103 (Pink Glamour)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>120</green>
+        <blue>123</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5104 (Amour)</colorName>
+      <RGB8>
+        <red>238</red>
+        <green>88</green>
+        <blue>81</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5105 (Baby's Bottom)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>241</green>
+        <blue>241</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5106 (Pink Lemonade)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>234</green>
+        <blue>235</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5107 (Strawberry Blonde)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>218</green>
+        <blue>220</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5108 (Pink and Sleek)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>195</green>
+        <blue>198</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5109 (Salmon Upstream)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>168</green>
+        <blue>166</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>141</green>
+        <blue>134</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5110 (Prime Pink)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>141</green>
+        <blue>134</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5111 (Rose Fusion)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>102</green>
+        <blue>83</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  

@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>Dunn-Edwards Perfect-Palette - Classics</bookName>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>200</red>
+        <green>168</green>
+        <blue>158</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC700 (Teatime Mauve)</colorName>
+      <RGB8>
+        <red>200</red>
+        <green>168</green>
+        <blue>158</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC701 (Revival Rose)</colorName>
+      <RGB8>
+        <red>192</red>
+        <green>144</green>
+        <blue>132</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC702 (Antique Rose)</colorName>
+      <RGB8>
+        <red>153</red>
+        <green>113</green>
+        <blue>101</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC703 (Retro Peach)</colorName>
+      <RGB8>
+        <red>231</red>
+        <green>192</green>
+        <blue>173</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC704 (Moenkopi Tan)</colorName>
+      <RGB8>
+        <red>200</red>
+        <green>166</green>
+        <blue>146</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC705 (Burnt Crimson)</colorName>
+      <RGB8>
+        <red>120</red>
+        <green>77</green>
+        <blue>76</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC706 (Rosewood)</colorName>
+      <RGB8>
+        <red>155</red>
+        <green>105</green>
+        <blue>87</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC707 (Foxtail)</colorName>
+      <RGB8>
+        <red>188</red>
+        <green>137</green>
+        <blue>110</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC708 (Sunset Cove)</colorName>
+      <RGB8>
+        <red>220</red>
+        <green>179</green>
+        <blue>151</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC709 (Adobe South)</colorName>
+      <RGB8>
+        <red>229</red>
+        <green>193</green>
+        <blue>167</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>250</red>
+        <green>223</green>
+        <blue>199</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC710 (Peach)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>223</green>
+        <blue>199</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC711 (Cliff Brown)</colorName>
+      <RGB8>
+        <red>208</red>
+        <green>171</green>
+        <blue>140</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC712 (Briar)</colorName>
+      <RGB8>
+        <red>116</red>
+        <green>84</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC713 (Roman Brick)</colorName>
+      <RGB8>
+        <red>171</red>
+        <green>127</green>
+        <blue>91</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC714 (Friar Tuck)</colorName>
+      <RGB8>
+        <red>221</red>
+        <green>185</green>
+        <blue>148</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC715 (Sandal)</colorName>
+      <RGB8>
+        <red>200</red>
+        <green>174</green>
+        <blue>150</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC716 (Stonish Beige)</colorName>
+      <RGB8>
+        <red>204</red>
+        <green>180</green>
+        <blue>154</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC717 (Baked Potato)</colorName>
+      <RGB8>
+        <red>182</red>
+        <green>158</green>
+        <blue>135</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC718 (Mesa Tan)</colorName>
+      <RGB8>
+        <red>167</red>
+        <green>139</green>
+        <blue>113</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC719 (Coral Clay)</colorName>
+      <RGB8>
+        <red>194</red>
+        <green>177</green>
+        <blue>161</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>221</red>
+        <green>197</green>
+        <blue>170</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC720 (Cliff's View)</colorName>
+      <RGB8>
+        <red>221</red>
+        <green>197</green>
+        <blue>170</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC721 (Slopes)</colorName>
+      <RGB8>
+        <red>210</red>
+        <green>182</green>
+        <blue>152</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC722 (Baja White)</colorName>
+      <RGB8>
+        <red>244</red>
+        <green>225</green>
+        <blue>197</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC723 (Champagne)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>222</green>
+        <blue>188</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC724 (Spanish White)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>232</green>
+        <blue>199</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC725 (Weathered Coral)</colorName>
+      <RGB8>
+        <red>234</red>
+        <green>208</green>
+        <blue>169</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC726 (Adobe)</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>183</green>
+        <blue>145</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC727 (Valley Flower)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>221</green>
+        <blue>157</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC728 (Madera)</colorName>
+      <RGB8>
+        <red>238</red>
+        <green>208</green>
+        <blue>157</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC729 (Medallion)</colorName>
+      <RGB8>
+        <red>195</red>
+        <green>166</green>
+        <blue>121</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>151</red>
+        <green>123</green>
+        <blue>77</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC730 (Alluring Umber)</colorName>
+      <RGB8>
+        <red>151</red>
+        <green>123</green>
+        <blue>77</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC731 (Highlight Gold)</colorName>
+      <RGB8>
+        <red>223</red>
+        <green>193</green>
+        <blue>109</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC732 (Aspen Yellow)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>223</green>
+        <blue>159</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC733 (Solar Wind )</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>233</green>
+        <blue>185</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC734 (Jasmine)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>244</green>
+        <blue>187</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC735 (Flaxen)</colorName>
+      <RGB8>
+        <red>251</red>
+        <green>236</green>
+        <blue>201</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC736 (Flaxseed)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>230</green>
+        <blue>198</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC737 (Jakarta)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>221</green>
+        <blue>195</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC738 (Travertine)</colorName>
+      <RGB8>
+        <red>223</red>
+        <green>198</green>
+        <blue>170</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC739 (Golden Gate)</colorName>
+      <RGB8>
+        <red>217</red>
+        <green>192</green>
+        <blue>156</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>229</red>
+        <green>215</green>
+        <blue>196</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC740 (Sandcastle)</colorName>
+      <RGB8>
+        <red>229</red>
+        <green>215</green>
+        <blue>196</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC741 (Bone White)</colorName>
+      <RGB8>
+        <red>235</red>
+        <green>222</green>
+        <blue>204</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC742 (Cameo)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>222</green>
+        <blue>188</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC743 (High Noon)</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>185</green>
+        <blue>153</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC744 (Celtic Linen)</colorName>
+      <RGB8>
+        <red>245</red>
+        <green>229</green>
+        <blue>206</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC745 (Chaparral)</colorName>
+      <RGB8>
+        <red>229</red>
+        <green>208</green>
+        <blue>176</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC746 (Apache Tan)</colorName>
+      <RGB8>
+        <red>213</red>
+        <green>191</green>
+        <blue>165</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC747 (Sahara)</colorName>
+      <RGB8>
+        <red>213</red>
+        <green>195</green>
+        <blue>173</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC748 (Oyster)</colorName>
+      <RGB8>
+        <red>227</red>
+        <green>211</green>
+        <blue>191</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC749 (Linen White)</colorName>
+      <RGB8>
+        <red>233</red>
+        <green>220</green>
+        <blue>209</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>159</red>
+        <green>145</green>
+        <blue>128</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC750 (Bison Beige)</colorName>
+      <RGB8>
+        <red>159</red>
+        <green>145</green>
+        <blue>128</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC751 (Ash Gray)</colorName>
+      <RGB8>
+        <red>193</red>
+        <green>181</green>
+        <blue>169</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC752 (Birchwood)</colorName>
+      <RGB8>
+        <red>204</red>
+        <green>190</green>
+        <blue>172</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC753 (Almond)</colorName>
+      <RGB8>
+        <red>237</red>
+        <green>220</green>
+        <blue>200</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC754 (Quicksand)</colorName>
+      <RGB8>
+        <red>226</red>
+        <green>208</green>
+        <blue>185</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC755 (Cocoa)</colorName>
+      <RGB8>
+        <red>115</red>
+        <green>99</green>
+        <blue>84</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC756 (Weathered Brown)</colorName>
+      <RGB8>
+        <red>89</red>
+        <green>80</green>
+        <blue>76</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC757 (Rincon Cove)</colorName>
+      <RGB8>
+        <red>199</red>
+        <green>179</green>
+        <blue>158</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC758 (Cashmere)</colorName>
+      <RGB8>
+        <red>235</red>
+        <green>219</green>
+        <blue>202</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC759 (Hickory )</colorName>
+      <RGB8>
+        <red>183</red>
+        <green>162</green>
+        <blue>142</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>184</red>
+        <green>164</green>
+        <blue>135</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC760 (Desert Gray)</colorName>
+      <RGB8>
+        <red>184</red>
+        <green>164</green>
+        <blue>135</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC761 (Cochise)</colorName>
+      <RGB8>
+        <red>221</red>
+        <green>205</green>
+        <blue>179</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC762 (Milkweed)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>236</green>
+        <blue>209</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC763 (Oatmeal Cookie)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>235</green>
+        <blue>211</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC764 (Inside Passage)</colorName>
+      <RGB8>
+        <red>224</red>
+        <green>207</green>
+        <blue>181</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC765 (Bone)</colorName>
+      <RGB8>
+        <red>234</red>
+        <green>223</green>
+        <blue>206</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC766 (Steveareno Beige)</colorName>
+      <RGB8>
+        <red>197</red>
+        <green>181</green>
+        <blue>164</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC767 (Riverbed)</colorName>
+      <RGB8>
+        <red>210</red>
+        <green>197</green>
+        <blue>174</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC768 (Winter Lite)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>224</green>
+        <blue>201</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC769 (Ranier White)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>236</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>190</red>
+        <green>180</green>
+        <blue>168</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC770 (Drifting)</colorName>
+      <RGB8>
+        <red>190</red>
+        <green>180</green>
+        <blue>168</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC771 (Shaggy Barked)</colorName>
+      <RGB8>
+        <red>179</red>
+        <green>171</green>
+        <blue>152</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC772 (Navajo White)</colorName>
+      <RGB8>
+        <red>235</red>
+        <green>225</green>
+        <blue>201</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC773 (Heather)</colorName>
+      <RGB8>
+        <red>214</red>
+        <green>207</green>
+        <blue>191</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC774 (Shady)</colorName>
+      <RGB8>
+        <red>219</red>
+        <green>214</green>
+        <blue>203</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC775 (Sea Glass)</colorName>
+      <RGB8>
+        <red>199</red>
+        <green>196</green>
+        <blue>165</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC776 (Courtyard Green)</colorName>
+      <RGB8>
+        <red>151</red>
+        <green>141</green>
+        <blue>113</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC777 (Meadowood)</colorName>
+      <RGB8>
+        <red>157</red>
+        <green>162</green>
+        <blue>142</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC778 (Boxwood)</colorName>
+      <RGB8>
+        <red>112</red>
+        <green>123</green>
+        <blue>113</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC779 (Woodlawn Green)</colorName>
+      <RGB8>
+        <red>64</red>
+        <green>91</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>182</red>
+        <green>186</green>
+        <blue>164</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC780 (Tickled Crow)</colorName>
+      <RGB8>
+        <red>182</red>
+        <green>186</green>
+        <blue>164</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC781 (Sycamore Stand)</colorName>
+      <RGB8>
+        <red>149</red>
+        <green>158</green>
+        <blue>143</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC782 (Belize Green)</colorName>
+      <RGB8>
+        <red>185</red>
+        <green>195</green>
+        <blue>179</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC783 (Opaline)</colorName>
+      <RGB8>
+        <red>193</red>
+        <green>209</green>
+        <blue>196</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC784 (Green Mirror)</colorName>
+      <RGB8>
+        <red>215</red>
+        <green>226</green>
+        <blue>213</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC785 (Whisper Gray)</colorName>
+      <RGB8>
+        <red>233</red>
+        <green>229</green>
+        <blue>218</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC786 (Miner's Dust)</colorName>
+      <RGB8>
+        <red>211</red>
+        <green>206</green>
+        <blue>197</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC787 (Mythical Blue)</colorName>
+      <RGB8>
+        <red>147</red>
+        <green>168</green>
+        <blue>167</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC788 (Dark Lagoon)</colorName>
+      <RGB8>
+        <red>106</red>
+        <green>127</green>
+        <blue>125</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC789 (Light Gray)</colorName>
+      <RGB8>
+        <red>151</red>
+        <green>157</green>
+        <blue>154</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>202</red>
+        <green>199</green>
+        <blue>196</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEC790 (Ice Gray)</colorName>
+      <RGB8>
+        <red>202</red>
+        <green>199</green>
+        <blue>196</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC791 (Cloud)</colorName>
+      <RGB8>
+        <red>216</red>
+        <green>215</green>
+        <blue>211</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC792 (Cape Cod Blue)</colorName>
+      <RGB8>
+        <red>145</red>
+        <green>162</green>
+        <blue>166</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC793 (Chalky)</colorName>
+      <RGB8>
+        <red>233</red>
+        <green>233</green>
+        <blue>225</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC794 (Salina Springs)</colorName>
+      <RGB8>
+        <red>202</red>
+        <green>210</green>
+        <blue>212</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC795 (Gray Pearl)</colorName>
+      <RGB8>
+        <red>195</red>
+        <green>192</green>
+        <blue>187</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC796 (Irogon Blue)</colorName>
+      <RGB8>
+        <red>157</red>
+        <green>172</green>
+        <blue>181</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC797 (Battleship Gray)</colorName>
+      <RGB8>
+        <red>111</red>
+        <green>116</green>
+        <blue>118</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC798 (Taliesin Blue)</colorName>
+      <RGB8>
+        <red>112</red>
+        <green>126</green>
+        <blue>132</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEC799 (Wharf View)</colorName>
+      <RGB8>
+        <red>101</red>
+        <green>115</green>
+        <blue>126</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  

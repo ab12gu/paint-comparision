@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>Dunn-Edwards Perfect-Palette - Accents</bookName>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>141</red>
+        <green>67</green>
+        <blue>98</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA100 (Putnam Plum)</colorName>
+      <RGB8>
+        <red>141</red>
+        <green>67</green>
+        <blue>98</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA101 (Fiery Fuchsia)</colorName>
+      <RGB8>
+        <red>183</red>
+        <green>56</green>
+        <blue>110</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA102 (Crimson Strawberry)</colorName>
+      <RGB8>
+        <red>159</red>
+        <green>45</green>
+        <blue>71</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA103 (Striking Red)</colorName>
+      <RGB8>
+        <red>192</red>
+        <green>53</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA104 (Red Icon)</colorName>
+      <RGB8>
+        <red>201</red>
+        <green>53</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA105 (Cherry Bomb)</colorName>
+      <RGB8>
+        <red>183</red>
+        <green>61</green>
+        <blue>63</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA106 (Red Contrast)</colorName>
+      <RGB8>
+        <red>179</red>
+        <green>50</green>
+        <blue>52</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA107 (Hot Jazz)</colorName>
+      <RGB8>
+        <red>188</red>
+        <green>48</green>
+        <blue>51</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA108 (Red Power)</colorName>
+      <RGB8>
+        <red>214</red>
+        <green>61</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA109 (Bonfire Flame)</colorName>
+      <RGB8>
+        <red>206</red>
+        <green>78</green>
+        <blue>53</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>222</red>
+        <green>87</green>
+        <blue>48</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA110 (Untamed Orange)</colorName>
+      <RGB8>
+        <red>222</red>
+        <green>87</green>
+        <blue>48</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA111 (Burning Tomato)</colorName>
+      <RGB8>
+        <red>235</red>
+        <green>80</green>
+        <blue>48</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA112 (Exhuberant Orange)</colorName>
+      <RGB8>
+        <red>240</red>
+        <green>98</green>
+        <blue>47</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA113 (Orange Burst)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>110</green>
+        <blue>58</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA114 (Instant Orange)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>141</green>
+        <blue>40</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA115 (Orange Jewel)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>151</green>
+        <blue>49</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA116 (Flash of Orange)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>170</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA117 (Confident Yellow)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>204</green>
+        <blue>19</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA118 (Yellow Summer)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>181</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA119 (Electric Glow)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>209</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>253</red>
+        <green>203</green>
+        <blue>24</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA120 (Goldenrod)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>203</green>
+        <blue>24</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA121 (Golden Lock)</colorName>
+      <RGB8>
+        <red>245</red>
+        <green>188</green>
+        <blue>29</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA122 (Brassy)</colorName>
+      <RGB8>
+        <red>213</red>
+        <green>171</green>
+        <blue>44</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA123 (Chartreuse)</colorName>
+      <RGB8>
+        <red>218</red>
+        <green>208</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA124 (Lime Twist)</colorName>
+      <RGB8>
+        <red>198</red>
+        <green>214</green>
+        <blue>36</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA125 (In the Tropics)</colorName>
+      <RGB8>
+        <red>163</red>
+        <green>188</green>
+        <blue>58</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA126 (Leprechaun)</colorName>
+      <RGB8>
+        <red>108</red>
+        <green>176</green>
+        <blue>55</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA127 (Wild Forest)</colorName>
+      <RGB8>
+        <red>56</red>
+        <green>145</green>
+        <blue>74</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA128 (Spring Juniper)</colorName>
+      <RGB8>
+        <red>74</red>
+        <green>117</green>
+        <blue>74</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA129 (Charmed Green)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>127</green>
+        <blue>58</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>0</red>
+        <green>105</green>
+        <blue>64</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA130 (Lucky Clover)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>105</green>
+        <blue>64</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA131 (Teal Waters)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>119</green>
+        <blue>101</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA132 (Ocean Oasis)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>108</green>
+        <blue>104</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA133 (Rare Turquoise)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>116</green>
+        <blue>142</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA134 (Aquatic)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>100</green>
+        <blue>119</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA135 (Deep Ocean)</colorName>
+      <RGB8>
+        <red>42</red>
+        <green>75</green>
+        <blue>95</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA136 (Beautiful Blue)</colorName>
+      <RGB8>
+        <red>24</red>
+        <green>109</green>
+        <blue>182</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA137 (Deep Sapphire)</colorName>
+      <RGB8>
+        <red>29</red>
+        <green>78</green>
+        <blue>143</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA138 (Indigo Night)</colorName>
+      <RGB8>
+        <red>50</red>
+        <green>70</green>
+        <blue>128</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA139 (Nautical)</colorName>
+      <RGB8>
+        <red>46</red>
+        <green>74</green>
+        <blue>125</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>60</red>
+        <green>67</green>
+        <blue>120</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA140 (Cobalt)</colorName>
+      <RGB8>
+        <red>60</red>
+        <green>67</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA141 (Grand Purple)</colorName>
+      <RGB8>
+        <red>83</red>
+        <green>71</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA142 (Violet Majesty)</colorName>
+      <RGB8>
+        <red>100</red>
+        <green>73</green>
+        <blue>130</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA143 (Purple Odyssey)</colorName>
+      <RGB8>
+        <red>100</red>
+        <green>62</green>
+        <blue>101</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA144 (Passionate Plum)</colorName>
+      <RGB8>
+        <red>117</red>
+        <green>58</green>
+        <blue>88</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA145 (Wine Stain)</colorName>
+      <RGB8>
+        <red>105</red>
+        <green>68</green>
+        <blue>79</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA146 (Scarlet Apple)</colorName>
+      <RGB8>
+        <red>146</red>
+        <green>46</green>
+        <blue>74</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA147 (Garnet Evening)</colorName>
+      <RGB8>
+        <red>118</red>
+        <green>59</green>
+        <blue>66</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA148 (Sunken Ship)</colorName>
+      <RGB8>
+        <red>107</red>
+        <green>68</green>
+        <blue>61</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA149 (Spiced Berry)</colorName>
+      <RGB8>
+        <red>133</red>
+        <green>68</green>
+        <blue>63</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>165</red>
+        <green>59</green>
+        <blue>61</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA150 (Scarlet Past)</colorName>
+      <RGB8>
+        <red>165</red>
+        <green>59</green>
+        <blue>61</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA151 (Red Ink)</colorName>
+      <RGB8>
+        <red>172</red>
+        <green>50</green>
+        <blue>53</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA152 (Deep Crimson)</colorName>
+      <RGB8>
+        <red>143</red>
+        <green>66</green>
+        <blue>61</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA153 (Glitzy Red)</colorName>
+      <RGB8>
+        <red>175</red>
+        <green>65</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA154 (Red Revival)</colorName>
+      <RGB8>
+        <red>168</red>
+        <green>69</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA155 (Arabian Red)</colorName>
+      <RGB8>
+        <red>161</red>
+        <green>76</green>
+        <blue>63</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA156 (Cherry Cola)</colorName>
+      <RGB8>
+        <red>137</red>
+        <green>76</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA157 (Cellar Door)</colorName>
+      <RGB8>
+        <red>124</red>
+        <green>80</green>
+        <blue>63</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA158 (Northern Territory)</colorName>
+      <RGB8>
+        <red>94</red>
+        <green>70</green>
+        <blue>60</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA159 (Rich Mocha)</colorName>
+      <RGB8>
+        <red>116</red>
+        <green>83</green>
+        <blue>66</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>135</red>
+        <green>89</green>
+        <blue>66</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA160 (Hope Chest)</colorName>
+      <RGB8>
+        <red>135</red>
+        <green>89</green>
+        <blue>66</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA161 (Wild Mustang)</colorName>
+      <RGB8>
+        <red>105</red>
+        <green>86</green>
+        <blue>73</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA162 (Log Cabin)</colorName>
+      <RGB8>
+        <red>112</red>
+        <green>90</green>
+        <blue>70</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA163 (Rodeo)</colorName>
+      <RGB8>
+        <red>127</red>
+        <green>94</green>
+        <blue>70</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA164 (Autumn Bark)</colorName>
+      <RGB8>
+        <red>157</red>
+        <green>111</green>
+        <blue>70</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA165 (Hearth Gold)</colorName>
+      <RGB8>
+        <red>161</red>
+        <green>113</green>
+        <blue>53</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA166 (Tavern Creek)</colorName>
+      <RGB8>
+        <red>149</red>
+        <green>112</green>
+        <blue>70</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA167 (Antique Penny)</colorName>
+      <RGB8>
+        <red>149</red>
+        <green>119</green>
+        <blue>71</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA168 (Pirate's Gold)</colorName>
+      <RGB8>
+        <red>176</red>
+        <green>143</green>
+        <blue>66</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA169 (Peppered Moss)</colorName>
+      <RGB8>
+        <red>128</red>
+        <green>117</green>
+        <blue>72</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>129</red>
+        <green>138</green>
+        <blue>64</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA170 (Sea Turtle)</colorName>
+      <RGB8>
+        <red>129</red>
+        <green>138</green>
+        <blue>64</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA171 (Bay Leaf)</colorName>
+      <RGB8>
+        <red>134</red>
+        <green>121</green>
+        <blue>61</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA172 (Camouflage)</colorName>
+      <RGB8>
+        <red>126</red>
+        <green>113</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA173 (Frond)</colorName>
+      <RGB8>
+        <red>123</red>
+        <green>127</green>
+        <blue>86</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA174 (Olive Court)</colorName>
+      <RGB8>
+        <red>95</red>
+        <green>93</green>
+        <blue>72</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA175 (Black Forest)</colorName>
+      <RGB8>
+        <red>94</red>
+        <green>99</green>
+        <blue>84</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA176 (Iron River)</colorName>
+      <RGB8>
+        <red>77</red>
+        <green>80</green>
+        <blue>75</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA177 (Holly Bush)</colorName>
+      <RGB8>
+        <red>53</red>
+        <green>93</green>
+        <blue>81</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA178 (Billiard Table)</colorName>
+      <RGB8>
+        <red>21</red>
+        <green>88</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA179 (Enchanting Ivy)</colorName>
+      <RGB8>
+        <red>49</red>
+        <green>89</green>
+        <blue>85</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>37</red>
+        <green>74</green>
+        <blue>71</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA180 (Deep Pine)</colorName>
+      <RGB8>
+        <red>37</red>
+        <green>74</green>
+        <blue>71</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA181 (Refined Green)</colorName>
+      <RGB8>
+        <red>56</red>
+        <green>69</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA182 (Encore Teal)</colorName>
+      <RGB8>
+        <red>48</red>
+        <green>82</green>
+        <blue>91</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA183 (Dark Shadows)</colorName>
+      <RGB8>
+        <red>69</red>
+        <green>85</green>
+        <blue>89</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA184 (Parisian Night)</colorName>
+      <RGB8>
+        <red>63</red>
+        <green>72</green>
+        <blue>85</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA185 (Old Mill)</colorName>
+      <RGB8>
+        <red>52</red>
+        <green>59</green>
+        <blue>78</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA186 (Black Pearl)</colorName>
+      <RGB8>
+        <red>74</red>
+        <green>79</green>
+        <blue>90</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA187 (Black)</colorName>
+      <RGB8>
+        <red>59</red>
+        <green>58</green>
+        <blue>58</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA188 (Black Bay)</colorName>
+      <RGB8>
+        <red>71</red>
+        <green>74</green>
+        <blue>78</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA189 (Black River Falls)</colorName>
+      <RGB8>
+        <red>52</red>
+        <green>62</green>
+        <blue>84</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>72</red>
+        <green>75</green>
+        <blue>98</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEA190 (Blue Suede Shoes)</colorName>
+      <RGB8>
+        <red>72</red>
+        <green>75</green>
+        <blue>98</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA191 (Magic Night)</colorName>
+      <RGB8>
+        <red>58</red>
+        <green>59</green>
+        <blue>91</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA192 (Violet Shadow)</colorName>
+      <RGB8>
+        <red>77</red>
+        <green>72</green>
+        <blue>96</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA193 (Preserve)</colorName>
+      <RGB8>
+        <red>74</red>
+        <green>60</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA194 (Mulberry)</colorName>
+      <RGB8>
+        <red>89</red>
+        <green>60</green>
+        <blue>80</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEA195 (Primitive Plum)</colorName>
+      <RGB8>
+        <red>102</red>
+        <green>60</green>
+        <blue>85</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  

@@ -1,0 +1,1752 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>Dunn-Edwards Perfect-Palette - Orange Yellows, Yellows, Green Yellows</bookName>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>254</green>
+        <blue>228</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5308 (Buttermilk)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>254</green>
+        <blue>228</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5309 (Cheesecake)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>252</green>
+        <blue>218</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5310 (Spring Buttercup)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>246</green>
+        <blue>194</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5311 (Baby Chick)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>237</green>
+        <blue>162</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5312 (Summer Daffodil)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>224</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5313 (Melted Butter)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>207</green>
+        <blue>83</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5314 (Vibrant Honey)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>189</green>
+        <blue>49</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5315 (Daystar)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>248</green>
+        <blue>218</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5316 (Rich Ivory)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>240</green>
+        <blue>196</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5317 (Precious Nectar)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>222</green>
+        <blue>156</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>247</red>
+        <green>198</green>
+        <blue>107</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5318 (Golden Retriever)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>198</green>
+        <blue>107</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5319 (Lion's Mane)</colorName>
+      <RGB8>
+        <red>232</red>
+        <green>175</green>
+        <blue>73</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5320 (Copper Cove)</colorName>
+      <RGB8>
+        <red>218</red>
+        <green>158</green>
+        <blue>56</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5321 (Jackpot)</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>148</green>
+        <blue>49</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5322 (Pale Pearl)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>242</green>
+        <blue>222</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5323 (Quiet Splendor)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>230</green>
+        <blue>202</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5324 (Fine Sand)</colorName>
+      <RGB8>
+        <red>241</red>
+        <green>213</green>
+        <blue>174</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5325 (Regency Cream)</colorName>
+      <RGB8>
+        <red>225</red>
+        <green>187</green>
+        <blue>135</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5326 (Root Beer Float)</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>164</green>
+        <blue>107</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5327 (Ghost Town)</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>142</green>
+        <blue>85</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>166</red>
+        <green>122</green>
+        <blue>69</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5328 (Driftwood)</colorName>
+      <RGB8>
+        <red>166</red>
+        <green>122</green>
+        <blue>69</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5329 (Parchment Paper)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>247</green>
+        <blue>223</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5330 (Biscuit)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>237</green>
+        <blue>202</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5331 (Pasta)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>223</green>
+        <blue>175</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5332 (Burmese Tan)</colorName>
+      <RGB8>
+        <red>238</red>
+        <green>203</green>
+        <blue>136</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5333 (Burst of Gold)</colorName>
+      <RGB8>
+        <red>222</red>
+        <green>179</green>
+        <blue>104</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5334 (Gingerbread House)</colorName>
+      <RGB8>
+        <red>202</red>
+        <green>153</green>
+        <blue>78</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5335 (Golden Slumber)</colorName>
+      <RGB8>
+        <red>185</red>
+        <green>136</green>
+        <blue>65</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5336 (Lemon Ice)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>254</green>
+        <blue>230</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5337 (Lit)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>254</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>250</green>
+        <blue>193</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5338 (Twinkling Lights)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>250</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5339 (Firefly Glow)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>243</green>
+        <blue>161</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5340 (Banana Peel)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>231</green>
+        <blue>116</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5341 (Tuscan Sun)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>216</green>
+        <blue>77</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5342 (Bumblebee)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>200</green>
+        <blue>42</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5343 (Sheer Sunlight)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>254</green>
+        <blue>223</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5344 (Creamed Butter)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>252</green>
+        <blue>211</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5345 (Afterglow)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>246</green>
+        <blue>185</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5346 (Quack Quack)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>233</green>
+        <blue>137</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5347 (Golden Nectar)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>218</green>
+        <blue>104</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>201</green>
+        <blue>70</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5348 (Corn Harvest)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>201</green>
+        <blue>70</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5349 (Hot Sun)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>184</green>
+        <blue>43</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5350 (Pale Rays)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>248</green>
+        <blue>213</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5351 (Aztec Aura)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>239</green>
+        <blue>188</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5352 (Sun Kissed)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>226</green>
+        <blue>155</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5353 (Golden Crest)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>202</green>
+        <blue>105</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5354 (Honey Glow)</colorName>
+      <RGB8>
+        <red>232</red>
+        <green>180</green>
+        <blue>71</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5355 (Fortune Cookie)</colorName>
+      <RGB8>
+        <red>218</red>
+        <green>164</green>
+        <blue>54</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5356 (Roman Gold)</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>155</green>
+        <blue>47</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5357 (Cream Puff)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>241</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>249</red>
+        <green>228</green>
+        <blue>193</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5358 (Ivory Oats)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>228</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5359 (Crossroads)</colorName>
+      <RGB8>
+        <red>237</red>
+        <green>210</green>
+        <blue>163</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5360 (Wheat Bread)</colorName>
+      <RGB8>
+        <red>223</red>
+        <green>187</green>
+        <blue>126</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5361 (Caribou Herd)</colorName>
+      <RGB8>
+        <red>205</red>
+        <green>165</green>
+        <blue>99</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5362 (Maple Syrup)</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>147</green>
+        <blue>81</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5363 (Walnut Shell)</colorName>
+      <RGB8>
+        <red>170</red>
+        <green>131</green>
+        <blue>68</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5364 (Coffee Cream)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>242</green>
+        <blue>215</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5365 (Burnished Cream)</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>229</green>
+        <blue>191</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5366 (Midland Tan)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>213</green>
+        <blue>161</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5367 (Deserted Path)</colorName>
+      <RGB8>
+        <red>231</red>
+        <green>191</green>
+        <blue>123</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>215</red>
+        <green>170</green>
+        <blue>96</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5368 (Brown Wood)</colorName>
+      <RGB8>
+        <red>215</red>
+        <green>170</green>
+        <blue>96</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5369 (Laredo Road)</colorName>
+      <RGB8>
+        <red>199</red>
+        <green>153</green>
+        <blue>79</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5370 (Bread Crust)</colorName>
+      <RGB8>
+        <red>183</red>
+        <green>139</green>
+        <blue>67</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5371 (White Beach)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>246</green>
+        <blue>217</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5372 (Sheepskin)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>236</green>
+        <blue>194</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5373 (Clay Dust)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>220</green>
+        <blue>163</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5374 (Almond Cookie)</colorName>
+      <RGB8>
+        <red>238</red>
+        <green>200</green>
+        <blue>124</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5375 (Santa Fe Tan)</colorName>
+      <RGB8>
+        <red>223</red>
+        <green>180</green>
+        <blue>95</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5376 (Chipmunk)</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>161</green>
+        <blue>74</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5377 (Trading Post)</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>141</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>249</green>
+        <blue>216</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5378 (Cotton Tail)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>249</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5379 (Crown Point Cream)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>240</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5380 (Durango Dust)</colorName>
+      <RGB8>
+        <red>251</red>
+        <green>227</green>
+        <blue>161</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5381 (Summertime)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>209</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5382 (Golden Appeal)</colorName>
+      <RGB8>
+        <red>230</red>
+        <green>190</green>
+        <blue>89</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5383 (Honey Grove)</colorName>
+      <RGB8>
+        <red>220</red>
+        <green>177</green>
+        <blue>73</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5384 (Spicy Mustard)</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>163</green>
+        <blue>59</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5385 (Bright Star)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>234</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5386 (Rice Paper)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>252</green>
+        <blue>219</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5387 (Lemon Chiffon Pie)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>247</green>
+        <blue>196</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>238</green>
+        <blue>165</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5388 (Sour Lemon)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>238</green>
+        <blue>165</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5389 (Ripe Pineapple)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>224</green>
+        <blue>123</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5390 (Rubber Ducky)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>207</green>
+        <blue>88</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5391 (Sunflower)</colorName>
+      <RGB8>
+        <red>240</red>
+        <green>190</green>
+        <blue>58</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5392 (Lamb's Wool)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>227</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5393 (Poetic Yellow)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>254</green>
+        <blue>215</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5394 (Break of Day)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>250</green>
+        <blue>189</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5395 (Banana Cream)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>244</green>
+        <blue>156</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5396 (Fuzzy Duckling)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>234</green>
+        <blue>112</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5397 (Radiant Sunrise)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>221</green>
+        <blue>73</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>254</red>
+        <green>207</green>
+        <blue>36</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5398 (Lemon Punch)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>207</green>
+        <blue>36</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5399 (Candlelight)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5400 (Parmesan)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>221</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5401 (Golden Wash)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>254</green>
+        <blue>198</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5402 (Lemon Slice)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>251</green>
+        <blue>168</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5403 (Chickadee)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>244</green>
+        <blue>124</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5404 (Highlighter)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>229</green>
+        <blue>54</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5405 (Summer Sun)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>220</green>
+        <blue>0</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5406 (La Luna)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>229</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5407 (Pumpkin Seed)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>253</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>250</green>
+        <blue>192</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5408 (Lemon Sorbet)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>250</green>
+        <blue>192</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5409 (Sun Surprise)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>242</green>
+        <blue>160</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5410 (Golden Glitter)</colorName>
+      <RGB8>
+        <red>251</red>
+        <green>229</green>
+        <blue>115</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5411 (Fresh Pineapple)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>214</green>
+        <blue>79</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5412 (Lemon Zest)</colorName>
+      <RGB8>
+        <red>231</red>
+        <green>198</green>
+        <blue>48</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5413 (Cotton Puff)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>231</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5414 (Sun City)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>254</green>
+        <blue>217</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5415 (Iced Lemon)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>251</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5416 (Candle Flame)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>244</green>
+        <blue>161</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5417 (Dandelion)</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>233</green>
+        <blue>116</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>244</red>
+        <green>219</green>
+        <blue>79</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5418 (Gilded)</colorName>
+      <RGB8>
+        <red>244</red>
+        <green>219</green>
+        <blue>79</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5419 (Soleil)</colorName>
+      <RGB8>
+        <red>233</red>
+        <green>203</green>
+        <blue>46</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5420 (Country Summer)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>251</green>
+        <blue>215</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5421 (Gentle Yellow)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>245</green>
+        <blue>190</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5422 (Egg Nog)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>234</green>
+        <blue>159</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5423 (Golden Rays)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>218</green>
+        <blue>116</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5424 (Yellow Brick Road)</colorName>
+      <RGB8>
+        <red>234</red>
+        <green>200</green>
+        <blue>83</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5425 (Woven Gold)</colorName>
+      <RGB8>
+        <red>220</red>
+        <green>182</green>
+        <blue>57</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5426 (Mustard Seed)</colorName>
+      <RGB8>
+        <red>198</red>
+        <green>159</green>
+        <blue>38</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5427 (Bavarian Cream)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>249</green>
+        <blue>221</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>254</red>
+        <green>242</green>
+        <blue>199</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5428 (Silent Ivory)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>242</green>
+        <blue>199</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5429 (Gold Sand)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>229</green>
+        <blue>169</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5430 (Beach House)</colorName>
+      <RGB8>
+        <red>237</red>
+        <green>212</green>
+        <blue>129</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5431 (Candelabra)</colorName>
+      <RGB8>
+        <red>225</red>
+        <green>193</green>
+        <blue>97</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5432 (Haystacks)</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>172</green>
+        <blue>71</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5433 (Golden History)</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>153</green>
+        <blue>58</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5434 (Desert Lily)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>245</green>
+        <blue>219</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5435 (Cookie Dough)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>235</green>
+        <blue>197</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5436 (Tortilla)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>219</green>
+        <blue>167</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5437 (Biscotti)</colorName>
+      <RGB8>
+        <red>226</red>
+        <green>198</green>
+        <blue>129</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>208</red>
+        <green>176</green>
+        <blue>100</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5438 (Filtered Rays)</colorName>
+      <RGB8>
+        <red>208</red>
+        <green>176</green>
+        <blue>100</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5439 (Brown Rum)</colorName>
+      <RGB8>
+        <red>188</red>
+        <green>155</green>
+        <blue>78</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5440 (Arrow Rock)</colorName>
+      <RGB8>
+        <red>162</red>
+        <green>132</green>
+        <blue>64</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5441 (Natural Wool)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>246</green>
+        <blue>215</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5442 (Candle in the Wind)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>235</green>
+        <blue>191</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5443 (Hazy Moon)</colorName>
+      <RGB8>
+        <red>240</red>
+        <green>220</green>
+        <blue>160</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5444 (Waffle Cone)</colorName>
+      <RGB8>
+        <red>226</red>
+        <green>199</green>
+        <blue>121</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5445 (Tanami Desert)</colorName>
+      <RGB8>
+        <red>208</red>
+        <green>178</green>
+        <blue>92</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5446 (Underbrush)</colorName>
+      <RGB8>
+        <red>190</red>
+        <green>158</green>
+        <blue>72</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5447 (Peanut Brittle)</colorName>
+      <RGB8>
+        <red>166</red>
+        <green>137</green>
+        <blue>58</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>248</green>
+        <blue>217</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5448 (Supernova)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>248</green>
+        <blue>217</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5449 (Moonstruck)</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>240</green>
+        <blue>194</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5450 (Sugar Cookie)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>226</green>
+        <blue>164</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5451 (Dijon Mustard)</colorName>
+      <RGB8>
+        <red>226</red>
+        <green>202</green>
+        <blue>115</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5452 (Gold Gleam)</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>179</green>
+        <blue>82</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5453 (Tiki Torch)</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>158</green>
+        <blue>63</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5454 (Sullen Gold)</colorName>
+      <RGB8>
+        <red>165</red>
+        <green>139</green>
+        <blue>52</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5455 (Cotton Cloth)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>244</green>
+        <blue>212</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5456 (Sandy Shore)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>233</green>
+        <blue>187</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5457 (Bamboo Mat)</colorName>
+      <RGB8>
+        <red>229</red>
+        <green>218</green>
+        <blue>159</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>212</red>
+        <green>196</green>
+        <blue>119</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5458 (Marsh Field)</colorName>
+      <RGB8>
+        <red>212</red>
+        <green>196</green>
+        <blue>119</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5459 (Mack Creek)</colorName>
+      <RGB8>
+        <red>191</red>
+        <green>174</green>
+        <blue>91</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5460 (18th Century Green)</colorName>
+      <RGB8>
+        <red>165</red>
+        <green>147</green>
+        <blue>68</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5461 (Eden Prairie)</colorName>
+      <RGB8>
+        <red>149</red>
+        <green>134</green>
+        <blue>60</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5462 (Sweet Butter)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>252</green>
+        <blue>215</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5463 (Yellow Yarn)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>246</green>
+        <blue>190</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5464 (Lemon Gelato)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>236</green>
+        <blue>158</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5465 (Lightning Bug)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>222</green>
+        <blue>116</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5466 (Citrus Spice)</colorName>
+      <RGB8>
+        <red>226</red>
+        <green>205</green>
+        <blue>82</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5467 (Yellow Stone)</colorName>
+      <RGB8>
+        <red>206</red>
+        <green>183</green>
+        <blue>54</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>187</red>
+        <green>165</green>
+        <blue>40</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5468 (Pickle Juice)</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>165</green>
+        <blue>40</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5469 (Focus on Light)</colorName>
+      <RGB8>
+        <red>254</red>
+        <green>249</green>
+        <blue>211</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5470 (Fine Linen)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>245</green>
+        <blue>195</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5471 (Shaded Sun)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>235</green>
+        <blue>165</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5472 (Lustrous Yellow)</colorName>
+      <RGB8>
+        <red>230</red>
+        <green>218</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5473 (Citron)</colorName>
+      <RGB8>
+        <red>213</red>
+        <green>199</green>
+        <blue>87</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5474 (Pesto)</colorName>
+      <RGB8>
+        <red>193</red>
+        <green>178</green>
+        <blue>62</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5475 (Martian)</colorName>
+      <RGB8>
+        <red>174</red>
+        <green>161</green>
+        <blue>50</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5476 (Light Mist)</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>247</green>
+        <blue>219</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5477 (Fresh Honeydew)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>239</green>
+        <blue>197</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>233</red>
+        <green>225</green>
+        <blue>167</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5478 (Breath of Spring)</colorName>
+      <RGB8>
+        <red>233</red>
+        <green>225</green>
+        <blue>167</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5479 (Hay Day)</colorName>
+      <RGB8>
+        <red>218</red>
+        <green>205</green>
+        <blue>129</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5480 (Baby Frog)</colorName>
+      <RGB8>
+        <red>200</red>
+        <green>186</green>
+        <blue>99</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5481 (Moss Stone)</colorName>
+      <RGB8>
+        <red>180</red>
+        <green>165</green>
+        <blue>75</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5482 (Gecko)</colorName>
+      <RGB8>
+        <red>157</red>
+        <green>145</green>
+        <blue>60</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5483 (Light of the Moon)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>245</green>
+        <blue>215</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5484 (Limesicle)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>234</green>
+        <blue>191</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5485 (Russet Green)</colorName>
+      <RGB8>
+        <red>227</red>
+        <green>217</green>
+        <blue>160</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5486 (Tropical Moss)</colorName>
+      <RGB8>
+        <red>210</red>
+        <green>196</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5487 (Spring Marsh)</colorName>
+      <RGB8>
+        <red>192</red>
+        <green>176</green>
+        <blue>93</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>173</red>
+        <green>158</green>
+        <blue>75</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5488 (Queen Palm)</colorName>
+      <RGB8>
+        <red>173</red>
+        <green>158</green>
+        <blue>75</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5489 (Jalapeno)</colorName>
+      <RGB8>
+        <red>154</red>
+        <green>141</green>
+        <blue>63</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5490 (Antique China)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>246</green>
+        <blue>231</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5491 (Glisten Green)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>239</green>
+        <blue>220</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5492 (Silver Fern)</colorName>
+      <RGB8>
+        <red>225</red>
+        <green>221</green>
+        <blue>191</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5493 (Floating Lily Pad)</colorName>
+      <RGB8>
+        <red>204</red>
+        <green>199</green>
+        <blue>161</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5494 (Even Growth)</colorName>
+      <RGB8>
+        <red>178</red>
+        <green>170</green>
+        <blue>122</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5495 (Grape Leaves)</colorName>
+      <RGB8>
+        <red>156</red>
+        <green>148</green>
+        <blue>99</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5496 (Aged Eucalyptus)</colorName>
+      <RGB8>
+        <red>137</red>
+        <green>130</green>
+        <blue>83</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5497 (Tapering Light)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>242</green>
+        <blue>221</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>236</red>
+        <green>230</green>
+        <blue>200</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5498 (Calla Lily)</colorName>
+      <RGB8>
+        <red>236</red>
+        <green>230</green>
+        <blue>200</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5499 (Dull Sage)</colorName>
+      <RGB8>
+        <red>219</red>
+        <green>212</green>
+        <blue>171</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5500 (Olive Hint)</colorName>
+      <RGB8>
+        <red>201</red>
+        <green>189</green>
+        <blue>136</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5501 (Twine)</colorName>
+      <RGB8>
+        <red>183</red>
+        <green>168</green>
+        <blue>109</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5502 (Serpentine)</colorName>
+      <RGB8>
+        <red>155</red>
+        <green>142</green>
+        <blue>84</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5503 (Shaded Glen)</colorName>
+      <RGB8>
+        <red>142</red>
+        <green>130</green>
+        <blue>74</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  

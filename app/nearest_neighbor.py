@@ -11,6 +11,7 @@
 ###################
 
 from re import A
+from unicodedata import name
 
 def distance_formula(x1, x2, y1, y2, z1, z2):
     """ 
@@ -207,7 +208,26 @@ def nearest_neighbor():
     name_dataBM = [name.split(' ', 1)[1] for name in name_dataBM] # remove identifier from prefix
     for i in range(len(name_dataBM)):
         BM_dict[i] = [name_dataBM[i].lower(), colorBM_hex[i]]
+        
+    
+    # Store data as json files
+    import json
+    
+    BM_json_string = json.dumps(BM_dict)
+    SW_json_string = json.dumps(SW_dict)
+    
+    with open('data/json/BM_data.json', 'w') as outfile:
+        json.dump(BM_json_string, outfile)
+        
+    with open('data/json/SW_data.json', 'w') as outfile:
+        json.dump(SW_json_string, outfile)
 
+    with open('data/json/BM_data.json', 'r') as infile:
+        BM_dict = json.load(infile)
+        
+    with open('data/json/SW_data.json', 'r') as infile:
+        SW_dict = json.load(infile)
+    
     return BM_dict, SW_dict
 
     #region direct hex-name old

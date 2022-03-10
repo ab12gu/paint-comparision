@@ -1,0 +1,1687 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>Dunn-Edwards Perfect-Palette - Green Blues, Blues</bookName>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>233</red>
+        <green>241</green>
+        <blue>236</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5714 (Silent Breath)</colorName>
+      <RGB8>
+        <red>233</red>
+        <green>241</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5715 (Fizzle)</colorName>
+      <RGB8>
+        <red>216</red>
+        <green>228</green>
+        <blue>222</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5716 (Rolling Waves)</colorName>
+      <RGB8>
+        <red>191</red>
+        <green>209</green>
+        <blue>201</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5717 (Pistachio Ice Cream)</colorName>
+      <RGB8>
+        <red>160</red>
+        <green>183</green>
+        <blue>173</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5718 (Mother Earth)</colorName>
+      <RGB8>
+        <red>132</red>
+        <green>156</green>
+        <blue>141</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5719 (Ecological)</colorName>
+      <RGB8>
+        <red>103</red>
+        <green>127</green>
+        <blue>112</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5720 (Deep in the Jungle)</colorName>
+      <RGB8>
+        <red>83</red>
+        <green>102</green>
+        <blue>90</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5721 (Air of Mint)</colorName>
+      <RGB8>
+        <red>216</red>
+        <green>242</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5722 (Tropical Waterfall)</colorName>
+      <RGB8>
+        <red>190</red>
+        <green>231</green>
+        <blue>226</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5723 (Fountain City)</colorName>
+      <RGB8>
+        <red>156</red>
+        <green>212</green>
+        <blue>207</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>119</red>
+        <green>188</green>
+        <blue>182</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5724 (Polished Aqua)</colorName>
+      <RGB8>
+        <red>119</red>
+        <green>188</green>
+        <blue>182</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5725 (Dragon Bay)</colorName>
+      <RGB8>
+        <red>93</red>
+        <green>169</green>
+        <blue>159</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5726 (Royal Palm)</colorName>
+      <RGB8>
+        <red>65</red>
+        <green>141</green>
+        <blue>132</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5727 (Imperial Dynasty)</colorName>
+      <RGB8>
+        <red>51</red>
+        <green>116</green>
+        <blue>107</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5728 (Tinted Ice)</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>246</green>
+        <blue>244</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5729 (Spearmint)</colorName>
+      <RGB8>
+        <red>177</red>
+        <green>234</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5730 (Island Oasis)</colorName>
+      <RGB8>
+        <red>136</red>
+        <green>217</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5731 (Port Hope)</colorName>
+      <RGB8>
+        <red>84</red>
+        <green>195</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5732 (Teal Me No Lies)</colorName>
+      <RGB8>
+        <red>13</red>
+        <green>172</green>
+        <blue>167</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5733 (Reef Encounter)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>150</green>
+        <blue>143</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>0</red>
+        <green>123</green>
+        <blue>117</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5734 (Emperor Jade)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>123</green>
+        <blue>117</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5735 (Morning Calm)</colorName>
+      <RGB8>
+        <red>206</red>
+        <green>238</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5736 (Soaring Sky)</colorName>
+      <RGB8>
+        <red>185</red>
+        <green>229</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5737 (Aqua Bloom)</colorName>
+      <RGB8>
+        <red>150</red>
+        <green>211</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5738 (Castaway)</colorName>
+      <RGB8>
+        <red>109</red>
+        <green>186</green>
+        <blue>192</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5739 (Montego Bay)</colorName>
+      <RGB8>
+        <red>75</red>
+        <green>164</green>
+        <blue>169</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5740 (Deep Lagoon)</colorName>
+      <RGB8>
+        <red>43</red>
+        <green>136</green>
+        <blue>141</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5741 (Peacock Plume)</colorName>
+      <RGB8>
+        <red>32</red>
+        <green>109</green>
+        <blue>113</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5742 (Thawed Out)</colorName>
+      <RGB8>
+        <red>225</red>
+        <green>238</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5743 (Silver Spruce)</colorName>
+      <RGB8>
+        <red>202</red>
+        <green>223</green>
+        <blue>221</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>174</red>
+        <green>202</green>
+        <blue>200</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5744 (Seaport)</colorName>
+      <RGB8>
+        <red>174</red>
+        <green>202</green>
+        <blue>200</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5745 (Barrier Reef)</colorName>
+      <RGB8>
+        <red>140</red>
+        <green>174</green>
+        <blue>172</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5746 (Aspen Hush)</colorName>
+      <RGB8>
+        <red>106</red>
+        <green>141</green>
+        <blue>136</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5747 (Stone Bridge)</colorName>
+      <RGB8>
+        <red>82</red>
+        <green>112</green>
+        <blue>108</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5748 (Loch Ness)</colorName>
+      <RGB8>
+        <red>68</red>
+        <green>89</green>
+        <blue>86</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5749 (Windswept)</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>241</green>
+        <blue>245</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5750 (Winter Escape)</colorName>
+      <RGB8>
+        <red>180</red>
+        <green>229</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5751 (Plunging Waterfall)</colorName>
+      <RGB8>
+        <red>140</red>
+        <green>212</green>
+        <blue>223</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5752 (Faded Jeans)</colorName>
+      <RGB8>
+        <red>93</red>
+        <green>189</green>
+        <blue>203</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5753 (Riviera)</colorName>
+      <RGB8>
+        <red>24</red>
+        <green>159</green>
+        <blue>172</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>0</red>
+        <green>135</green>
+        <blue>148</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5754 (Tropical Teal)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>135</green>
+        <blue>148</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5755 (Carnival Night)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>110</green>
+        <blue>122</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5756 (Let it Snow)</colorName>
+      <RGB8>
+        <red>216</red>
+        <green>241</green>
+        <blue>244</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5757 (Across the Bay)</colorName>
+      <RGB8>
+        <red>179</red>
+        <green>225</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5758 (Winter Chill)</colorName>
+      <RGB8>
+        <red>142</red>
+        <green>206</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5759 (Gulf Stream)</colorName>
+      <RGB8>
+        <red>98</red>
+        <green>180</green>
+        <blue>192</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5760 (Caribbean Cruise)</colorName>
+      <RGB8>
+        <red>63</red>
+        <green>157</green>
+        <blue>169</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5761 (River Fountain)</colorName>
+      <RGB8>
+        <red>36</red>
+        <green>133</green>
+        <blue>145</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5762 (Teal Fury)</colorName>
+      <RGB8>
+        <red>26</red>
+        <green>108</green>
+        <blue>118</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5763 (Sparkling River)</colorName>
+      <RGB8>
+        <red>214</red>
+        <green>237</green>
+        <blue>241</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>187</red>
+        <green>222</green>
+        <blue>229</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5764 (Blue Moon)</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>222</green>
+        <blue>229</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5765 (Surfside)</colorName>
+      <RGB8>
+        <red>154</red>
+        <green>202</green>
+        <blue>211</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5766 (Watson Lake)</colorName>
+      <RGB8>
+        <red>116</red>
+        <green>174</green>
+        <blue>186</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5767 (Star City)</colorName>
+      <RGB8>
+        <red>87</red>
+        <green>150</green>
+        <blue>161</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5768 (Mysterious Blue)</colorName>
+      <RGB8>
+        <red>62</red>
+        <green>122</green>
+        <blue>133</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5769 (After the Storm)</colorName>
+      <RGB8>
+        <red>51</red>
+        <green>97</green>
+        <blue>106</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5770 (Smoke and Mirrors)</colorName>
+      <RGB8>
+        <red>217</red>
+        <green>230</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5771 (Shark)</colorName>
+      <RGB8>
+        <red>202</red>
+        <green>220</green>
+        <blue>222</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5772 (Blue Spruce)</colorName>
+      <RGB8>
+        <red>173</red>
+        <green>197</green>
+        <blue>201</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5773 (Stone Silver)</colorName>
+      <RGB8>
+        <red>139</red>
+        <green>168</green>
+        <blue>174</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>105</red>
+        <green>133</green>
+        <blue>137</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5774 (Thundercloud)</colorName>
+      <RGB8>
+        <red>105</red>
+        <green>133</green>
+        <blue>137</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5775 (Iron Creek)</colorName>
+      <RGB8>
+        <red>80</red>
+        <green>103</green>
+        <blue>107</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5776 (Lunar Eclipse)</colorName>
+      <RGB8>
+        <red>65</red>
+        <green>80</green>
+        <blue>83</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5777 (Frostproof)</colorName>
+      <RGB8>
+        <red>209</red>
+        <green>240</green>
+        <blue>246</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5778 (Crystal River)</colorName>
+      <RGB8>
+        <red>177</red>
+        <green>226</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5779 (Bayshore)</colorName>
+      <RGB8>
+        <red>137</red>
+        <green>206</green>
+        <blue>224</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5780 (Water Baby)</colorName>
+      <RGB8>
+        <red>90</red>
+        <green>181</green>
+        <blue>203</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5781 (Tropical Lagoon)</colorName>
+      <RGB8>
+        <red>30</red>
+        <green>152</green>
+        <blue>174</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5782 (By the Bayou)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>123</green>
+        <blue>144</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5783 (Nocturnal Sea)</colorName>
+      <RGB8>
+        <red>14</red>
+        <green>96</green>
+        <blue>113</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>210</red>
+        <green>234</green>
+        <blue>241</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5784 (Ice Cold)</colorName>
+      <RGB8>
+        <red>210</red>
+        <green>234</green>
+        <blue>241</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5785 (Glacier Point)</colorName>
+      <RGB8>
+        <red>179</red>
+        <green>216</green>
+        <blue>229</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5786 (Eastern Sky)</colorName>
+      <RGB8>
+        <red>143</red>
+        <green>193</green>
+        <blue>210</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5787 (Pacific Palisade)</colorName>
+      <RGB8>
+        <red>105</red>
+        <green>164</green>
+        <blue>185</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5788 (Aegean Sea)</colorName>
+      <RGB8>
+        <red>80</red>
+        <green>143</green>
+        <blue>162</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5789 (English River)</colorName>
+      <RGB8>
+        <red>60</red>
+        <green>118</green>
+        <blue>138</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5790 (Atlantis)</colorName>
+      <RGB8>
+        <red>51</red>
+        <green>97</green>
+        <blue>114</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5791 (Sidewalk Chalk)</colorName>
+      <RGB8>
+        <red>219</red>
+        <green>233</green>
+        <blue>237</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5792 (Falling Tears)</colorName>
+      <RGB8>
+        <red>194</red>
+        <green>215</green>
+        <blue>223</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5793 (Frozen Tundra)</colorName>
+      <RGB8>
+        <red>163</red>
+        <green>191</green>
+        <blue>203</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>128</red>
+        <green>161</green>
+        <blue>176</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5794 (Lake Winnipeg)</colorName>
+      <RGB8>
+        <red>128</red>
+        <green>161</green>
+        <blue>176</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5795 (Spirit Mountain)</colorName>
+      <RGB8>
+        <red>106</red>
+        <green>139</green>
+        <blue>152</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5796 (Before the Storm)</colorName>
+      <RGB8>
+        <red>77</red>
+        <green>106</green>
+        <blue>119</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5797 (Slate Wall)</colorName>
+      <RGB8>
+        <red>64</red>
+        <green>83</green>
+        <blue>93</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5798 (Polar Ice)</colorName>
+      <RGB8>
+        <red>221</red>
+        <green>232</green>
+        <blue>237</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5799 (Snow Lodge)</colorName>
+      <RGB8>
+        <red>199</red>
+        <green>215</green>
+        <blue>224</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5800 (Peace River)</colorName>
+      <RGB8>
+        <red>168</red>
+        <green>191</green>
+        <blue>204</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5801 (Silver Skate)</colorName>
+      <RGB8>
+        <red>135</red>
+        <green>161</green>
+        <blue>177</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5802 (China Clay)</colorName>
+      <RGB8>
+        <red>113</red>
+        <green>139</green>
+        <blue>154</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5803 (Turbulent Sea)</colorName>
+      <RGB8>
+        <red>83</red>
+        <green>106</green>
+        <blue>121</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>67</red>
+        <green>83</green>
+        <blue>94</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5804 (Nightfall)</colorName>
+      <RGB8>
+        <red>67</red>
+        <green>83</green>
+        <blue>94</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5805 (Pale Frost)</colorName>
+      <RGB8>
+        <red>207</red>
+        <green>229</green>
+        <blue>240</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5806 (Dockside)</colorName>
+      <RGB8>
+        <red>177</red>
+        <green>211</green>
+        <blue>227</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5807 (Bonnie Blue)</colorName>
+      <RGB8>
+        <red>141</red>
+        <green>187</green>
+        <blue>209</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5808 (Lake Lucerne)</colorName>
+      <RGB8>
+        <red>104</red>
+        <green>157</green>
+        <blue>183</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5809 (Raging Tide)</colorName>
+      <RGB8>
+        <red>81</red>
+        <green>135</green>
+        <blue>160</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5810 (Crashing Waves)</colorName>
+      <RGB8>
+        <red>62</red>
+        <green>111</green>
+        <blue>135</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5811 (Summer Night)</colorName>
+      <RGB8>
+        <red>54</red>
+        <green>87</green>
+        <blue>106</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5812 (Dreamy Blue)</colorName>
+      <RGB8>
+        <red>215</red>
+        <green>230</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5813 (Two Harbors)</colorName>
+      <RGB8>
+        <red>190</red>
+        <green>211</green>
+        <blue>225</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>158</red>
+        <green>187</green>
+        <blue>205</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5814 (Anchors Away)</colorName>
+      <RGB8>
+        <red>158</red>
+        <green>187</green>
+        <blue>205</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5815 (Frozen Lake)</colorName>
+      <RGB8>
+        <red>123</red>
+        <green>156</green>
+        <blue>179</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5816 (Seal Pup)</colorName>
+      <RGB8>
+        <red>101</red>
+        <green>134</green>
+        <blue>155</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5817 (Stormy Sea)</colorName>
+      <RGB8>
+        <red>74</red>
+        <green>101</green>
+        <blue>122</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5818 (Midnight Haze)</colorName>
+      <RGB8>
+        <red>62</red>
+        <green>80</green>
+        <blue>95</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5819 (Pearl City)</colorName>
+      <RGB8>
+        <red>220</red>
+        <green>228</green>
+        <blue>233</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5820 (Polished Silver)</colorName>
+      <RGB8>
+        <red>197</red>
+        <green>209</green>
+        <blue>218</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5821 (Overcast Sky)</colorName>
+      <RGB8>
+        <red>167</red>
+        <green>184</green>
+        <blue>196</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5822 (Silver Storm)</colorName>
+      <RGB8>
+        <red>133</red>
+        <green>153</green>
+        <blue>168</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5823 (Mica Creek)</colorName>
+      <RGB8>
+        <red>112</red>
+        <green>130</green>
+        <blue>143</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>83</red>
+        <green>98</green>
+        <blue>110</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5824 (Outer Space)</colorName>
+      <RGB8>
+        <red>83</red>
+        <green>98</green>
+        <blue>110</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5825 (Deepest Sea)</colorName>
+      <RGB8>
+        <red>68</red>
+        <green>77</green>
+        <blue>86</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5826 (Frosty Day)</colorName>
+      <RGB8>
+        <red>204</red>
+        <green>235</green>
+        <blue>245</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5827 (Spring Shower)</colorName>
+      <RGB8>
+        <red>171</red>
+        <green>220</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5828 (Winter Chime)</colorName>
+      <RGB8>
+        <red>131</red>
+        <green>199</green>
+        <blue>223</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5829 (Frozen Wave)</colorName>
+      <RGB8>
+        <red>86</red>
+        <green>172</green>
+        <blue>202</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5830 (Mediterranean Sea)</colorName>
+      <RGB8>
+        <red>30</red>
+        <green>140</green>
+        <blue>171</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5831 (Teal Tune)</colorName>
+      <RGB8>
+        <red>2</red>
+        <green>112</green>
+        <blue>140</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5832 (Navy Teal)</colorName>
+      <RGB8>
+        <red>32</red>
+        <green>87</green>
+        <blue>110</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5833 (Teardrops)</colorName>
+      <RGB8>
+        <red>208</red>
+        <green>238</green>
+        <blue>251</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>176</red>
+        <green>224</green>
+        <blue>246</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5834 (Azure Sky)</colorName>
+      <RGB8>
+        <red>176</red>
+        <green>224</green>
+        <blue>246</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5835 (Below Zero)</colorName>
+      <RGB8>
+        <red>135</red>
+        <green>205</green>
+        <blue>237</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5836 (Sail Away)</colorName>
+      <RGB8>
+        <red>85</red>
+        <green>180</green>
+        <blue>222</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5837 (Pool Party)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>152</green>
+        <blue>200</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5838 (Summer Lake)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>119</green>
+        <blue>167</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5839 (Ink Blotch)</colorName>
+      <RGB8>
+        <red>0</red>
+        <green>96</green>
+        <blue>139</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5840 (Ice Castle)</colorName>
+      <RGB8>
+        <red>213</red>
+        <green>237</green>
+        <blue>251</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5841 (Arctic Paradise)</colorName>
+      <RGB8>
+        <red>184</red>
+        <green>223</green>
+        <blue>248</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5842 (Light Azure)</colorName>
+      <RGB8>
+        <red>146</red>
+        <green>203</green>
+        <blue>241</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5843 (Sanctuary Spa)</colorName>
+      <RGB8>
+        <red>102</red>
+        <green>178</green>
+        <blue>228</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>49</red>
+        <green>148</green>
+        <blue>206</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5844 (Splish Splash)</colorName>
+      <RGB8>
+        <red>49</red>
+        <green>148</green>
+        <blue>206</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5845 (Americana )</colorName>
+      <RGB8>
+        <red>4</red>
+        <green>119</green>
+        <blue>180</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5846 (Lapis)</colorName>
+      <RGB8>
+        <red>22</red>
+        <green>93</green>
+        <blue>149</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5847 (Ice Fishing)</colorName>
+      <RGB8>
+        <red>220</red>
+        <green>236</green>
+        <blue>245</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5848 (Island View)</colorName>
+      <RGB8>
+        <red>195</red>
+        <green>221</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5849 (January Frost)</colorName>
+      <RGB8>
+        <red>153</red>
+        <green>193</green>
+        <blue>220</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5850 (Wandering River)</colorName>
+      <RGB8>
+        <red>115</red>
+        <green>164</green>
+        <blue>198</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5851 (Blueberry Muffin)</colorName>
+      <RGB8>
+        <red>85</red>
+        <green>136</green>
+        <blue>171</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5852 (Rainy Lake)</colorName>
+      <RGB8>
+        <red>63</red>
+        <green>108</green>
+        <blue>143</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5853 (Blue Earth)</colorName>
+      <RGB8>
+        <red>55</red>
+        <green>86</green>
+        <blue>115</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>198</red>
+        <green>227</green>
+        <blue>247</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5854 (Fresh Water)</colorName>
+      <RGB8>
+        <red>198</red>
+        <green>227</green>
+        <blue>247</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5855 (Wild Blue Yonder)</colorName>
+      <RGB8>
+        <red>179</red>
+        <green>217</green>
+        <blue>243</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5856 (Astral)</colorName>
+      <RGB8>
+        <red>142</red>
+        <green>194</green>
+        <blue>231</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5857 (Marina)</colorName>
+      <RGB8>
+        <red>101</red>
+        <green>165</green>
+        <blue>213</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5858 (Walker Lake)</colorName>
+      <RGB8>
+        <red>61</red>
+        <green>135</green>
+        <blue>187</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5859 (The Blues)</colorName>
+      <RGB8>
+        <red>41</red>
+        <green>106</green>
+        <blue>157</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5860 (Slumber)</colorName>
+      <RGB8>
+        <red>45</red>
+        <green>81</green>
+        <blue>124</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5861 (Cloudless)</colorName>
+      <RGB8>
+        <red>214</red>
+        <green>234</green>
+        <blue>252</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5862 (Oh Boy!)</colorName>
+      <RGB8>
+        <red>187</red>
+        <green>218</green>
+        <blue>248</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5863 (Sail to the Sea)</colorName>
+      <RGB8>
+        <red>153</red>
+        <green>195</green>
+        <blue>240</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>114</red>
+        <green>167</green>
+        <blue>225</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5864 (Cornflower)</colorName>
+      <RGB8>
+        <red>114</red>
+        <green>167</green>
+        <blue>225</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5865 (Safe Harbor)</colorName>
+      <RGB8>
+        <red>74</red>
+        <green>135</green>
+        <blue>203</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5866 (Dover Straits)</colorName>
+      <RGB8>
+        <red>50</red>
+        <green>106</green>
+        <blue>177</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5867 (Blue Chip)</colorName>
+      <RGB8>
+        <red>29</red>
+        <green>86</green>
+        <blue>153</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5868 (Winter Solstice)</colorName>
+      <RGB8>
+        <red>226</red>
+        <green>234</green>
+        <blue>240</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5869 (Oceana Drive)</colorName>
+      <RGB8>
+        <red>194</red>
+        <green>210</green>
+        <blue>224</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5870 (Northern Pond)</colorName>
+      <RGB8>
+        <red>163</red>
+        <green>185</green>
+        <blue>205</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5871 (Downpour)</colorName>
+      <RGB8>
+        <red>129</red>
+        <green>154</green>
+        <blue>177</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5872 (Lakeville)</colorName>
+      <RGB8>
+        <red>108</red>
+        <green>132</green>
+        <blue>155</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5873 (Periscope)</colorName>
+      <RGB8>
+        <red>82</red>
+        <green>103</green>
+        <blue>123</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>66</red>
+        <green>79</green>
+        <blue>95</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5874 (Deep Reservoir)</colorName>
+      <RGB8>
+        <red>66</red>
+        <green>79</green>
+        <blue>95</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5875 (Clear Vision)</colorName>
+      <RGB8>
+        <red>231</red>
+        <green>240</green>
+        <blue>247</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5876 (Alaskan Skies)</colorName>
+      <RGB8>
+        <red>205</red>
+        <green>220</green>
+        <blue>237</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5877 (Afternoon Sky)</colorName>
+      <RGB8>
+        <red>176</red>
+        <green>198</green>
+        <blue>223</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5878 (Bachelor Blue)</colorName>
+      <RGB8>
+        <red>143</red>
+        <green>170</green>
+        <blue>202</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5879 (Ocean City)</colorName>
+      <RGB8>
+        <red>120</red>
+        <green>150</green>
+        <blue>186</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5880 (Clean Slate)</colorName>
+      <RGB8>
+        <red>87</red>
+        <green>115</green>
+        <blue>150</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5881 (Newbury Port)</colorName>
+      <RGB8>
+        <red>68</red>
+        <green>90</green>
+        <blue>121</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5882 (Harbor Afternoon)</colorName>
+      <RGB8>
+        <red>224</red>
+        <green>233</green>
+        <blue>243</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5883 (Drenched Rain)</colorName>
+      <RGB8>
+        <red>193</red>
+        <green>209</green>
+        <blue>226</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>162</red>
+        <green>183</green>
+        <blue>207</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5884 (Misted Eve)</colorName>
+      <RGB8>
+        <red>162</red>
+        <green>183</green>
+        <blue>207</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5885 (Denim Tradition)</colorName>
+      <RGB8>
+        <red>127</red>
+        <green>151</green>
+        <blue>181</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5886 (Bay View)</colorName>
+      <RGB8>
+        <red>106</red>
+        <green>129</green>
+        <blue>158</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5887 (Admiral Blue)</colorName>
+      <RGB8>
+        <red>80</red>
+        <green>100</green>
+        <blue>127</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5888 (Luna Pier)</colorName>
+      <RGB8>
+        <red>65</red>
+        <green>77</green>
+        <blue>98</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5889 (Rainy Day)</colorName>
+      <RGB8>
+        <red>224</red>
+        <green>235</green>
+        <blue>250</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5890 (Fly a Kite)</colorName>
+      <RGB8>
+        <red>200</red>
+        <green>218</green>
+        <blue>245</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5891 (Sky High)</colorName>
+      <RGB8>
+        <red>167</red>
+        <green>194</green>
+        <blue>235</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5892 (Blue Cue)</colorName>
+      <RGB8>
+        <red>132</red>
+        <green>165</green>
+        <blue>220</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5893 (Bodega Bay)</colorName>
+      <RGB8>
+        <red>94</red>
+        <green>129</green>
+        <blue>193</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>70</red>
+        <green>100</green>
+        <blue>165</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DE5894 (Starstruck)</colorName>
+      <RGB8>
+        <red>70</red>
+        <green>100</green>
+        <blue>165</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5895 (Dive In)</colorName>
+      <RGB8>
+        <red>60</red>
+        <green>77</green>
+        <blue>133</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5896 (Crystal Falls)</colorName>
+      <RGB8>
+        <red>225</red>
+        <green>230</green>
+        <blue>242</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5897 (Snowy Shadow)</colorName>
+      <RGB8>
+        <red>211</red>
+        <green>219</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5898 (Prim Blue)</colorName>
+      <RGB8>
+        <red>185</red>
+        <green>196</green>
+        <blue>222</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5899 (Sapphire Fog)</colorName>
+      <RGB8>
+        <red>153</red>
+        <green>168</green>
+        <blue>201</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5900 (Enchanting Sky)</colorName>
+      <RGB8>
+        <red>120</red>
+        <green>134</green>
+        <blue>170</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5901 (Ocean Night)</colorName>
+      <RGB8>
+        <red>99</red>
+        <green>113</green>
+        <blue>149</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DE5902 (Blue Review)</colorName>
+      <RGB8>
+        <red>78</red>
+        <green>88</green>
+        <blue>120</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  

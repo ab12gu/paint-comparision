@@ -25,7 +25,6 @@ app = Flask(__name__, template_folder=template_dir, static_folder=static_dir)
 app.config.from_pyfile('config.py') 
 pages = FlatPages(app)
 
-
 # ENTRY POINT
 @app.route('/') # decorator
 def main():

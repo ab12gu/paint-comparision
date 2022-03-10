@@ -1,0 +1,894 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<colorBook>
+  <bookName>Dunn-Edwards Perfect-Palette - Whites</bookName>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>244</green>
+        <blue>243</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW300 (Coy)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>244</green>
+        <blue>243</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW301 (Strawberry Dust)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>240</green>
+        <blue>234</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW302 (Romantic)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>239</green>
+        <blue>233</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW303 (Dogwood)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>234</green>
+        <blue>226</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW304 (What's Left)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>244</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW305 (Satin Purse)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>248</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW306 (Sheer Peach)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>247</green>
+        <blue>231</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW307 (Rosarian)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>234</green>
+        <blue>221</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW308 (Poppy Crepe)</colorName>
+      <RGB8>
+        <red>251</red>
+        <green>233</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW309 (Ajo Lily)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>236</green>
+        <blue>217</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>243</red>
+        <green>231</green>
+        <blue>219</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW310 (Alabaster)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>231</green>
+        <blue>219</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW311 (French White)</colorName>
+      <RGB8>
+        <red>241</red>
+        <green>231</green>
+        <blue>219</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW312 (Total Recall)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>234</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW313 (Early Snow)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>243</green>
+        <blue>228</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW314 (Desert Star)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>240</green>
+        <blue>225</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW315 (White Zin)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>238</green>
+        <blue>227</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW316 (Powdered)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>242</green>
+        <blue>231</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW317 (Day Lily)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>249</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW318 (Cottage White)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>239</green>
+        <blue>221</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW319 (Damask)</colorName>
+      <RGB8>
+        <red>251</red>
+        <green>241</green>
+        <blue>223</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>248</green>
+        <blue>227</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW320 (Pinch of Pearl)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>248</green>
+        <blue>227</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW321 (Sparkling Cider)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>253</green>
+        <blue>235</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW322 (Magnolia)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>249</green>
+        <blue>228</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW323 (Ivory Charm)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>246</green>
+        <blue>218</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW324 (Phoenix Villa)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>239</green>
+        <blue>222</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW325 (Vanilla Shake)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>251</green>
+        <blue>240</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW326 (Birch White)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>238</green>
+        <blue>223</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW327 (Lily)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>240</green>
+        <blue>219</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW328 (Pearl White)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>235</green>
+        <blue>215</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW329 (Wax Wing)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>236</green>
+        <blue>214</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>249</green>
+        <blue>226</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW330 (Snug Cottage)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>249</green>
+        <blue>226</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW331 (Wedding Dress)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>233</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW332 (Lead Glass)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>250</green>
+        <blue>229</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW333 (Diamond)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>247</green>
+        <blue>226</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW334 (Clear Day)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>252</green>
+        <blue>227</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW335 (Icicle)</colorName>
+      <RGB8>
+        <red>251</red>
+        <green>249</green>
+        <blue>225</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW336 (White Sand)</colorName>
+      <RGB8>
+        <red>245</red>
+        <green>235</green>
+        <blue>216</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW337 (Gardenia)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>253</green>
+        <blue>242</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW338 (White Heat)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>249</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW339 (Bone China)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>237</green>
+        <blue>222</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>253</red>
+        <green>250</green>
+        <blue>241</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW340 (Whisper  )</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>250</green>
+        <blue>241</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW341 (Swiss Coffee)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>245</green>
+        <blue>233</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW342 (Baby's Breath)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>237</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW343 (Pearl Necklace)</colorName>
+      <RGB8>
+        <red>252</red>
+        <green>247</green>
+        <blue>235</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW344 (Frosting Cream)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>251</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW345 (White Fever)</colorName>
+      <RGB8>
+        <red>251</red>
+        <green>244</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW346 (Swan White)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>241</green>
+        <blue>226</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW347 (Luminary)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>254</green>
+        <blue>237</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW348 (Glamour White)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>252</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW349 (Shyness)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>243</green>
+        <blue>217</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>251</red>
+        <green>251</green>
+        <blue>229</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW350 (Clearview)</colorName>
+      <RGB8>
+        <red>251</red>
+        <green>251</green>
+        <blue>229</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW351 (Antique White)</colorName>
+      <RGB8>
+        <red>236</red>
+        <green>230</green>
+        <blue>213</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW352 (Cumulus)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>243</green>
+        <blue>230</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW353 (Ivory Keys)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>247</green>
+        <blue>230</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW354 (Van de Cane)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>247</green>
+        <blue>235</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW355 (Green Tea)</colorName>
+      <RGB8>
+        <red>232</red>
+        <green>232</green>
+        <blue>212</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW356 (Bean Sprout)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>249</green>
+        <blue>233</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW357 (White Crest)</colorName>
+      <RGB8>
+        <red>249</red>
+        <green>248</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW358 (Milk Glass)</colorName>
+      <RGB8>
+        <red>250</red>
+        <green>247</green>
+        <blue>240</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW359 (Soft Silver)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>249</green>
+        <blue>233</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>248</red>
+        <green>250</green>
+        <blue>238</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW360 (Spring Frost)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>250</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW361 (Refined Mint)</colorName>
+      <RGB8>
+        <red>241</red>
+        <green>249</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW362 (Grass Valley)</colorName>
+      <RGB8>
+        <red>244</red>
+        <green>247</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW363 (Spring White)</colorName>
+      <RGB8>
+        <red>236</red>
+        <green>252</green>
+        <blue>236</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW364 (White Sulfur)</colorName>
+      <RGB8>
+        <red>241</red>
+        <green>250</green>
+        <blue>234</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW365 (Fog Town)</colorName>
+      <RGB8>
+        <red>238</red>
+        <green>240</green>
+        <blue>231</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW366 (Soft Petals)</colorName>
+      <RGB8>
+        <red>235</red>
+        <green>248</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW367 (Touch of Mint)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>255</green>
+        <blue>248</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW368 (Melting Glacier)</colorName>
+      <RGB8>
+        <red>233</red>
+        <green>249</green>
+        <blue>245</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW369 (Wind Chill)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>243</green>
+        <blue>240</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>229</red>
+        <green>234</green>
+        <blue>230</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW370 (Distant Cloud)</colorName>
+      <RGB8>
+        <red>229</red>
+        <green>234</green>
+        <blue>230</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW371 (Hurricane Mist)</colorName>
+      <RGB8>
+        <red>235</red>
+        <green>238</green>
+        <blue>232</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW372 (Catalina)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>253</green>
+        <blue>250</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW373 (Calm Waters)</colorName>
+      <RGB8>
+        <red>231</red>
+        <green>250</green>
+        <blue>250</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW374 (Coastal Breeze)</colorName>
+      <RGB8>
+        <red>224</red>
+        <green>246</green>
+        <blue>251</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW375 (Clear Skies)</colorName>
+      <RGB8>
+        <red>232</red>
+        <green>247</green>
+        <blue>253</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW376 (Evening Shadow)</colorName>
+      <RGB8>
+        <red>234</red>
+        <green>242</green>
+        <blue>241</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW377 (Distant Horizon)</colorName>
+      <RGB8>
+        <red>241</red>
+        <green>248</green>
+        <blue>250</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW378 (Worn Denim)</colorName>
+      <RGB8>
+        <red>226</red>
+        <green>236</green>
+        <blue>242</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW379 (Igloo)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>252</green>
+        <blue>250</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW380 (White)</colorName>
+      <RGB8>
+        <red>255</red>
+        <green>255</green>
+        <blue>255</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW381 (Droplets)</colorName>
+      <RGB8>
+        <red>246</red>
+        <green>244</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW382 (Faded Gray)</colorName>
+      <RGB8>
+        <red>234</red>
+        <green>232</green>
+        <blue>228</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW383 (Cool December)</colorName>
+      <RGB8>
+        <red>253</red>
+        <green>251</green>
+        <blue>248</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW384 (Snowflake)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>240</green>
+        <blue>240</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW385 (Lighthouse)</colorName>
+      <RGB8>
+        <red>243</red>
+        <green>244</green>
+        <blue>244</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW386 (Precious Pearls)</colorName>
+      <RGB8>
+        <red>241</red>
+        <green>240</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW387 (Cotton Ball)</colorName>
+      <RGB8>
+        <red>242</red>
+        <green>247</green>
+        <blue>253</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW388 (Morning Mist)</colorName>
+      <RGB8>
+        <red>229</red>
+        <green>237</green>
+        <blue>241</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW389 (Springtime Rain)</colorName>
+      <RGB8>
+        <red>235</red>
+        <green>238</green>
+        <blue>243</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  <colorPage>
+    <pageColor>
+      <RGB8>
+        <red>232</red>
+        <green>239</green>
+        <blue>248</blue>
+      </RGB8>
+    </pageColor>
+    <colorEntry>
+      <colorName>DEW390 (First Snow)</colorName>
+      <RGB8>
+        <red>232</red>
+        <green>239</green>
+        <blue>248</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW391 (Boysenberry Shadow)</colorName>
+      <RGB8>
+        <red>241</red>
+        <green>243</green>
+        <blue>249</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW392 (Crystal Bell)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>238</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW393 (Violet Clues)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>236</green>
+        <blue>239</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW394 (Cascading White)</colorName>
+      <RGB8>
+        <red>247</red>
+        <green>245</green>
+        <blue>246</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW395 (Heirloom Shade)</colorName>
+      <RGB8>
+        <red>220</red>
+        <green>216</green>
+        <blue>212</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW396 (Essence of Violet)</colorName>
+      <RGB8>
+        <red>239</red>
+        <green>237</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW397 (Angel Feather)</colorName>
+      <RGB8>
+        <red>244</red>
+        <green>239</green>
+        <blue>238</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW398 (Abalone)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>243</green>
+        <blue>246</blue>
+      </RGB8>
+    </colorEntry>
+    <colorEntry>
+      <colorName>DEW399 (Sentimental Pink)</colorName>
+      <RGB8>
+        <red>248</red>
+        <green>238</green>
+        <blue>244</blue>
+      </RGB8>
+    </colorEntry>
+  </colorPage>
+  

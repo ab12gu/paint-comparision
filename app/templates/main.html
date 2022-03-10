@@ -1,10 +1,13 @@
 <!DOCTYPE html> <!-- Document type for browser rendering-->
-<html>
+<html lang="en">
 
 <!------------------------------------------------------------------------------>
             <!-- Header: Jinja Variables & References -->
 <!------------------------------------------------------------------------------>
     <head> <!-- Non-content information-->
+        <!-- character encoding specify -->
+        <meta charset="utf-8">
+
         <!-- URL description, aka title-->
         <title> Find a Paint</title>
 
@@ -19,6 +22,9 @@
             var SWdata = {{SWdata|safe}};
             var BMdata = {{BMdata|safe}};
         </script>
+
+         <!-- Import TensorFlow.js -->
+        <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
 
         <!-- JQUERY CDN (content delivery network) Reference :: online server reference-->
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
@@ -83,7 +89,7 @@
 <!------------------------------------------------------------------------------>
 
         <!-- TOP HEX ROW -->
-            <div class="hexagons">
+            <div class="hexagons" style="margin-top:2em">
                 <div class="hexagon-label-left"> 
                     <div class="hexBrandText"></div>
                     <div class="hexColorText"></div>
@@ -116,7 +122,7 @@
             </div>
 
         <!-- BOT HEX ROW -->
-            <div class="hexagons">
+            <div class="hexagons" style="margin-bottom:4em">
                 <div class="hexagon-label-left"> 
                     <div class="hexBrandText"></div>
                     <div class="hexColorText"></div>
@@ -130,14 +136,11 @@
                     </div><!--Brand1-->
                 </div>
             </div>
-
-            <br> 
-            <br>
             <hr>
 <!------------------------------------------------------------------------------>
             <!-- Color Pallette -->
 <!------------------------------------------------------------------------------>
-            <p>Color Pallette:</p> 
+            <p style="margin-top:2em">Color Pallette:</p> 
             <div style="color: black">
                 <div class="palletes">
                     <div class="pallete">
