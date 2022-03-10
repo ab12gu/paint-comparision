@@ -50,7 +50,7 @@ function selectedBrand() {
     }
 
     // remove brand from hex wheel
-    updateHexBrandText()
+    updateAroundHexText()
 
     // clear brands
     let defaultColor = "blue"
@@ -114,7 +114,6 @@ function updateSpecifiedColor() {
         matching name from the associated dictionary
     */
 
-    let count = 0;
     for (let i = 0; i < 7; i++) {
         if (currData[i][0] == "Sherwin Williams") {
             currData[i][1] = SWdataDict[index][0];
@@ -124,43 +123,47 @@ function updateSpecifiedColor() {
         }
     }
 
-    updateHexBrandText();
+    updateAroundHexText();
+    updateHexColors(index);
+}
 
+function updateHexColors(index) {
     /*
-    // fill out outer hexagons
-    let count = 0;
-    for (let i = 0; i < 7; i++) {
-        if (currData[i][0] == currBrand){ // skip center hex
-            continue; 
-        }
-
-        // loop through outer hex
-        let hexs = document.getElementsByClassName('hexagon');
-        for (var i = 0; i < hexs.length; i++) {
-            var span = hexs[i];
-            span.innerHTML = name;
-        }
-        
-
-        count += 1;
-    }
+        Color Hexagons
+        Currently only 2 datasets, so fill based on 2 inputs
     */
 
-    // Update surrounding color text
-    updateHexColorText(index);
+    let count = 0;
+    let hexs = document.getElementsByClassName('hexagon');
+    //alert(hexs[1]);
+
+    for (let i = 0; i < 7; i++) {
+        if (currData[i][0] == currBrand){ // skip center hex in dict
+            continue;
+        }
+
+        // skip center hex in hex fill
+        if (count == 3) {
+            count += 1
+        }
+
+        var defaultColor = "#375480";
+        // fill color
+        if (currBrand == "Sherwin Williams"){
+            //hexs[count].style.setProperty('--color', '#375480');
+            hexs[count].style.setProperty('--color', BMdataDict[index][1]);
+        }
+        else{
+            //hexs[count].style.setProperty('--color', '#375480');
+            hexs[count].style.setProperty('--color', SWdataDict[index][1]);
+        }
+        count += 1;
+    }
+}
 
     // Update surround colors based on selected brand index
-    var defaultColor = "#375480"
-    document.getElementById('topLeftHex').style.color = defaultColor;
-    document.getElementById('topRightHex').style.color = defaultColor;
-    document.getElementById('leftHex').style.color = defaultColor;
-    document.getElementById('rightHex').style.color = defaultColor;
-    document.getElementById('botLeftHex').style.color = defaultColor; //BMnumDict[index];
-    document.getElementById('botRightHex').style.color =  SWdataDict[index][1];
-
     /* CHECK brand colors based on */
-    //alert(specifiedColor)
-    //alert(currBrandDict[specifiedColor])
+
 
     //#region My Region
 
@@ -199,7 +202,6 @@ function updateSpecifiedColor() {
     //outputColor.style.color = 'blue';
 
     //#endregion
-  }
 
 //#region Antiquated functions
 /*
