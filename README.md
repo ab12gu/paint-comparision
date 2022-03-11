@@ -11,7 +11,7 @@ navigate to poetry folder `.\poetry\`
 run shell `poetry shell`
 install dependencies `poetry install`
 navigate to root `.\..\`
-run app `python3 app.py`
+run app `python3 run.py`
 
 ## Paint Company List
 - Sherwin Williams
@@ -44,7 +44,7 @@ https://carl.camera/sandbox/aseconvert/
 https://jsonformatter.org/xml-parser
 
 #### .ACB -> XML
-Rename file extension to xml
+Rename file extension to xml (adobe photoshop files)
 
 #### XML to JSON
 https://codebeautify.org/xmltojson
