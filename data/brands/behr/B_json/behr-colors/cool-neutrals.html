@@ -1,0 +1,907 @@
+<!DOCTYPE html>
+<!-- saved from url=(0039)https://carl.camera/sandbox/aseconvert/ -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><title>
+	Online ASE File Converter | carl.camera 
+</title><meta name="description" content="The ASE Color Decoder readsin your Adobe ASE file and displays the palette colors online as RGB Hex values."><meta name="keywords" content="adobe ase file palette decode decoder converter conversion convert color kuler colourlovers file"><meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="icon" href="https://carl.camera/sandbox/aseconvert/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="https://carl.camera/sandbox/aseconvert/favicon.ico" type="image/x-icon"><link href="./cool-neutrals_files/css" rel="stylesheet"><link rel="stylesheet" type="text/css" media="Screen, projection" href="./cool-neutrals_files/screen.css"></head>
+<body>
+    <div class="formwrap">
+        <header>
+            <h1 id="siteheading">ASE Color Decoder <span>Extracts hex values from Adobe<span class="trademark">®</span> ASE Palette files.</span></h1>
+        </header>
+        <p class="warnmsg">
+            
+        </p>
+        <div id="theform">
+            <form method="post" action="https://carl.camera/sandbox/aseconvert/" id="form1" enctype="multipart/form-data">
+<div class="aspNetHidden">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="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">
+</div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<div class="aspNetHidden">
+
+	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="292A0634">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="UlDgQZHasVbhALOlE9kGNM2EkSSo5MOsn5uNOgLLen8GQid6ReBj4gB2NpcTtiNTcxecaXBoOTD3QKLJEQ9zb649Fst8ESKo98orRiagK8j4M6z3uN1B+4xwLzFiRUay">
+</div>
+                <div>
+                    <label for="uploadbox">Locate your ASE Palette File</label>
+                </div>
+                <div>
+                    <input name="asefile" type="file" id="asefile">
+                    <input onclick="__doPostBack(&#39;filesubmit&#39;,&#39;&#39;)" name="filesubmit" type="button" id="filesubmit" value="Decode">
+                </div>
+            </form>
+        </div>
+        <h2><span id="Pname"></span></h2>
+        <div class="swatches">
+            
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_0">BWC-29 SILVER FEATHER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #dbdcd3"></span>
+                        <p class="hexval">
+                            #dbdcd3
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_1">MQ2-59* SILVER CITY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #c8c8c2"></span>
+                        <p class="hexval">
+                            #c8c8c2
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_2">PPU24-10 DOWNTOWN GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #adaaa2"></span>
+                        <p class="hexval">
+                            #adaaa2
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_3">HDC-AC-19 GRANT GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #918f8a"></span>
+                        <p class="hexval">
+                            #918f8a
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_4">PPU24-07 BARNWOOD GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #87857e"></span>
+                        <p class="hexval">
+                            #87857e
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_5">PPU24-21 GREYHOUND</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #807c77"></span>
+                        <p class="hexval">
+                            #807c77
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_6">PPU25-10 SOFT SECRET</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #d6d4ca"></span>
+                        <p class="hexval">
+                            #d6d4ca
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_7">PPU24-12 WHITEWHASH OAK</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #cac9c0"></span>
+                        <p class="hexval">
+                            #cac9c0
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_8">PPU25-09 FOGGY LONDON</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #c3c2b8"></span>
+                        <p class="hexval">
+                            #c3c2b8
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_9">MQ6-23* PUMICE</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #bfbcb3"></span>
+                        <p class="hexval">
+                            #bfbcb3
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_10">PPU25-06 WELLS GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #b0ada0"></span>
+                        <p class="hexval">
+                            #b0ada0
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_11">PPU8-22 PIER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #88857e"></span>
+                        <p class="hexval">
+                            #88857e
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_12">HDC-AC-17A WELDED IRON</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #6f6f6d"></span>
+                        <p class="hexval">
+                            #6f6f6d
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_13">790C-3 DOLPHIN FIN</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #cccac1"></span>
+                        <p class="hexval">
+                            #cccac1
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_14">PPU25-08 HEIRLOOM SILVER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #b5b6ad"></span>
+                        <p class="hexval">
+                            #b5b6ad
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_15">PPU25-05 OLD CELADON</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #a8a89d"></span>
+                        <p class="hexval">
+                            #a8a89d
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_16">PPU24-19 SHARK FIN</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #969795"></span>
+                        <p class="hexval">
+                            #969795
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_17">PPU24-20 LETTER GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #8f8f8b"></span>
+                        <p class="hexval">
+                            #8f8f8b
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_18">PPU24-05 ANCESTRAL</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #71706c"></span>
+                        <p class="hexval">
+                            #71706c
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_19">PPU18-18 MINED COAL</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #6c6b65"></span>
+                        <p class="hexval">
+                            #6c6b65
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_20">PPU24-17 HAILSTORM GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #bdbeb9"></span>
+                        <p class="hexval">
+                            #bdbeb9
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_21">PPU24-18 GREAT GRAPHITE</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #a5a6a1"></span>
+                        <p class="hexval">
+                            #a5a6a1
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_22">PPU25-17 EURO GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #858885"></span>
+                        <p class="hexval">
+                            #858885
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_23">MQ6-20* COASTAL STORM</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #7c807b"></span>
+                        <p class="hexval">
+                            #7c807b
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_24">PPU25-03 SHADOWS</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #6b6d6a"></span>
+                        <p class="hexval">
+                            #6b6d6a
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_25">PPU25-02 BLACK LOCUST</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #646763"></span>
+                        <p class="hexval">
+                            #646763
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_26">PPU25-01 CARBON COPY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #545554"></span>
+                        <p class="hexval">
+                            #545554
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_27">710E-3 RHINO</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #bdc2b9"></span>
+                        <p class="hexval">
+                            #bdc2b9
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_28">PPU25-15 FLIPPER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #a7aba4"></span>
+                        <p class="hexval">
+                            #a7aba4
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_29">710F-4 SAGE GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #9ea49d"></span>
+                        <p class="hexval">
+                            #9ea49d
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_30">PPU25-18 SHUTTER GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #797f7d"></span>
+                        <p class="hexval">
+                            #797f7d
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_31">PPU25-20 LE LUXE</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #5e6869"></span>
+                        <p class="hexval">
+                            #5e6869
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_32">HDC-AC-25 BLUE METAL</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #5a6365"></span>
+                        <p class="hexval">
+                            #5a6365
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_33">PPU26-01 SATIN BLACK</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #4e5152"></span>
+                        <p class="hexval">
+                            #4e5152
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_34">PPU26-17 FAST AS THE WIND</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #c7cbc9"></span>
+                        <p class="hexval">
+                            #c7cbc9
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_35">HDC-NT-27 MILLENNIUM SILVER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #8c9595"></span>
+                        <p class="hexval">
+                            #8c9595
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_36">HDC-AC-23A CABANA BLUE</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #5b909a"></span>
+                        <p class="hexval">
+                            #5b909a
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_37">740F-4 DARK STORM CLOUD</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #819094"></span>
+                        <p class="hexval">
+                            #819094
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_38">PPU25-19 OCEAN SWELL</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #727c7e"></span>
+                        <p class="hexval">
+                            #727c7e
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_39">PPU25-21 CITY RAIN</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #525c61"></span>
+                        <p class="hexval">
+                            #525c61
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_40">PPU25-22 CHIMNEY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #4a5257"></span>
+                        <p class="hexval">
+                            #4a5257
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_41">PPU25-23 WINTER WAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #3e474c"></span>
+                        <p class="hexval">
+                            #3e474c
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_42">PPU26-12 SOLEMN SILENCE</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #d3d8d8"></span>
+                        <p class="hexval">
+                            #d3d8d8
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_43">780E-3 STERLING</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #d1d4d1"></span>
+                        <p class="hexval">
+                            #d1d4d1
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_44">PPU26-16 SILVER MINE</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #bec2c1"></span>
+                        <p class="hexval">
+                            #bec2c1
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_45">PPU26-18 SILVER MINE</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #bec2c1"></span>
+                        <p class="hexval">
+                            #bec2c1
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_46">PPU25-16 CHAIN REACTION</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #a4a6a4"></span>
+                        <p class="hexval">
+                            #a4a6a4
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_47">MQ5-28* DAWN GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #6d7273"></span>
+                        <p class="hexval">
+                            #6d7273
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_48">PPU24-23 LITTLE BLACK DRESS</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #43484b"></span>
+                        <p class="hexval">
+                            #43484b
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_49">MQ5-31* DISTANT STAR</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #bac1c3"></span>
+                        <p class="hexval">
+                            #bac1c3
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_50">PPU26-19 CHANCE OF RAIN</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #a0a6a9"></span>
+                        <p class="hexval">
+                            #a0a6a9
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_51">MQ5-22* RAINMASTER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #9ca4a9"></span>
+                        <p class="hexval">
+                            #9ca4a9
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_52">PPU26-21 OVERCAST</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #858a8e"></span>
+                        <p class="hexval">
+                            #858a8e
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_53">PPU26-22 SUMMER STORM</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #656d74"></span>
+                        <p class="hexval">
+                            #656d74
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_54">PPU18-02 PENCIL POINT</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #595d61"></span>
+                        <p class="hexval">
+                            #595d61
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_55">PPU15-20 POPPY SEED</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #4a4e54"></span>
+                        <p class="hexval">
+                            #4a4e54
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_56">MQ3-27* ETCHED GLASS</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #dde2e2"></span>
+                        <p class="hexval">
+                            #dde2e2
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_57">PPU26-14 DRIZZLE</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #d9dcdb"></span>
+                        <p class="hexval">
+                            #d9dcdb
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_58">PPU18-05 FRENCH SILVER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #b8bcbc"></span>
+                        <p class="hexval">
+                            #b8bcbc
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_59">PPU26-05 FLINT GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #8f9395"></span>
+                        <p class="hexval">
+                            #8f9395
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_60">PPU18-03 ANTIQUE TIN</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #6e7173"></span>
+                        <p class="hexval">
+                            #6e7173
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_61">PPU26-02 IMPERIAL GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #676a6a"></span>
+                        <p class="hexval">
+                            #676a6a
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_62">Black Black</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #3f3f3f"></span>
+                        <p class="hexval">
+                            #3f3f3f
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_63">PPU26-11 PLATINUM</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #d1d4d1"></span>
+                        <p class="hexval">
+                            #d1d4d1
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_64">PPU18-11 CLASSIC SILVER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #b9b9b4"></span>
+                        <p class="hexval">
+                            #b9b9b4
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_65">PPU26-06 ELEMENTAL GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #a0a09f"></span>
+                        <p class="hexval">
+                            #a0a09f
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_66">MQ6-22* GATEWAY GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #a0a09c"></span>
+                        <p class="hexval">
+                            #a0a09c
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_67">PPU26-03 LEGENDARY GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #7f8384"></span>
+                        <p class="hexval">
+                            #7f8384
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_68">770F-5 DARK ASH</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #6a6d6d"></span>
+                        <p class="hexval">
+                            #6a6d6d
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_69">PPU26-23 BLACK BOUDOIR</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #454749"></span>
+                        <p class="hexval">
+                            #454749
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_70">MQ3-28* ROCK CRYSTAL</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #cecbcb"></span>
+                        <p class="hexval">
+                            #cecbcb
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_71">PPU18-10 NATURAL GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #c4c0bb"></span>
+                        <p class="hexval">
+                            #c4c0bb
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_72">780F-4 SPARROW</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #b0b0af"></span>
+                        <p class="hexval">
+                            #b0b0af
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_73">PPU18-14 CATHEDRAL GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #acaaa7"></span>
+                        <p class="hexval">
+                            #acaaa7
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_74">PPU18-15 FASHION GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #a29c94"></span>
+                        <p class="hexval">
+                            #a29c94
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_75">PPU26-04 FALCON GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #898887"></span>
+                        <p class="hexval">
+                            #898887
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_76">PPU18-01 CRACKED PEPPER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #4f5152"></span>
+                        <p class="hexval">
+                            #4f5152
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_77">PPU26-15 HALATION</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #d1d1ce"></span>
+                        <p class="hexval">
+                            #d1d1ce
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_78">PPU26-09 GRAYCLOTH</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #ccc9c5"></span>
+                        <p class="hexval">
+                            #ccc9c5
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_79">PPU26-08 SIVERSTONE</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #b1b3b3"></span>
+                        <p class="hexval">
+                            #b1b3b3
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_80">PPU26-07 SMOKEY WINGS</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #a7a5a3"></span>
+                        <p class="hexval">
+                            #a7a5a3
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_81">HDC-NT-10A DOLPHIN GRAY</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #9a9997"></span>
+                        <p class="hexval">
+                            #9a9997
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_82">PPU24-22 SHADOW MOUNTAIN</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #585858"></span>
+                        <p class="hexval">
+                            #585858
+                        </p>
+                    </div>
+                
+                    <div class="colorcol">
+                        <p class="swatchname">
+                            <span id="colorlist_Sname_83">MQ5-05* LIMOUSINE LEATHER</span>
+                        </p>
+                        <span class="sampleswatch" style="background-color: #3b3c3b"></span>
+                        <p class="hexval">
+                            #3b3c3b
+                        </p>
+                    </div>
+                
+        </div>
+        <div id="partingcomments">
+            <p>
+                <em>Adobe</em> is a registered trademark of Adobe Systems Incorporated. <em>Expression</em> is a registered trademark of Microsoft Incorporated.
+ 		        By using this utility you agree to the following terms and conditions: the utility is provided as-is with no warranties nor guarantees. This utility
+		        is not associated nor endorsed by Adobe Systems, Microsoft, or any of their affiliates.
+            </p>
+        </div>
+    </div>
+
+
+</body></html>
