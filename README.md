@@ -5,13 +5,16 @@ Extract paint from key distributors and find best correlating pairs
 [findapaint.com](http://findapaint.com/)
 
 ## Build Instructions
-Check out the [wiki](https://github.com/ab12gu/paint-comparision/wiki)
-install `poetry`
-navigate to poetry folder `.\poetry\`
-run shell `poetry shell`
-install dependencies `poetry install`
-navigate to root `.\..\`
-run app `python3 run.py`
+- Check out the [wiki](https://github.com/ab12gu/paint-comparision/wiki)
+- install `poetry`
+- navigate to poetry folder `.\poetry\`
+- run shell `poetry shell`
+- install dependencies `poetry install`
+- navigate to root `.\..\`
+- run app `python3 run.py`
+
+## Run website locally
+Open `docs\index.html`
 
 ## Paint Company List
 - Sherwin Williams
