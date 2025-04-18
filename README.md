@@ -1,5 +1,5 @@
 # paint-comparison
-Extract paint from key distributors and find best correlating pairs
+Match paint colors from different manufacturers 
 
 ## Website
 [findapaint.com](http://findapaint.com/)
